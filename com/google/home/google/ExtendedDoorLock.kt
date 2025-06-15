@@ -1,0 +1,276 @@
+// IntelliJ API Decompiler stub source generated from a class file
+// Implementation of methods is not available
+
+package com.google.home.google
+
+public interface ExtendedDoorLock : com.google.home.google.ExtendedDoorLockTrait.Attributes, com.google.home.matter.MatterTrait, com.google.home.Updatable<com.google.home.google.ExtendedDoorLock, com.google.home.google.ExtendedDoorLockTrait.MutableAttributes> {
+    public companion object : com.google.home.TraitFactory<com.google.home.google.ExtendedDoorLock> {
+        public final val enableLockHomeAwayAssist: com.google.home.automation.Attribute<kotlin.Boolean?> /* compiled code */
+            public final get
+
+        public final val ignoreAutoRelockOnStructureMode: com.google.home.automation.Attribute<kotlin.collections.List<com.google.home.google.ExtendedDoorLockTrait.StructureMode>?> /* compiled code */
+            public final get
+
+        public final val generatedCommandList: com.google.home.automation.Attribute<kotlin.collections.List<kotlin.UInt>> /* compiled code */
+            public final get
+
+        public final val acceptedCommandList: com.google.home.automation.Attribute<kotlin.collections.List<kotlin.UInt>> /* compiled code */
+            public final get
+
+        public final val attributeList: com.google.home.automation.Attribute<kotlin.collections.List<kotlin.UInt>> /* compiled code */
+            public final get
+
+        public final val featureMap: com.google.home.automation.Attribute<kotlin.UInt> /* compiled code */
+            public final get
+
+        public final val clusterRevision: com.google.home.automation.Attribute<kotlin.UShort> /* compiled code */
+            public final get
+
+        public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock?>.enableLockHomeAwayAssist: com.google.home.automation.TypedExpression<kotlin.Boolean?> /* compiled code */
+            public final get
+
+        public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock?>.ignoreAutoRelockOnStructureMode: com.google.home.automation.TypedExpression<kotlin.collections.List<com.google.home.google.ExtendedDoorLockTrait.StructureMode>?> /* compiled code */
+            public final get
+
+        public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock?>.generatedCommandList: com.google.home.automation.TypedExpression<kotlin.collections.List<kotlin.UInt>> /* compiled code */
+            public final get
+
+        public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock?>.acceptedCommandList: com.google.home.automation.TypedExpression<kotlin.collections.List<kotlin.UInt>> /* compiled code */
+            public final get
+
+        public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock?>.attributeList: com.google.home.automation.TypedExpression<kotlin.collections.List<kotlin.UInt>> /* compiled code */
+            public final get
+
+        public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock?>.featureMap: com.google.home.automation.TypedExpression<kotlin.UInt> /* compiled code */
+            public final get
+
+        public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock?>.clusterRevision: com.google.home.automation.TypedExpression<kotlin.UShort> /* compiled code */
+            public final get
+
+        public final fun @receiver:androidx.annotation.NonNull com.google.home.automation.Updater<com.google.home.google.ExtendedDoorLock>.setEnableLockHomeAwayAssist(value: kotlin.Boolean): kotlin.Unit { /* compiled code */ }
+
+        public final fun @receiver:androidx.annotation.NonNull com.google.home.automation.Updater<com.google.home.google.ExtendedDoorLock>.setIgnoreAutoRelockOnStructureMode(value: kotlin.collections.List<com.google.home.google.ExtendedDoorLockTrait.StructureMode>): kotlin.Unit { /* compiled code */ }
+
+        @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable public open fun getAttributeById(tagId: kotlin.UInt): com.google.home.Field? { /* compiled code */ }
+
+        @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable public open fun getAttributeByName(name: kotlin.String): com.google.home.Field? { /* compiled code */ }
+
+        public open fun toString(): kotlin.String { /* compiled code */ }
+    }
+
+    public open val factory: com.google.home.TraitFactory<com.google.home.google.ExtendedDoorLock> /* compiled code */
+        public open get
+
+    public abstract fun supports(attribute: com.google.home.google.ExtendedDoorLock.Attribute): kotlin.Boolean
+
+    public final enum class Attribute private constructor(fieldName: kotlin.String, tag: kotlin.UInt, typeName: kotlin.String, typeEnum: com.google.home.Type, descriptor: com.google.home.Descriptor, isNullable: kotlin.Boolean) : com.google.home.Field, kotlin.Enum<com.google.home.google.ExtendedDoorLock.Attribute> {
+        @androidx.annotation.NonNull enableLockHomeAwayAssist,
+
+        @androidx.annotation.NonNull ignoreAutoRelockOnStructureMode,
+
+        @androidx.annotation.NonNull generatedCommandList,
+
+        @androidx.annotation.NonNull acceptedCommandList,
+
+        @androidx.annotation.NonNull attributeList,
+
+        @androidx.annotation.NonNull featureMap,
+
+        @androidx.annotation.NonNull clusterRevision;
+
+        public companion object {
+            public final val StructDescriptor: com.google.home.StructDescriptor /* compiled code */
+        }
+
+        public open val fieldName: kotlin.String /* compiled code */
+
+        public open val tag: kotlin.UInt /* compiled code */
+
+        public open val typeName: kotlin.String /* compiled code */
+
+        public open val typeEnum: com.google.home.Type /* compiled code */
+
+        public open val descriptor: com.google.home.Descriptor /* compiled code */
+
+        public final val isNullable: kotlin.Boolean /* compiled code */
+    }
+
+    public final class LockStateChangeEvent private constructor(eventName: kotlin.String = COMPILED_CODE, timestampInMs: kotlin.Long, eventImportance: com.google.home.EventImportance, eventNumber: kotlin.ULong, eventPayload: com.google.home.google.ExtendedDoorLockTrait.LockStateChange) : com.google.home.Event, com.google.home.google.ExtendedDoorLockTrait.LockStateChange {
+        public companion object : com.google.home.EventFactory<com.google.home.google.ExtendedDoorLock.LockStateChangeEvent> {
+            public final val priority: com.google.home.automation.EventField<kotlin.UInt?> /* compiled code */
+                public final get
+
+            public final val lock_operation_type: com.google.home.automation.EventField<com.google.home.google.ExtendedDoorLockTrait.LockOperationTypeEnum?> /* compiled code */
+                public final get
+
+            public final val lock_operation_source: com.google.home.automation.EventField<com.google.home.google.ExtendedDoorLockTrait.LockOperationSourceEnum?> /* compiled code */
+                public final get
+
+            public final val user_index: com.google.home.automation.EventField<kotlin.UInt?> /* compiled code */
+                public final get
+
+            public final val user_id: com.google.home.automation.EventField<kotlin.Long?> /* compiled code */
+                public final get
+
+            public final val fabric_index: com.google.home.automation.EventField<kotlin.UInt?> /* compiled code */
+                public final get
+
+            public final val actor_name: com.google.home.automation.EventField<kotlin.String?> /* compiled code */
+                public final get
+
+            public final val timeStampSeconds: com.google.home.automation.EventField<kotlin.Long?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.LockStateChangeEvent?>.priority: com.google.home.automation.TypedExpression<kotlin.UInt?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.LockStateChangeEvent?>.lock_operation_type: com.google.home.automation.TypedExpression<com.google.home.google.ExtendedDoorLockTrait.LockOperationTypeEnum?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.LockStateChangeEvent?>.lock_operation_source: com.google.home.automation.TypedExpression<com.google.home.google.ExtendedDoorLockTrait.LockOperationSourceEnum?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.LockStateChangeEvent?>.user_index: com.google.home.automation.TypedExpression<kotlin.UInt?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.LockStateChangeEvent?>.user_id: com.google.home.automation.TypedExpression<kotlin.Long?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.LockStateChangeEvent?>.fabric_index: com.google.home.automation.TypedExpression<kotlin.UInt?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.LockStateChangeEvent?>.actor_name: com.google.home.automation.TypedExpression<kotlin.String?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.LockStateChangeEvent?>.timeStampSeconds: com.google.home.automation.TypedExpression<kotlin.Long?> /* compiled code */
+                public final get
+
+            public open fun getEventFieldById(tagId: kotlin.UInt): com.google.home.Field? { /* compiled code */ }
+        }
+
+        public open val eventName: kotlin.String /* compiled code */
+
+        private final val timestampInMs: kotlin.Long /* compiled code */
+
+        public open val eventImportance: com.google.home.EventImportance /* compiled code */
+
+        public open val eventNumber: kotlin.ULong /* compiled code */
+
+        private final val eventPayload: com.google.home.google.ExtendedDoorLockTrait.LockStateChange /* compiled code */
+
+        public open val eventId: com.google.home.Id /* compiled code */
+
+        public open val timestamp: java.time.Instant /* compiled code */
+
+        public open val actor_name: kotlin.String? /* compiled code */
+
+        public open val fabric_index: kotlin.UInt? /* compiled code */
+
+        public open val lock_operation_source: com.google.home.google.ExtendedDoorLockTrait.LockOperationSourceEnum? /* compiled code */
+
+        public open val lock_operation_type: com.google.home.google.ExtendedDoorLockTrait.LockOperationTypeEnum? /* compiled code */
+
+        public open val priority: kotlin.UInt? /* compiled code */
+
+        public open val timeStampSeconds: kotlin.Long? /* compiled code */
+
+        public open val user_id: kotlin.Long? /* compiled code */
+
+        public open val user_index: kotlin.UInt? /* compiled code */
+
+        public open operator fun equals(other: kotlin.Any?): kotlin.Boolean { /* compiled code */ }
+
+        public open fun hashCode(): kotlin.Int { /* compiled code */ }
+
+        public final enum class EventFields private constructor(fieldName: kotlin.String, tag: kotlin.UInt, typeName: kotlin.String, typeEnum: com.google.home.Type, descriptor: com.google.home.Descriptor, isNullable: kotlin.Boolean) : com.google.home.Field, kotlin.Enum<com.google.home.google.ExtendedDoorLock.LockStateChangeEvent.EventFields> {
+            @androidx.annotation.NonNull priority,
+
+            @androidx.annotation.NonNull lock_operation_type,
+
+            @androidx.annotation.NonNull lock_operation_source,
+
+            @androidx.annotation.NonNull user_index,
+
+            @androidx.annotation.NonNull user_id,
+
+            @androidx.annotation.NonNull fabric_index,
+
+            @androidx.annotation.NonNull actor_name,
+
+            @androidx.annotation.NonNull timeStampSeconds;
+
+            public companion object {
+                public final val StructDescriptor: com.google.home.StructDescriptor /* compiled code */
+            }
+
+            public open val fieldName: kotlin.String /* compiled code */
+
+            public open val tag: kotlin.UInt /* compiled code */
+
+            public open val typeName: kotlin.String /* compiled code */
+
+            public open val typeEnum: com.google.home.Type /* compiled code */
+
+            public open val descriptor: com.google.home.Descriptor /* compiled code */
+
+            public final val isNullable: kotlin.Boolean /* compiled code */
+        }
+    }
+
+    public final class PrivacyModeStateChangeEvent private constructor(eventName: kotlin.String = COMPILED_CODE, timestampInMs: kotlin.Long, eventImportance: com.google.home.EventImportance, eventNumber: kotlin.ULong, eventPayload: com.google.home.google.ExtendedDoorLockTrait.PrivacyModeStateChange) : com.google.home.Event, com.google.home.google.ExtendedDoorLockTrait.PrivacyModeStateChange {
+        public companion object : com.google.home.EventFactory<com.google.home.google.ExtendedDoorLock.PrivacyModeStateChangeEvent> {
+            public final val privacy_mode_on: com.google.home.automation.EventField<kotlin.Boolean?> /* compiled code */
+                public final get
+
+            public final val @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out com.google.home.google.ExtendedDoorLock.PrivacyModeStateChangeEvent?>.privacy_mode_on: com.google.home.automation.TypedExpression<kotlin.Boolean?> /* compiled code */
+                public final get
+
+            public open fun getEventFieldById(tagId: kotlin.UInt): com.google.home.Field? { /* compiled code */ }
+        }
+
+        public open val eventName: kotlin.String /* compiled code */
+
+        private final val timestampInMs: kotlin.Long /* compiled code */
+
+        public open val eventImportance: com.google.home.EventImportance /* compiled code */
+
+        public open val eventNumber: kotlin.ULong /* compiled code */
+
+        private final val eventPayload: com.google.home.google.ExtendedDoorLockTrait.PrivacyModeStateChange /* compiled code */
+
+        public open val eventId: com.google.home.Id /* compiled code */
+
+        public open val timestamp: java.time.Instant /* compiled code */
+
+        public open val privacy_mode_actor: com.google.home.google.ExtendedDoorLockTrait.PrivacyModeActor? /* compiled code */
+
+        public open val privacy_mode_on: kotlin.Boolean? /* compiled code */
+
+        public open operator fun equals(other: kotlin.Any?): kotlin.Boolean { /* compiled code */ }
+
+        public open fun hashCode(): kotlin.Int { /* compiled code */ }
+
+        public final enum class EventFields private constructor(fieldName: kotlin.String, tag: kotlin.UInt, typeName: kotlin.String, typeEnum: com.google.home.Type, descriptor: com.google.home.Descriptor, isNullable: kotlin.Boolean) : com.google.home.Field, kotlin.Enum<com.google.home.google.ExtendedDoorLock.PrivacyModeStateChangeEvent.EventFields> {
+            @androidx.annotation.NonNull privacy_mode_on,
+
+            @androidx.annotation.NonNull privacy_mode_actor;
+
+            public companion object {
+                public final val StructDescriptor: com.google.home.StructDescriptor /* compiled code */
+            }
+
+            public open val fieldName: kotlin.String /* compiled code */
+
+            public open val tag: kotlin.UInt /* compiled code */
+
+            public open val typeName: kotlin.String /* compiled code */
+
+            public open val typeEnum: com.google.home.Type /* compiled code */
+
+            public open val descriptor: com.google.home.Descriptor /* compiled code */
+
+            public final val isNullable: kotlin.Boolean /* compiled code */
+        }
+    }
+}
+
