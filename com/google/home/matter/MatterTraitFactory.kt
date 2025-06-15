@@ -29,4 +29,3 @@ public final class MatterTraitFactory<T : com.google.home.matter.MatterTrait, A 
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

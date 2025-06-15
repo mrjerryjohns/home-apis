@@ -85,4 +85,3 @@ public interface MatterUpgradable : com.google.home.google.MatterUpgradableTrait
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

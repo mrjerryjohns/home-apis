@@ -103,4 +103,3 @@ public interface TimeFormatLocalization : com.google.home.matter.standard.TimeFo
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

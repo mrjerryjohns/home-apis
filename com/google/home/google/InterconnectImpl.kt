@@ -40,4 +40,3 @@ public final class InterconnectImpl public constructor(metadata: com.google.home
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -83,4 +83,3 @@ public interface DeviceConnectivity : com.google.home.google.DeviceConnectivityT
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

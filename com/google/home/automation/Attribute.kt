@@ -14,4 +14,3 @@ package com.google.home.automation
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

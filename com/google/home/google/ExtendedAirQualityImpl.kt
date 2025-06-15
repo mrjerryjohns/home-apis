@@ -40,4 +40,3 @@ public final class ExtendedAirQualityImpl public constructor(metadata: com.googl
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

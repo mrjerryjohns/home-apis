@@ -20,4 +20,3 @@ public interface GeneralCommissioningCommandsDefaultImpl : com.google.home.matte
 
     public open fun setTcAcknowledgementsBatchable(tcVersion: kotlin.UShort, tcUserResponse: kotlin.UShort): com.google.home.BatchableCommand<com.google.home.matter.standard.GeneralCommissioningTrait.SetTcAcknowledgementsCommand.Response> { /* compiled code */ }
 }
-

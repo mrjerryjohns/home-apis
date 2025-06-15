@@ -5,4 +5,3 @@ package com.google.home.automation
 
 @kotlin.DslMarker public final annotation class AutomationDsl public constructor() : kotlin.Annotation {
 }
-

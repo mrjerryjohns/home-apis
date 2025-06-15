@@ -8,4 +8,3 @@ public interface SimplifiedThermostatCommands {
 
     public abstract fun setSystemModeBatchable(systemMode: com.google.home.google.SimplifiedThermostatTrait.SystemModeEnum): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

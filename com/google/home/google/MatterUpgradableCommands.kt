@@ -8,4 +8,3 @@ public interface MatterUpgradableCommands {
 
     public abstract fun initiateMatterUpgradeBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

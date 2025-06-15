@@ -15,4 +15,3 @@ public final class EnumAdapter<RUNTIME : com.google.home.matter.serialization.Cl
 
     public open fun toRaw(value: RUNTIME): kotlin.ULong { /* compiled code */ }
 }
-

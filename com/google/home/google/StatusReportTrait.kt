@@ -112,4 +112,3 @@ public object StatusReportTrait {
         public final fun copy(currentStatusReports: kotlin.collections.List<com.google.home.google.StatusReportTrait.CurrentStatusReport>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.StatusReportTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

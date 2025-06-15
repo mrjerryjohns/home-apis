@@ -25,4 +25,3 @@ public object ListTypeKt {
         public final fun hasElementType(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

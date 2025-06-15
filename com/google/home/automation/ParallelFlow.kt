@@ -18,4 +18,3 @@ public final class ParallelFlow : com.google.home.automation.Node {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

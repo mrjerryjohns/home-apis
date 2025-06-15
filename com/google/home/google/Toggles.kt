@@ -99,4 +99,3 @@ public interface Toggles : com.google.home.google.TogglesTrait.Attributes, com.g
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

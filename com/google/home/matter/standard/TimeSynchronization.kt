@@ -439,4 +439,3 @@ public interface TimeSynchronization : com.google.home.matter.standard.TimeSynch
         }
     }
 }
-

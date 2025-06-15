@@ -80,4 +80,3 @@ public interface ColorControlCommands {
 
     public abstract fun stepColorTemperatureBatchable(stepMode: com.google.home.matter.standard.ColorControlTrait.StepModeEnum, stepSize: kotlin.UShort, transitionTime: kotlin.UShort, colorTemperatureMinimumMireds: kotlin.UShort, colorTemperatureMaximumMireds: kotlin.UShort, optionsMask: com.google.home.matter.standard.ColorControlTrait.OptionsBitmap, optionsOverride: com.google.home.matter.standard.ColorControlTrait.OptionsBitmap): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

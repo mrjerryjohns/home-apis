@@ -12,4 +12,3 @@ public interface ExtendedFanControlCommandsDefaultImpl : com.google.home.google.
 
     public open fun toggleAirflowDirectionBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

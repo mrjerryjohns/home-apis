@@ -70,4 +70,3 @@ public final class AutomationEntityTrait public constructor() {
         public open fun hashCode(): kotlin.Int { /* compiled code */ }
     }
 }
-

@@ -24,4 +24,3 @@ public interface BaseAutomation {
     public abstract val firstPartyClientMetadata: com.google.home.platform.traits.FirstPartyClientMetadata?
         public abstract @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable get
 }
-

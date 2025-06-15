@@ -12,4 +12,3 @@ public interface PushAvStreamTransportCommandsDefaultImpl : com.google.home.goog
 
     public open fun findTransportBatchable(optionalArgs: com.google.home.google.PushAvStreamTransportTrait.FindTransportCommand.OptionalArgs.() -> kotlin.Unit): com.google.home.BatchableCommand<com.google.home.google.PushAvStreamTransportTrait.FindTransportCommand.Response> { /* compiled code */ }
 }
-

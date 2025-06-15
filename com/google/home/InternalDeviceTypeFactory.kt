@@ -5,4 +5,3 @@ package com.google.home
 
 public interface InternalDeviceTypeFactory<T : com.google.home.DeviceType> : com.google.home.InternalTypeFactory<T> {
 }
-

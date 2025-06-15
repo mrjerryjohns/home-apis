@@ -18,4 +18,3 @@ public final class GetDevicesOfType : com.google.home.automation.ExpressionWithI
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

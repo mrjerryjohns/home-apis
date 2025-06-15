@@ -157,4 +157,3 @@ public interface ExtendedColorControl : com.google.home.google.ExtendedColorCont
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

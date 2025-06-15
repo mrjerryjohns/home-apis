@@ -16,4 +16,3 @@ public sealed interface NodeCandidate {
 
     public abstract val unsupportedReasons: kotlin.collections.List<com.google.home.automation.UnsupportedCandidateReason>
 }
-

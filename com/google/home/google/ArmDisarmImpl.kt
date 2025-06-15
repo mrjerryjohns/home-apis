@@ -46,4 +46,3 @@ public final class ArmDisarmImpl public constructor(metadata: com.google.home.Tr
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

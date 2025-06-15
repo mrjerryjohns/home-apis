@@ -12,4 +12,3 @@ public interface MatterTraitClient : com.google.home.TraitStateInvalidation {
 
     public abstract fun strictOperationValidation(): kotlin.Boolean
 }
-

@@ -10,4 +10,3 @@ public abstract class ClusterBitmap public constructor(traitId: kotlin.String, b
 
     public abstract fun toRaw(): kotlin.ULong
 }
-

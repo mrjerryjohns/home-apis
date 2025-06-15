@@ -26,4 +26,3 @@ public final class PlatformTraitFactory<T : com.google.home.google.PlatformTrait
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

@@ -4,4 +4,3 @@
 package com.google.home.matter
 
 public typealias NoResponseAdapter = com.google.home.matter.NoOpAdapter
-

@@ -8,4 +8,3 @@ internal fun <T> constant(constantValue: T): com.google.home.automation.TypedExp
 public fun constant(constantValue: java.time.LocalTime): com.google.home.automation.TypedExpression<java.time.LocalTime> { /* compiled code */ }
 
 public fun constant(constantValue: java.time.Duration): com.google.home.automation.TypedExpression<java.time.Duration> { /* compiled code */ }
-

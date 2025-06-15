@@ -50,7 +50,8 @@ public object LaundryDryerControlsTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(supportedDrynessLevels: kotlin.collections.List<com.google.home.matter.standard.LaundryDryerControlsTrait.DrynessLevelEnum>? = COMPILED_CODE, selectedDrynessLevel: com.google.home.matter.standard.LaundryDryerControlsTrait.DrynessLevelEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.LaundryDryerControlsTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.LaundryDryerControlsTrait.Attributes, com.google.home.matter.standard.LaundryDryerControlsTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(supportedDrynessLevels: kotlin.collections.List<com.google.home.matter.standard.LaundryDryerControlsTrait.DrynessLevelEnum>? = COMPILED_CODE, selectedDrynessLevel: com.google.home.matter.standard.LaundryDryerControlsTrait.DrynessLevelEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.LaundryDryerControlsTrait.Attributes,
+        com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.LaundryDryerControlsTrait.Attributes, com.google.home.matter.standard.LaundryDryerControlsTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.LaundryDryerControlsTrait.Attributes.Adapter /* compiled code */
         }
@@ -103,4 +104,3 @@ public object LaundryDryerControlsTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

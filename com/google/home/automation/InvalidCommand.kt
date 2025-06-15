@@ -12,4 +12,3 @@ public final class InvalidCommand public constructor(node: com.google.home.autom
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

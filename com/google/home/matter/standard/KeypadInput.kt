@@ -85,4 +85,3 @@ public interface KeypadInput : com.google.home.matter.standard.KeypadInputTrait.
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

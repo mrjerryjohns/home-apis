@@ -8,4 +8,3 @@ public infix fun @receiver:androidx.annotation.NonNull com.google.home.automatio
 public infix fun @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<kotlin.Boolean>.or(other: com.google.home.automation.TypedExpression<kotlin.Boolean>): com.google.home.automation.TypedExpression<kotlin.Boolean> { /* compiled code */ }
 
 public fun not(expr: com.google.home.automation.TypedExpression<kotlin.Boolean>): com.google.home.automation.TypedExpression<kotlin.Boolean> { /* compiled code */ }
-

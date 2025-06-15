@@ -8,4 +8,3 @@ public object ModeSettingSerializer : com.google.home.matter.serialization.Value
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): com.google.home.google.ExtendedModeSelectTrait.ModeSetting { /* compiled code */ }
 }
-

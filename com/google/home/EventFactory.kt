@@ -10,4 +10,3 @@ public open class EventFactory<T : com.google.home.Event> public constructor(fac
 
     @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable public open fun getEventFieldByName(name: kotlin.String): com.google.home.Field? { /* compiled code */ }
 }
-

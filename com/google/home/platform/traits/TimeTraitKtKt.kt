@@ -46,4 +46,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.TimeTrait.RecurringSolarTimeScheduledEvent.copy(block: com.google.home.platform.traits.TimeTraitKt.RecurringSolarTimeScheduledEventKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.TimeTrait.RecurringSolarTimeScheduledEvent { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.TimeTrait.SolarTime.copy(block: com.google.home.platform.traits.TimeTraitKt.SolarTimeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.TimeTrait.SolarTime { /* compiled code */ }
-

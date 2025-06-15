@@ -40,4 +40,3 @@ public final class RelativeHumidityControlImpl public constructor(metadata: com.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

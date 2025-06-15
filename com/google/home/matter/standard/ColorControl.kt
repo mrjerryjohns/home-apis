@@ -599,4 +599,3 @@ public interface ColorControl : com.google.home.matter.standard.ColorControlTrai
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

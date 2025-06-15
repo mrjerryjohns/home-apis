@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun stringConstraint(block: com.google.home.platform.traits.StringConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.StringConstraint { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.StringConstraint.copy(block: com.google.home.platform.traits.StringConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.StringConstraint { /* compiled code */ }
-

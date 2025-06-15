@@ -16,4 +16,3 @@ public interface ExtendedApplicationLauncherCommandsDefaultImpl : com.google.hom
 
     public open fun launchAppBatchable(newApplicationName: kotlin.String, newApplication: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

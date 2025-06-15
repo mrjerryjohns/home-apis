@@ -218,4 +218,3 @@ public object ClipTrait {
         }
     }
 }
-

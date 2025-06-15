@@ -14,4 +14,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.MapValue.copy(block: com.google.home.platform.traits.MapValueKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.MapValue { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.MapValue.Entry.copy(block: com.google.home.platform.traits.MapValueKt.EntryKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.MapValue.Entry { /* compiled code */ }
-

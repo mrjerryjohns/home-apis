@@ -42,4 +42,3 @@ public final class RotationImpl public constructor(metadata: com.google.home.Tra
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

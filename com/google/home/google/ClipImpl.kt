@@ -42,4 +42,3 @@ public final class ClipImpl public constructor(metadata: com.google.home.Trait.T
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

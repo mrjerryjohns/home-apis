@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun areaAttendanceStateTrait(block: com.google.home.platform.traits.AreaAttendanceStateTraitKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AreaAttendanceStateTrait { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AreaAttendanceStateTrait.copy(block: com.google.home.platform.traits.AreaAttendanceStateTraitKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AreaAttendanceStateTrait { /* compiled code */ }
-

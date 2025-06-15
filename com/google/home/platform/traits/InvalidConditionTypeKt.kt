@@ -36,4 +36,3 @@ public object InvalidConditionTypeKt {
         public final fun hasActual(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

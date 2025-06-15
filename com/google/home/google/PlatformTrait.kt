@@ -18,4 +18,3 @@ public abstract class PlatformTrait public constructor(metadata: com.google.home
 
     protected final suspend fun sendCommand(commandId: kotlin.String /* from: com.google.home.google.CommandId */): kotlin.Unit { /* compiled code */ }
 }
-

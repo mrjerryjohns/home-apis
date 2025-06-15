@@ -93,4 +93,3 @@ public interface Pairable : com.google.home.google.PairableTrait.Attributes, com
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

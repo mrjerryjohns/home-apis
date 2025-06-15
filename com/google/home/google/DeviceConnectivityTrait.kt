@@ -54,4 +54,3 @@ public object DeviceConnectivityTrait {
         public final fun copy(lastCheckInTimeSeconds: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.DeviceConnectivityTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

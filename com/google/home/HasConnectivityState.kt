@@ -14,4 +14,3 @@ public interface HasConnectivityState {
 
     public abstract val sourceConnectivity: com.google.home.SourceConnectivity
 }
-

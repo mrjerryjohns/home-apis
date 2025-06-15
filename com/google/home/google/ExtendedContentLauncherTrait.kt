@@ -188,4 +188,3 @@ public object ExtendedContentLauncherTrait {
         }
     }
 }
-

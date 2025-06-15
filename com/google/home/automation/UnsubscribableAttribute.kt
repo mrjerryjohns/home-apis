@@ -12,4 +12,3 @@ public final class UnsubscribableAttribute public constructor(node: com.google.h
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

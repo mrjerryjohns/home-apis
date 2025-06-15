@@ -52,4 +52,3 @@ public final class ExtendedPowerSourceImpl public constructor(metadata: com.goog
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

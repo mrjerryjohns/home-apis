@@ -83,4 +83,3 @@ public interface SoundSensing : com.google.home.google.SoundSensingTrait.Attribu
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

@@ -40,4 +40,3 @@ public final class RecordImpl public constructor(metadata: com.google.home.Trait
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

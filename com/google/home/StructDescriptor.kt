@@ -9,4 +9,3 @@ public interface StructDescriptor : com.google.home.Descriptor {
 
     @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable public open fun getFieldById(tagId: kotlin.UInt /* from: com.google.home.TagId */): com.google.home.Field? { /* compiled code */ }
 }
-

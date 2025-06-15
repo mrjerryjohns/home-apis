@@ -412,4 +412,3 @@ public object NetworkIdentityManagementTrait {
         }
     }
 }
-

@@ -84,4 +84,3 @@ public object StructValueKt {
         }
     }
 }
-

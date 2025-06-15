@@ -32,4 +32,3 @@ public final class ThermostatUserInterfaceConfigurationImpl public constructor(m
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

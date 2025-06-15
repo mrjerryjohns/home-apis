@@ -749,4 +749,3 @@ public interface EnergyEvse : com.google.home.matter.standard.EnergyEvseTrait.At
         }
     }
 }
-

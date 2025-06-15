@@ -26,4 +26,3 @@ public final class AirQualityImpl public constructor(metadata: com.google.home.T
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

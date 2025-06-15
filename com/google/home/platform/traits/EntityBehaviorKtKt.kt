@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun entityBehavior(block: com.google.home.platform.traits.EntityBehaviorKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.EntityBehavior { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.EntityBehavior.copy(block: com.google.home.platform.traits.EntityBehaviorKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.EntityBehavior { /* compiled code */ }
-

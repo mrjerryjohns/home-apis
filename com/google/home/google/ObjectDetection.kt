@@ -141,4 +141,3 @@ public interface ObjectDetection : com.google.home.google.ObjectDetectionTrait.A
         }
     }
 }
-

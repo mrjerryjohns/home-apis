@@ -16,4 +16,3 @@ public final class SequentialFlow : com.google.home.automation.Node {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

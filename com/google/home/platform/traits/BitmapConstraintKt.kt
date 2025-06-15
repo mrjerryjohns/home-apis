@@ -38,4 +38,3 @@ public object BitmapConstraintKt {
         }
     }
 }
-

@@ -75,4 +75,3 @@ public interface Cast : com.google.home.google.CastTrait.Attributes, com.google.
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

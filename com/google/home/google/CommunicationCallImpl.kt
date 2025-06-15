@@ -26,4 +26,3 @@ public final class CommunicationCallImpl public constructor(metadata: com.google
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

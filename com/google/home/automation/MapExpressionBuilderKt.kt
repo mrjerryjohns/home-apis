@@ -13,4 +13,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.automation.Type
     public final @com.google.android.gms.common.internal.ShowFirstParty get
 
 @com.google.android.gms.common.internal.ShowFirstParty public infix fun <K, V> @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out kotlin.collections.Map<K, V>?>.filter(body: (com.google.home.automation.TypedExpression<K>, com.google.home.automation.TypedExpression<V>) -> com.google.home.automation.TypedExpression<kotlin.Boolean>): com.google.home.automation.TypedExpression<out kotlin.collections.Map<K, V>?> { /* compiled code */ }
-

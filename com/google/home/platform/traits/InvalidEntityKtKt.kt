@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidEntity(block: com.google.home.platform.traits.InvalidEntityKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidEntity { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidEntity.copy(block: com.google.home.platform.traits.InvalidEntityKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidEntity { /* compiled code */ }
-

@@ -75,4 +75,3 @@ public interface Setup : com.google.home.google.SetupTrait.Attributes, com.googl
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

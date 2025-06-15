@@ -10,4 +10,3 @@ internal object TypedExpressions {
 
     public final fun getExpression(expression: com.google.home.automation.TypedExpression<*>): com.google.home.automation.Expression? { /* compiled code */ }
 }
-

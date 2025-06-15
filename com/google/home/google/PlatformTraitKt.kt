@@ -6,4 +6,3 @@ package com.google.home.google
 public typealias TraitId = kotlin.String
 
 public typealias CommandId = kotlin.String
-

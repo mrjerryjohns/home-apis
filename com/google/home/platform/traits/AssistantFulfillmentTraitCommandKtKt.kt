@@ -54,4 +54,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun assistantFulfillmentTraitCommand(block: com.google.home.platform.traits.AssistantFulfillmentTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AssistantFulfillmentTraitCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AssistantFulfillmentTraitCommand.copy(block: com.google.home.platform.traits.AssistantFulfillmentTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AssistantFulfillmentTraitCommand { /* compiled code */ }
-

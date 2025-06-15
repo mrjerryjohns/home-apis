@@ -6,4 +6,3 @@ package com.google.home.automation
 public sealed interface StateReaderCandidate : com.google.home.automation.NodeCandidate {
     @com.google.android.gms.common.internal.ShowFirstParty public abstract fun toStateReader(): com.google.home.automation.StateReader
 }
-

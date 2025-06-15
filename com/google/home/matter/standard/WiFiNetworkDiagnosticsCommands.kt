@@ -8,4 +8,3 @@ public interface WiFiNetworkDiagnosticsCommands {
 
     public abstract fun resetCountsBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

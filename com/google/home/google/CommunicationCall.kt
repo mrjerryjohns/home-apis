@@ -83,4 +83,3 @@ public interface CommunicationCall : com.google.home.google.CommunicationCallTra
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

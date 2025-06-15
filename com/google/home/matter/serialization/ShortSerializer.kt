@@ -8,4 +8,3 @@ public object ShortSerializer : com.google.home.matter.serialization.ValueSerial
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): kotlin.Short { /* compiled code */ }
 }
-

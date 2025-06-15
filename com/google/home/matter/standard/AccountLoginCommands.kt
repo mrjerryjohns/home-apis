@@ -16,4 +16,3 @@ public interface AccountLoginCommands {
 
     public abstract fun logoutBatchable(optionalArgs: com.google.home.matter.standard.AccountLoginTrait.LogoutCommand.OptionalArgs.() -> kotlin.Unit = COMPILED_CODE): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

@@ -5,4 +5,3 @@ package com.google.home.matter.serialization
 
 public final class RequiredFieldException public constructor(tagName: kotlin.String, cause: java.lang.Exception? /* from: kotlin.Exception? */ = COMPILED_CODE) : java.lang.Exception /* from: kotlin.Exception */ {
 }
-

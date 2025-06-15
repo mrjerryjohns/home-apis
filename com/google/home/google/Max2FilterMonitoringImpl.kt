@@ -28,4 +28,3 @@ public final class Max2FilterMonitoringImpl public constructor(metadata: com.goo
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -12,4 +12,3 @@ public final enum class ConnectivityState private constructor() : kotlin.Enum<co
 
     @androidx.annotation.NonNull PARTIALLY_ONLINE;
 }
-

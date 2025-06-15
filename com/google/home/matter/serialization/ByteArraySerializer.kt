@@ -8,4 +8,3 @@ public object ByteArraySerializer : com.google.home.matter.serialization.ValueSe
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): kotlin.ByteArray { /* compiled code */ }
 }
-

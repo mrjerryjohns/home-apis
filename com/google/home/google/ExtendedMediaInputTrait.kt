@@ -272,4 +272,3 @@ public object ExtendedMediaInputTrait {
         }
     }
 }
-

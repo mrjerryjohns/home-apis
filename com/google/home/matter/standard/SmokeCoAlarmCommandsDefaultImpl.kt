@@ -8,4 +8,3 @@ public interface SmokeCoAlarmCommandsDefaultImpl : com.google.home.matter.standa
 
     public open fun selfTestRequestBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

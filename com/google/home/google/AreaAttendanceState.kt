@@ -37,4 +37,3 @@ public final class AreaAttendanceState private constructor(metadata: com.google.
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

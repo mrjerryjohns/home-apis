@@ -121,4 +121,3 @@ public interface WaterHeaterMode : com.google.home.matter.standard.WaterHeaterMo
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun automationManagementTraitCommandResponse(block: com.google.home.platform.traits.automation.AutomationManagementTraitCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.automation.AutomationManagementTraitCommandResponse { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.automation.AutomationManagementTraitCommandResponse.copy(block: com.google.home.platform.traits.automation.AutomationManagementTraitCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.automation.AutomationManagementTraitCommandResponse { /* compiled code */ }
-

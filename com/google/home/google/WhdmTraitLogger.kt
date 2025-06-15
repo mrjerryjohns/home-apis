@@ -7,4 +7,3 @@ public object WhdmTraitLogger {
     public final val logger: com.google.nest.platform.mesh.api.logger.Logger /* compiled code */
         public final get
 }
-

@@ -107,4 +107,3 @@ public interface LeafWetnessMeasurement : com.google.home.google.LeafWetnessMeas
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

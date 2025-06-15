@@ -10,4 +10,3 @@ public final enum class PermissionsResultStatus private constructor() : kotlin.E
 
     @androidx.annotation.NonNull ERROR;
 }
-

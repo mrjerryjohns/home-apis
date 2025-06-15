@@ -355,4 +355,3 @@ public interface WiFiNetworkDiagnostics : com.google.home.matter.standard.WiFiNe
         }
     }
 }
-

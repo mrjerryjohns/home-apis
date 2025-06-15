@@ -36,4 +36,3 @@ public final class Notification private constructor(metadata: com.google.home.Tr
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

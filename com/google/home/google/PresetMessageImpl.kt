@@ -32,4 +32,3 @@ public final class PresetMessageImpl public constructor(metadata: com.google.hom
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

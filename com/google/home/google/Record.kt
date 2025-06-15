@@ -101,4 +101,3 @@ public interface Record : com.google.home.google.RecordTrait.Attributes, com.goo
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

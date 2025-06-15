@@ -89,4 +89,3 @@ public interface CameraActivation : com.google.home.google.CameraActivationTrait
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

@@ -192,4 +192,3 @@ public object FilterMonitoringTrait {
         public final fun copy(condition: kotlin.UInt? = COMPILED_CODE, changeIndicationCleanliness: com.google.home.google.FilterMonitoringTrait.ChangeIndication? = COMPILED_CODE, changeIndicationLifetime: com.google.home.google.FilterMonitoringTrait.ChangeIndication? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.google.FilterMonitoringTrait.FilterMonitoringFeature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.FilterMonitoringTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

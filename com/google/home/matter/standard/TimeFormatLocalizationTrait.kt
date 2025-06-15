@@ -114,7 +114,8 @@ public object TimeFormatLocalizationTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(hourFormat: com.google.home.matter.standard.TimeFormatLocalizationTrait.HourFormatEnum? = COMPILED_CODE, activeCalendarType: com.google.home.matter.standard.TimeFormatLocalizationTrait.CalendarTypeEnum? = COMPILED_CODE, supportedCalendarTypes: kotlin.collections.List<com.google.home.matter.standard.TimeFormatLocalizationTrait.CalendarTypeEnum>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.TimeFormatLocalizationTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.TimeFormatLocalizationTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.TimeFormatLocalizationTrait.Attributes, com.google.home.matter.standard.TimeFormatLocalizationTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(hourFormat: com.google.home.matter.standard.TimeFormatLocalizationTrait.HourFormatEnum? = COMPILED_CODE, activeCalendarType: com.google.home.matter.standard.TimeFormatLocalizationTrait.CalendarTypeEnum? = COMPILED_CODE, supportedCalendarTypes: kotlin.collections.List<com.google.home.matter.standard.TimeFormatLocalizationTrait.CalendarTypeEnum>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.TimeFormatLocalizationTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.TimeFormatLocalizationTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.TimeFormatLocalizationTrait.Attributes, com.google.home.matter.standard.TimeFormatLocalizationTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.TimeFormatLocalizationTrait.Attributes.Adapter /* compiled code */
         }
@@ -145,7 +146,8 @@ public object TimeFormatLocalizationTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(hourFormat: com.google.home.matter.standard.TimeFormatLocalizationTrait.HourFormatEnum? = COMPILED_CODE, activeCalendarType: com.google.home.matter.standard.TimeFormatLocalizationTrait.CalendarTypeEnum? = COMPILED_CODE, supportedCalendarTypes: kotlin.collections.List<com.google.home.matter.standard.TimeFormatLocalizationTrait.CalendarTypeEnum>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.TimeFormatLocalizationTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.TimeFormatLocalizationTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(hourFormat: com.google.home.matter.standard.TimeFormatLocalizationTrait.HourFormatEnum? = COMPILED_CODE, activeCalendarType: com.google.home.matter.standard.TimeFormatLocalizationTrait.CalendarTypeEnum? = COMPILED_CODE, supportedCalendarTypes: kotlin.collections.List<com.google.home.matter.standard.TimeFormatLocalizationTrait.CalendarTypeEnum>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.TimeFormatLocalizationTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE):
+            com.google.home.matter.standard.TimeFormatLocalizationTrait.AttributesImpl { /* compiled code */ }
     }
 
     public final class MutableAttributes public constructor(attributes: com.google.home.matter.standard.TimeFormatLocalizationTrait.Attributes) : com.google.home.matter.standard.TimeFormatLocalizationTrait.AttributesImpl {
@@ -174,4 +176,3 @@ public object TimeFormatLocalizationTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

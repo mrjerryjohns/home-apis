@@ -100,4 +100,3 @@ public final enum class ValidationIssueType private constructor() : kotlin.Enum<
 
     @androidx.annotation.NonNull TooManyOperations;
 }
-

@@ -10,4 +10,3 @@ public final enum class ValidationIssueSeverity private constructor() : kotlin.E
 
     @androidx.annotation.NonNull UNKNOWN;
 }
-

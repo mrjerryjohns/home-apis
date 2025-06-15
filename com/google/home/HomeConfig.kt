@@ -25,4 +25,3 @@ public final class HomeConfig public constructor(strictOperationValidation: kotl
     public final val factoryRegistry: com.google.home.FactoryRegistry /* compiled code */
         public final get
 }
-

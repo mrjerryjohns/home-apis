@@ -75,4 +75,3 @@ public interface ProxyConfiguration : com.google.home.matter.standard.ProxyConfi
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

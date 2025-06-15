@@ -163,4 +163,3 @@ public interface NitrogenDioxideConcentrationMeasurement : com.google.home.matte
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

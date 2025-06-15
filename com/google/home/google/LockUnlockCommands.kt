@@ -12,4 +12,3 @@ public interface LockUnlockCommands {
 
     public abstract fun unlockBatchable(followUpToken: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

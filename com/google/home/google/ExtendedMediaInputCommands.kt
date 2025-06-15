@@ -16,4 +16,3 @@ public interface ExtendedMediaInputCommands {
 
     public abstract fun nextInputBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

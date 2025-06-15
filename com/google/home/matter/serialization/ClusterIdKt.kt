@@ -6,4 +6,3 @@ package com.google.home.matter.serialization
 private fun kotlin.UShort.hex4(): kotlin.String { /* compiled code */ }
 
 private fun kotlin.UInt.hex8(): kotlin.String { /* compiled code */ }
-

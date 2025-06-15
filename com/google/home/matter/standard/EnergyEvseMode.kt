@@ -121,4 +121,3 @@ public interface EnergyEvseMode : com.google.home.matter.standard.EnergyEvseMode
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

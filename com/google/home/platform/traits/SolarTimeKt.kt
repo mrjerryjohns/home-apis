@@ -35,4 +35,3 @@ public object SolarTimeKt {
         public final fun hasOffset(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

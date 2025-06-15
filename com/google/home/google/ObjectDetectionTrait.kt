@@ -286,4 +286,3 @@ public object ObjectDetectionTrait {
         public final fun copy(generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.google.ObjectDetectionTrait.ObjectDetectionFeature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ObjectDetectionTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

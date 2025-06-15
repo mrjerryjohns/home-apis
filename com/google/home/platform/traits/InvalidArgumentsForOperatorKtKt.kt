@@ -11,4 +11,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidArgumentsForOperator.copy(block: com.google.home.platform.traits.InvalidArgumentsForOperatorKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidArgumentsForOperator { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidArgumentsForOperator.ArgumentTypes.copy(block: com.google.home.platform.traits.InvalidArgumentsForOperatorKt.ArgumentTypesKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidArgumentsForOperator.ArgumentTypes { /* compiled code */ }
-

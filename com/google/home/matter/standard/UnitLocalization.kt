@@ -85,4 +85,3 @@ public interface UnitLocalization : com.google.home.matter.standard.UnitLocaliza
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

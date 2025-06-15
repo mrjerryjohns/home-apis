@@ -121,4 +121,3 @@ public interface LaundryWasherMode : com.google.home.matter.standard.LaundryWash
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

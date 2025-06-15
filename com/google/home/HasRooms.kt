@@ -6,4 +6,3 @@ package com.google.home
 public interface HasRooms {
     public abstract fun rooms(): com.google.home.HomeObjectsFlow<com.google.home.Room>
 }
-

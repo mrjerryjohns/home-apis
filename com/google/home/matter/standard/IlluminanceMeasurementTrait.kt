@@ -88,4 +88,3 @@ public object IlluminanceMeasurementTrait {
         public final fun copy(measuredValue: kotlin.UShort? = COMPILED_CODE, minMeasuredValue: kotlin.UShort? = COMPILED_CODE, maxMeasuredValue: kotlin.UShort? = COMPILED_CODE, tolerance: kotlin.UShort? = COMPILED_CODE, lightSensorType: com.google.home.matter.standard.IlluminanceMeasurementTrait.LightSensorTypeEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.IlluminanceMeasurementTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

@@ -8,4 +8,3 @@ public interface MatterIcdInteractionCommands {
 
     public abstract fun stayActiveBatchable(extendActiveOnAnyInteraction: kotlin.Boolean, durationSeconds: kotlin.UInt): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

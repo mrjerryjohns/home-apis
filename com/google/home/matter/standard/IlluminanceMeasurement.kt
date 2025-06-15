@@ -115,4 +115,3 @@ public interface IlluminanceMeasurement : com.google.home.matter.standard.Illumi
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

@@ -147,4 +147,3 @@ public interface PressureMeasurement : com.google.home.matter.standard.PressureM
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

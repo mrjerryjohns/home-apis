@@ -56,4 +56,3 @@ public final class ChannelImpl public constructor(metadata: com.google.home.Trai
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

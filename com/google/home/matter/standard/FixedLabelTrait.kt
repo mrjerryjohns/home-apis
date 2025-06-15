@@ -98,4 +98,3 @@ public object FixedLabelTrait {
         public final fun copy(labelList: kotlin.collections.List<com.google.home.matter.standard.FixedLabelTrait.LabelStruct>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.FixedLabelTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

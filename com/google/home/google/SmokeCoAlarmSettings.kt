@@ -115,4 +115,3 @@ public interface SmokeCoAlarmSettings : com.google.home.google.SmokeCoAlarmSetti
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

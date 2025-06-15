@@ -26,4 +26,3 @@ public object RoomMetadataKt {
         public final fun clearStructureId(): kotlin.Unit { /* compiled code */ }
     }
 }
-

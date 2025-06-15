@@ -199,4 +199,3 @@ public interface NetworkCommissioning : com.google.home.matter.standard.NetworkC
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

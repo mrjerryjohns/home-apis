@@ -12,4 +12,3 @@ public suspend fun @receiver:androidx.annotation.NonNull com.google.home.Structu
 public suspend fun @receiver:androidx.annotation.NonNull com.google.home.Structure.deleteRoom(room: com.google.home.Room): kotlin.Unit { /* compiled code */ }
 
 public suspend fun @receiver:androidx.annotation.NonNull com.google.home.Structure.deleteRoom(roomId: com.google.home.Id): kotlin.Unit { /* compiled code */ }
-

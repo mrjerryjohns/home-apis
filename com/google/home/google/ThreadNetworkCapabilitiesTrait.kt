@@ -78,4 +78,3 @@ public object ThreadNetworkCapabilitiesTrait {
         public final fun copy(internetAccessOption: com.google.home.google.ThreadNetworkCapabilitiesTrait.InternetAccessOption? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ThreadNetworkCapabilitiesTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

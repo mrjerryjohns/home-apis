@@ -85,4 +85,3 @@ public interface DeviceLinks : com.google.home.google.DeviceLinksTrait.Attribute
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

@@ -34,4 +34,3 @@ public final class LocatorImpl public constructor(metadata: com.google.home.Trai
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

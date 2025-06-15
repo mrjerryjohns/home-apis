@@ -10,4 +10,3 @@ public interface CommandDescriptor {
 
     @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable public open fun getCommandRequestFieldByName(name: kotlin.String): com.google.home.Field? { /* compiled code */ }
 }
-

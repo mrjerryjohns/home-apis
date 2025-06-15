@@ -5,4 +5,3 @@ package com.google.home.matter.serialization
 
 public interface BitmapAdapter<T : kotlin.Any> : com.google.home.matter.serialization.FieldAdapter<com.google.home.matter.serialization.Bitmap, T> {
 }
-

@@ -171,4 +171,3 @@ public interface Geofence : com.google.home.google.GeofenceTrait.Attributes, com
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

@@ -106,7 +106,8 @@ public object EthernetNetworkDiagnosticsTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(phyRate: com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.PhyRateEnum? = COMPILED_CODE, fullDuplex: kotlin.Boolean? = COMPILED_CODE, packetRxCount: kotlin.ULong? = COMPILED_CODE, packetTxCount: kotlin.ULong? = COMPILED_CODE, txErrCount: kotlin.ULong? = COMPILED_CODE, collisionCount: kotlin.ULong? = COMPILED_CODE, overrunCount: kotlin.ULong? = COMPILED_CODE, carrierDetect: kotlin.Boolean? = COMPILED_CODE, timeSinceReset: kotlin.ULong? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.Attributes {
+        public open class AttributesImpl public constructor(phyRate: com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.PhyRateEnum? = COMPILED_CODE, fullDuplex: kotlin.Boolean? = COMPILED_CODE, packetRxCount: kotlin.ULong? = COMPILED_CODE, packetTxCount: kotlin.ULong? = COMPILED_CODE, txErrCount: kotlin.ULong? = COMPILED_CODE, collisionCount: kotlin.ULong? = COMPILED_CODE, overrunCount: kotlin.ULong? = COMPILED_CODE, carrierDetect: kotlin.Boolean? = COMPILED_CODE, timeSinceReset: kotlin.ULong? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap:
+        com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.Attributes.Adapter /* compiled code */
         }
@@ -147,7 +148,8 @@ public object EthernetNetworkDiagnosticsTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(phyRate: com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.PhyRateEnum? = COMPILED_CODE, fullDuplex: kotlin.Boolean? = COMPILED_CODE, packetRxCount: kotlin.ULong? = COMPILED_CODE, packetTxCount: kotlin.ULong? = COMPILED_CODE, txErrCount: kotlin.ULong? = COMPILED_CODE, collisionCount: kotlin.ULong? = COMPILED_CODE, overrunCount: kotlin.ULong? = COMPILED_CODE, carrierDetect: kotlin.Boolean? = COMPILED_CODE, timeSinceReset: kotlin.ULong? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(phyRate: com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.PhyRateEnum? = COMPILED_CODE, fullDuplex: kotlin.Boolean? = COMPILED_CODE, packetRxCount: kotlin.ULong? = COMPILED_CODE, packetTxCount: kotlin.ULong? = COMPILED_CODE, txErrCount: kotlin.ULong? = COMPILED_CODE, collisionCount: kotlin.ULong? = COMPILED_CODE, overrunCount: kotlin.ULong? = COMPILED_CODE, carrierDetect: kotlin.Boolean? = COMPILED_CODE, timeSinceReset: kotlin.ULong? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap:
+            com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.EthernetNetworkDiagnosticsTrait.AttributesImpl { /* compiled code */ }
     }
 
     public object ResetCountsCommand : com.google.home.CommandDescriptor {
@@ -188,4 +190,3 @@ public object EthernetNetworkDiagnosticsTrait {
         }
     }
 }
-

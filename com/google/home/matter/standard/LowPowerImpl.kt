@@ -30,4 +30,3 @@ public final class LowPowerImpl public constructor(metadata: com.google.home.Tra
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

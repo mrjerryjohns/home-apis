@@ -37,4 +37,3 @@ public object StructFieldConstraintKt {
         public final fun hasConstraint(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

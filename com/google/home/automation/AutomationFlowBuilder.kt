@@ -6,4 +6,3 @@ package com.google.home.automation
 public interface AutomationFlowBuilder : com.google.home.automation.AutomationFlowContributor {
     public abstract fun nodes(): kotlin.collections.List<com.google.home.automation.Node>
 }
-

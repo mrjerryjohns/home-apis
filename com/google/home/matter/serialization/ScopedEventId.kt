@@ -28,4 +28,3 @@ public final data class ScopedEventId public constructor(cluster: com.google.hom
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

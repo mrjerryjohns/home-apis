@@ -76,4 +76,3 @@ public object MediaActivityStateTrait {
         public final fun copy(activityState: com.google.home.google.MediaActivityStateTrait.ActivityState? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.MediaActivityStateTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

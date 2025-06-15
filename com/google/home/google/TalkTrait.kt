@@ -78,4 +78,3 @@ public object TalkTrait {
         public final fun copy(audioCommunicationType: com.google.home.google.TalkTrait.AudioCommunicationType? = COMPILED_CODE, currentlyInUse: kotlin.Boolean? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.TalkTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

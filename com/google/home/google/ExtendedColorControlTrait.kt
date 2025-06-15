@@ -40,7 +40,8 @@ public object ExtendedColorControlTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(colorLoopEndTimestampSeconds: kotlin.ULong? = COMPILED_CODE, currentName: kotlin.String? = COMPILED_CODE, currentRed: kotlin.UByte? = COMPILED_CODE, currentGreen: kotlin.UByte? = COMPILED_CODE, currentBlue: kotlin.UByte? = COMPILED_CODE, currentHue: kotlin.Float? = COMPILED_CODE, currentSaturation: kotlin.Float? = COMPILED_CODE, currentValue: kotlin.Float? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.ExtendedColorControlTrait.Attributes {
+        public open class AttributesImpl public constructor(colorLoopEndTimestampSeconds: kotlin.ULong? = COMPILED_CODE, currentName: kotlin.String? = COMPILED_CODE, currentRed: kotlin.UByte? = COMPILED_CODE, currentGreen: kotlin.UByte? = COMPILED_CODE, currentBlue: kotlin.UByte? = COMPILED_CODE, currentHue: kotlin.Float? = COMPILED_CODE, currentSaturation: kotlin.Float? = COMPILED_CODE, currentValue: kotlin.Float? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.google.ExtendedColorControlTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.google.ExtendedColorControlTrait.Attributes.Adapter /* compiled code */
         }
@@ -79,7 +80,8 @@ public object ExtendedColorControlTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(colorLoopEndTimestampSeconds: kotlin.ULong? = COMPILED_CODE, currentName: kotlin.String? = COMPILED_CODE, currentRed: kotlin.UByte? = COMPILED_CODE, currentGreen: kotlin.UByte? = COMPILED_CODE, currentBlue: kotlin.UByte? = COMPILED_CODE, currentHue: kotlin.Float? = COMPILED_CODE, currentSaturation: kotlin.Float? = COMPILED_CODE, currentValue: kotlin.Float? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ExtendedColorControlTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(colorLoopEndTimestampSeconds: kotlin.ULong? = COMPILED_CODE, currentName: kotlin.String? = COMPILED_CODE, currentRed: kotlin.UByte? = COMPILED_CODE, currentGreen: kotlin.UByte? = COMPILED_CODE, currentBlue: kotlin.UByte? = COMPILED_CODE, currentHue: kotlin.Float? = COMPILED_CODE, currentSaturation: kotlin.Float? = COMPILED_CODE, currentValue: kotlin.Float? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ExtendedColorControlTrait.AttributesImpl { /*
+            compiled code */ }
     }
 
     public object MoveToColorNameCommand : com.google.home.CommandDescriptor {
@@ -236,4 +238,3 @@ public object ExtendedColorControlTrait {
         }
     }
 }
-

@@ -15,4 +15,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun unsupportedCandidateReason(block: com.google.home.platform.traits.UnsupportedCandidateReasonKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsupportedCandidateReason { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.UnsupportedCandidateReason.copy(block: com.google.home.platform.traits.UnsupportedCandidateReasonKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsupportedCandidateReason { /* compiled code */ }
-

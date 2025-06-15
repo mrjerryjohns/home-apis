@@ -16,4 +16,3 @@ public final class MapSize : com.google.home.automation.ExpressionWithId {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

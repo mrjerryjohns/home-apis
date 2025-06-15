@@ -8,4 +8,3 @@ public object HomeManagerProvider {
 
     public final fun getInstance(interactionClientProvider: kotlinx.coroutines.flow.StateFlow<com.google.nest.platform.mesh.interaction.InteractionClient?>, homeConfig: com.google.home.HomeConfig, tokenRefresh: com.google.home.internal.impl.TokenRefresh = COMPILED_CODE, supportedFeatures: kotlin.collections.Set<com.google.home.Feature>, metricsLogger: com.google.nest.platform.mesh.api.metrics.MetricsLogger): com.google.home.HomeManager { /* compiled code */ }
 }
-

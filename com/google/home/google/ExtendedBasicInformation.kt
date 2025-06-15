@@ -85,4 +85,3 @@ public interface ExtendedBasicInformation : com.google.home.google.ExtendedBasic
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

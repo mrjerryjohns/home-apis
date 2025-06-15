@@ -100,4 +100,3 @@ public object PowerTopologyTrait {
         public final fun copy(availableEndpoints: kotlin.collections.List<kotlin.UShort>? = COMPILED_CODE, activeEndpoints: kotlin.collections.List<kotlin.UShort>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.PowerTopologyTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.PowerTopologyTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

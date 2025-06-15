@@ -51,4 +51,3 @@ public object TimeTraitEventKt {
         public final fun clearEvent(): kotlin.Unit { /* compiled code */ }
     }
 }
-

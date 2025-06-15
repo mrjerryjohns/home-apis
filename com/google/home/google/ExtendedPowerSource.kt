@@ -275,4 +275,3 @@ public interface ExtendedPowerSource : com.google.home.google.ExtendedPowerSourc
         }
     }
 }
-

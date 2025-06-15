@@ -121,4 +121,3 @@ public final class ClusterPayload public constructor(payload: kotlin.collections
         public open fun getNullableList(tag: kotlin.UInt /* from: com.google.home.matter.serialization.TagId */, name: kotlin.String): kotlin.collections.List<T>? { /* compiled code */ }
     }
 }
-

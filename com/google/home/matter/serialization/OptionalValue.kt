@@ -26,4 +26,3 @@ public interface OptionalValue<T> {
 
     public open fun defaultIfNotPresent(defaultValue: T): T { /* compiled code */ }
 }
-

@@ -143,4 +143,3 @@ public interface LightEffects : com.google.home.google.LightEffectsTrait.Attribu
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

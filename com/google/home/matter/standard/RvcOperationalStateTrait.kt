@@ -249,7 +249,8 @@ public object RvcOperationalStateTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(phaseList: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, currentPhase: kotlin.UByte? = COMPILED_CODE, countdownTime: kotlin.UInt? = COMPILED_CODE, operationalStateList: kotlin.collections.List<com.google.home.matter.standard.RvcOperationalStateTrait.OperationalStateStruct>? = COMPILED_CODE, operationalState: kotlin.UByte? = COMPILED_CODE, operationalError: com.google.home.matter.standard.RvcOperationalStateTrait.ErrorStateStruct? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.RvcOperationalStateTrait.Attributes {
+        public open class AttributesImpl public constructor(phaseList: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, currentPhase: kotlin.UByte? = COMPILED_CODE, countdownTime: kotlin.UInt? = COMPILED_CODE, operationalStateList: kotlin.collections.List<com.google.home.matter.standard.RvcOperationalStateTrait.OperationalStateStruct>? = COMPILED_CODE, operationalState: kotlin.UByte? = COMPILED_CODE, operationalError: com.google.home.matter.standard.RvcOperationalStateTrait.ErrorStateStruct? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision:
+        kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.RvcOperationalStateTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.RvcOperationalStateTrait.Attributes.Adapter /* compiled code */
         }
@@ -284,7 +285,8 @@ public object RvcOperationalStateTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(phaseList: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, currentPhase: kotlin.UByte? = COMPILED_CODE, countdownTime: kotlin.UInt? = COMPILED_CODE, operationalStateList: kotlin.collections.List<com.google.home.matter.standard.RvcOperationalStateTrait.OperationalStateStruct>? = COMPILED_CODE, operationalState: kotlin.UByte? = COMPILED_CODE, operationalError: com.google.home.matter.standard.RvcOperationalStateTrait.ErrorStateStruct? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.RvcOperationalStateTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(phaseList: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, currentPhase: kotlin.UByte? = COMPILED_CODE, countdownTime: kotlin.UInt? = COMPILED_CODE, operationalStateList: kotlin.collections.List<com.google.home.matter.standard.RvcOperationalStateTrait.OperationalStateStruct>? = COMPILED_CODE, operationalState: kotlin.UByte? = COMPILED_CODE, operationalError: com.google.home.matter.standard.RvcOperationalStateTrait.ErrorStateStruct? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort =
+            COMPILED_CODE): com.google.home.matter.standard.RvcOperationalStateTrait.AttributesImpl { /* compiled code */ }
     }
 
     public object PauseCommand : com.google.home.CommandDescriptor {
@@ -515,4 +517,3 @@ public object RvcOperationalStateTrait {
         }
     }
 }
-

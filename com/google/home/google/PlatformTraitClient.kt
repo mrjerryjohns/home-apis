@@ -8,4 +8,3 @@ public interface PlatformTraitClient {
 
     public abstract suspend fun <REQUEST, RESPONSE> sendCommand(commandId: kotlin.String /* from: com.google.home.google.CommandId */, requestPayload: com.google.home.google.PlatformTraitPayload<REQUEST>, responseParser: com.google.home.google.Parser<RESPONSE>): RESPONSE
 }
-

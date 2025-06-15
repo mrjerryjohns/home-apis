@@ -126,4 +126,3 @@ public object ExtendedBasicInformationTrait {
         }
     }
 }
-

@@ -113,4 +113,3 @@ public interface RelativeHumidityControl : com.google.home.google.RelativeHumidi
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

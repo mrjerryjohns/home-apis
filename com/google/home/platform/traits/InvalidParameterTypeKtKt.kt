@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidParameterType(block: com.google.home.platform.traits.InvalidParameterTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidParameterType { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidParameterType.copy(block: com.google.home.platform.traits.InvalidParameterTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidParameterType { /* compiled code */ }
-

@@ -16,4 +16,3 @@ public interface ExtendedApplicationLauncherCommands {
 
     public abstract fun launchAppBatchable(newApplicationName: kotlin.String, newApplication: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

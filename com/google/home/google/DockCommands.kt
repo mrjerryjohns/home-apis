@@ -8,4 +8,3 @@ public interface DockCommands {
 
     public abstract fun dockBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

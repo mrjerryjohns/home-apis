@@ -8,4 +8,3 @@ public object BooleanSerializer : com.google.home.matter.serialization.ValueSeri
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): kotlin.Boolean { /* compiled code */ }
 }
-

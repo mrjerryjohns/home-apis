@@ -6,4 +6,3 @@ package com.google.home.automation
 public sealed interface ActionCandidate : com.google.home.automation.NodeCandidate {
     @com.google.android.gms.common.internal.ShowFirstParty public abstract fun toAction(params: kotlin.collections.Map<com.google.home.Field, kotlin.Any?> = COMPILED_CODE): com.google.home.automation.Action
 }
-

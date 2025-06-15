@@ -10,4 +10,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AssistantBroadcastTrait.BroadcastCommand.copy(block: com.google.home.platform.traits.AssistantBroadcastTraitKt.BroadcastCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AssistantBroadcastTrait.BroadcastCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AssistantBroadcastTrait.BroadcastCommandResponse.copy(block: com.google.home.platform.traits.AssistantBroadcastTraitKt.BroadcastCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AssistantBroadcastTrait.BroadcastCommandResponse { /* compiled code */ }
-

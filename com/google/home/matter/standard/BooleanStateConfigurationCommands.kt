@@ -12,4 +12,3 @@ public interface BooleanStateConfigurationCommands {
 
     public abstract fun enableDisableAlarmBatchable(alarmsToEnableDisable: com.google.home.matter.standard.BooleanStateConfigurationTrait.AlarmModeBitmap): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

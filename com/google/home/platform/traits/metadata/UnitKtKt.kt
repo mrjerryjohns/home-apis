@@ -6,4 +6,3 @@ package com.google.home.platform.traits.metadata
 @kotlin.jvm.JvmName public inline fun unit(block: com.google.home.platform.traits.metadata.UnitKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.metadata.Unit { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.metadata.Unit.copy(block: com.google.home.platform.traits.metadata.UnitKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.metadata.Unit { /* compiled code */ }
-

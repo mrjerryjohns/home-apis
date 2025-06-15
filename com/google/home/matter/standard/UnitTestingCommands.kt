@@ -112,4 +112,3 @@ public interface UnitTestingCommands {
 
     public abstract fun testDifferentVendorMeiRequestBatchable(arg1: kotlin.UByte): com.google.home.BatchableCommand<com.google.home.matter.standard.UnitTestingTrait.TestDifferentVendorMeiRequestCommand.Response>
 }
-

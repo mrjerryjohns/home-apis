@@ -16,4 +16,3 @@ public final class Suppression : com.google.home.automation.Node {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

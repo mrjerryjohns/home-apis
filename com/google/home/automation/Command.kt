@@ -16,4 +16,3 @@ public final class Command public constructor(trait: com.google.home.TraitFactor
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

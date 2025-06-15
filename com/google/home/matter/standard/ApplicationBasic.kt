@@ -139,4 +139,3 @@ public interface ApplicationBasic : com.google.home.matter.standard.ApplicationB
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

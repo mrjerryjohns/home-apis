@@ -43,4 +43,3 @@ public object InvalidEntityExpressionTypeKt {
         }
     }
 }
-

@@ -26,4 +26,3 @@ public object BitmapValueKt {
         public final fun clearValue(): kotlin.Unit { /* compiled code */ }
     }
 }
-

@@ -26,4 +26,3 @@ public final class ThreadNetworkCapabilitiesImpl public constructor(metadata: co
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

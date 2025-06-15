@@ -6,4 +6,3 @@ package com.google.home
 public interface InternalEventFactory<T : com.google.home.Event> {
     public abstract val eventId: kotlin.String
 }
-

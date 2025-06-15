@@ -317,4 +317,3 @@ public interface OpenClose : com.google.home.google.OpenCloseTrait.Attributes, c
         }
     }
 }
-

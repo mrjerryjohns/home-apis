@@ -235,4 +235,3 @@ public interface ExtendedThermostat : com.google.home.google.ExtendedThermostatT
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

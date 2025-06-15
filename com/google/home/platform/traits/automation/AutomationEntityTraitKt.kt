@@ -241,4 +241,3 @@ public object AutomationEntityTraitKt {
         }
     }
 }
-

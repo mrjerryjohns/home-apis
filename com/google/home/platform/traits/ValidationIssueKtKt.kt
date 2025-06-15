@@ -153,4 +153,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun validationIssue(block: com.google.home.platform.traits.ValidationIssueKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ValidationIssue { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ValidationIssue.copy(block: com.google.home.platform.traits.ValidationIssueKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ValidationIssue { /* compiled code */ }
-

@@ -32,4 +32,3 @@ public object UnitKt {
         public final fun hasScale(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

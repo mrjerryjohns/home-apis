@@ -34,4 +34,3 @@ package com.google.home.automation
 
     public final fun build(): com.google.home.automation.BaseAutomation /* from: com.google.home.automation.DraftAutomation */ { /* compiled code */ }
 }
-

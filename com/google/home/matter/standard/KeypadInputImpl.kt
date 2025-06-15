@@ -30,4 +30,3 @@ public final class KeypadInputImpl public constructor(metadata: com.google.home.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

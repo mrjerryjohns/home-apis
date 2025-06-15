@@ -8,4 +8,3 @@ public interface HasCandidates {
 
     public abstract fun allCandidates(): kotlinx.coroutines.flow.Flow<kotlin.collections.Set<com.google.home.automation.NodeCandidate>>
 }
-

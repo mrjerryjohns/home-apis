@@ -168,7 +168,8 @@ public object OnOffTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(onOff: kotlin.Boolean? = COMPILED_CODE, globalSceneControl: kotlin.Boolean? = COMPILED_CODE, onTime: kotlin.UShort? = COMPILED_CODE, offWaitTime: kotlin.UShort? = COMPILED_CODE, startUpOnOff: com.google.home.matter.standard.OnOffTrait.StartUpOnOffEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.OnOffTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.OnOffTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.OnOffTrait.Attributes, com.google.home.matter.standard.OnOffTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(onOff: kotlin.Boolean? = COMPILED_CODE, globalSceneControl: kotlin.Boolean? = COMPILED_CODE, onTime: kotlin.UShort? = COMPILED_CODE, offWaitTime: kotlin.UShort? = COMPILED_CODE, startUpOnOff: com.google.home.matter.standard.OnOffTrait.StartUpOnOffEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.OnOffTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.OnOffTrait.Attributes,
+        com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.OnOffTrait.Attributes, com.google.home.matter.standard.OnOffTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.OnOffTrait.Attributes.Adapter /* compiled code */
         }
@@ -497,4 +498,3 @@ public object OnOffTrait {
         }
     }
 }
-

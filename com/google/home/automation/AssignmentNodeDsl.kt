@@ -21,4 +21,3 @@ public interface AssignmentNodeDsl : com.google.home.automation.AutomationFlowCo
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

@@ -171,4 +171,3 @@ public interface GeneralCommissioning : com.google.home.matter.standard.GeneralC
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

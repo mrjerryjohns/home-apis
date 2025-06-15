@@ -83,4 +83,3 @@ public interface PowerSourceConfiguration : com.google.home.matter.standard.Powe
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

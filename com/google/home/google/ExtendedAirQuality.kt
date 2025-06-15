@@ -283,4 +283,3 @@ public interface ExtendedAirQuality : com.google.home.google.ExtendedAirQualityT
         }
     }
 }
-

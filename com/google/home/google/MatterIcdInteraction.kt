@@ -135,4 +135,3 @@ public interface MatterIcdInteraction : com.google.home.google.MatterIcdInteract
         }
     }
 }
-

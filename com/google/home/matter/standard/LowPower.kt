@@ -85,4 +85,3 @@ public interface LowPower : com.google.home.matter.standard.LowPowerTrait.Attrib
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

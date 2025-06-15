@@ -16,4 +16,3 @@ public final data class JsonPayload public constructor(payload: kotlin.String) :
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

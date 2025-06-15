@@ -263,7 +263,8 @@ public object CookTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(supportedCookingModes: kotlin.collections.List<com.google.home.google.CookTrait.CookingMode>? = COMPILED_CODE, foodPresets: kotlin.collections.List<com.google.home.google.CookTrait.FoodPreset>? = COMPILED_CODE, currentCookingMode: com.google.home.google.CookTrait.CookingMode? = COMPILED_CODE, currentFoodPreset: kotlin.String? = COMPILED_CODE, currentFoodQuantity: kotlin.Float? = COMPILED_CODE, currentFoodUnit: com.google.home.google.CookTrait.Unit? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.CookTrait.Attributes {
+        public open class AttributesImpl public constructor(supportedCookingModes: kotlin.collections.List<com.google.home.google.CookTrait.CookingMode>? = COMPILED_CODE, foodPresets: kotlin.collections.List<com.google.home.google.CookTrait.FoodPreset>? = COMPILED_CODE, currentCookingMode: com.google.home.google.CookTrait.CookingMode? = COMPILED_CODE, currentFoodPreset: kotlin.String? = COMPILED_CODE, currentFoodQuantity: kotlin.Float? = COMPILED_CODE, currentFoodUnit: com.google.home.google.CookTrait.Unit? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE,
+        clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.CookTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.google.CookTrait.Attributes.Adapter /* compiled code */
         }
@@ -298,7 +299,8 @@ public object CookTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(supportedCookingModes: kotlin.collections.List<com.google.home.google.CookTrait.CookingMode>? = COMPILED_CODE, foodPresets: kotlin.collections.List<com.google.home.google.CookTrait.FoodPreset>? = COMPILED_CODE, currentCookingMode: com.google.home.google.CookTrait.CookingMode? = COMPILED_CODE, currentFoodPreset: kotlin.String? = COMPILED_CODE, currentFoodQuantity: kotlin.Float? = COMPILED_CODE, currentFoodUnit: com.google.home.google.CookTrait.Unit? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.CookTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(supportedCookingModes: kotlin.collections.List<com.google.home.google.CookTrait.CookingMode>? = COMPILED_CODE, foodPresets: kotlin.collections.List<com.google.home.google.CookTrait.FoodPreset>? = COMPILED_CODE, currentCookingMode: com.google.home.google.CookTrait.CookingMode? = COMPILED_CODE, currentFoodPreset: kotlin.String? = COMPILED_CODE, currentFoodQuantity: kotlin.Float? = COMPILED_CODE, currentFoodUnit: com.google.home.google.CookTrait.Unit? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort
+            = COMPILED_CODE): com.google.home.google.CookTrait.AttributesImpl { /* compiled code */ }
     }
 
     public object CookCommand : com.google.home.CommandDescriptor {
@@ -397,4 +399,3 @@ public object CookTrait {
         }
     }
 }
-

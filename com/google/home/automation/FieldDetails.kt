@@ -14,4 +14,3 @@ public sealed class FieldDetails protected constructor(name: kotlin.String, isOp
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

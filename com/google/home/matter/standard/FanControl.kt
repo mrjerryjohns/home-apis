@@ -193,4 +193,3 @@ public interface FanControl : com.google.home.matter.standard.FanControlTrait.At
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

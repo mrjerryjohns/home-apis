@@ -8,4 +8,3 @@ public interface ConsumesIntelligenceEventsCommandsDefaultImpl : com.google.home
 
     public open fun updateHomeAwayStateBatchable(userPresenceState: com.google.home.google.ConsumesIntelligenceEventsTrait.UserPresenceState): com.google.home.BatchableCommand<com.google.home.google.ConsumesIntelligenceEventsTrait.UpdateHomeAwayStateCommand.Response> { /* compiled code */ }
 }
-

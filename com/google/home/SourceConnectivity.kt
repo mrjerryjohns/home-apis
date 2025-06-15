@@ -16,4 +16,3 @@ public final class SourceConnectivity public constructor(connectivityState: com.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

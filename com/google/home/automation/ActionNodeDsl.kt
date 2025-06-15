@@ -18,4 +18,3 @@ public interface ActionNodeDsl : com.google.home.automation.AutomationFlowContri
 
     @com.google.android.gms.common.internal.ShowFirstParty public open fun <T : com.google.home.Trait> @receiver:androidx.annotation.NonNull com.google.home.automation.TraitAttributesCandidate.update(updaterBlock: com.google.home.automation.Updater<T>.() -> kotlin.Unit): kotlin.Unit { /* compiled code */ }
 }
-

@@ -26,4 +26,3 @@ public object InvalidEntityKt {
         public final fun clearEntityType(): kotlin.Unit { /* compiled code */ }
     }
 }
-

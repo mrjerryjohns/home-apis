@@ -83,4 +83,3 @@ public interface BuildingManagement : com.google.home.google.BuildingManagementT
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

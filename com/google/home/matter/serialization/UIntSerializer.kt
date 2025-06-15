@@ -8,4 +8,3 @@ public object UIntSerializer : com.google.home.matter.serialization.ValueSeriali
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): kotlin.UInt { /* compiled code */ }
 }
-

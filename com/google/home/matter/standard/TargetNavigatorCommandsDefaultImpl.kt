@@ -8,4 +8,3 @@ public interface TargetNavigatorCommandsDefaultImpl : com.google.home.matter.sta
 
     public open fun navigateTargetBatchable(target: kotlin.UByte, optionalArgs: com.google.home.matter.standard.TargetNavigatorTrait.NavigateTargetCommand.OptionalArgs.() -> kotlin.Unit): com.google.home.BatchableCommand<com.google.home.matter.standard.TargetNavigatorTrait.NavigateTargetCommand.Response> { /* compiled code */ }
 }
-

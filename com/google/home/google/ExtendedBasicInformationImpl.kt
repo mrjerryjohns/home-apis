@@ -30,4 +30,3 @@ public final class ExtendedBasicInformationImpl public constructor(metadata: com
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -8,4 +8,3 @@ public interface SoftwareUpdateCommandsDefaultImpl : com.google.home.google.Soft
 
     public open fun softwareUpdateBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

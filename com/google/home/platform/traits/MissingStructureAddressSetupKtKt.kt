@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun missingStructureAddressSetup(block: com.google.home.platform.traits.MissingStructureAddressSetupKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.MissingStructureAddressSetup { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.MissingStructureAddressSetup.copy(block: com.google.home.platform.traits.MissingStructureAddressSetupKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.MissingStructureAddressSetup { /* compiled code */ }
-

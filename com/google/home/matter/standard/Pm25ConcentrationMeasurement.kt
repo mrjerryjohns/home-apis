@@ -163,4 +163,3 @@ public interface Pm25ConcentrationMeasurement : com.google.home.matter.standard.
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

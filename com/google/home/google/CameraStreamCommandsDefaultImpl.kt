@@ -12,4 +12,3 @@ public interface CameraStreamCommandsDefaultImpl : com.google.home.google.Camera
 
     public open fun getCameraStreamPreviewImageBatchable(preferredWidth: kotlin.UInt, preferredHeight: kotlin.UInt): com.google.home.BatchableCommand<com.google.home.google.CameraStreamTrait.GetCameraStreamPreviewImageCommand.Response> { /* compiled code */ }
 }
-

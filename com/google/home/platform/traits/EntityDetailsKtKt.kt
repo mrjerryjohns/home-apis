@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun entityDetails(block: com.google.home.platform.traits.EntityDetailsKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.EntityDetails { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.EntityDetails.copy(block: com.google.home.platform.traits.EntityDetailsKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.EntityDetails { /* compiled code */ }
-

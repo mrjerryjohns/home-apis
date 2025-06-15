@@ -135,4 +135,3 @@ public interface ActivatedCarbonFilterMonitoring : com.google.home.matter.standa
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

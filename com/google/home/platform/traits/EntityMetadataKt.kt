@@ -43,4 +43,3 @@ public object EntityMetadataKt {
         public final fun clearMetadata(): kotlin.Unit { /* compiled code */ }
     }
 }
-

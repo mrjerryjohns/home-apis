@@ -517,4 +517,3 @@ public interface PowerSource : com.google.home.matter.standard.PowerSourceTrait.
         }
     }
 }
-

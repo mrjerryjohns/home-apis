@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidOperand(block: com.google.home.platform.traits.InvalidOperandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidOperand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidOperand.copy(block: com.google.home.platform.traits.InvalidOperandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidOperand { /* compiled code */ }
-

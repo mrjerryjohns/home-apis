@@ -34,4 +34,3 @@ public final class SpeedMeasurementImpl public constructor(metadata: com.google.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

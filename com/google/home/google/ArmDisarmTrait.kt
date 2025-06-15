@@ -368,7 +368,8 @@ public object ArmDisarmTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(availableArmLevels: com.google.home.google.ArmDisarmTrait.AvailableArmLevels? = COMPILED_CODE, isArmed: kotlin.Boolean? = COMPILED_CODE, currentArmLevel: kotlin.String? = COMPILED_CODE, exitAllowanceSeconds: kotlin.UInt? = COMPILED_CODE, armState: com.google.home.google.ArmDisarmTrait.ArmState? = COMPILED_CODE, targetArmLevel: kotlin.String? = COMPILED_CODE, exitAllowanceEndTimeSeconds: kotlin.Long? = COMPILED_CODE, entryAllowanceEndTimeSeconds: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.ArmDisarmTrait.Attributes {
+        public open class AttributesImpl public constructor(availableArmLevels: com.google.home.google.ArmDisarmTrait.AvailableArmLevels? = COMPILED_CODE, isArmed: kotlin.Boolean? = COMPILED_CODE, currentArmLevel: kotlin.String? = COMPILED_CODE, exitAllowanceSeconds: kotlin.UInt? = COMPILED_CODE, armState: com.google.home.google.ArmDisarmTrait.ArmState? = COMPILED_CODE, targetArmLevel: kotlin.String? = COMPILED_CODE, exitAllowanceEndTimeSeconds: kotlin.Long? = COMPILED_CODE, entryAllowanceEndTimeSeconds: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE,
+        clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.ArmDisarmTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.google.ArmDisarmTrait.Attributes.Adapter /* compiled code */
         }
@@ -407,7 +408,8 @@ public object ArmDisarmTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(availableArmLevels: com.google.home.google.ArmDisarmTrait.AvailableArmLevels? = COMPILED_CODE, isArmed: kotlin.Boolean? = COMPILED_CODE, currentArmLevel: kotlin.String? = COMPILED_CODE, exitAllowanceSeconds: kotlin.UInt? = COMPILED_CODE, armState: com.google.home.google.ArmDisarmTrait.ArmState? = COMPILED_CODE, targetArmLevel: kotlin.String? = COMPILED_CODE, exitAllowanceEndTimeSeconds: kotlin.Long? = COMPILED_CODE, entryAllowanceEndTimeSeconds: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ArmDisarmTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(availableArmLevels: com.google.home.google.ArmDisarmTrait.AvailableArmLevels? = COMPILED_CODE, isArmed: kotlin.Boolean? = COMPILED_CODE, currentArmLevel: kotlin.String? = COMPILED_CODE, exitAllowanceSeconds: kotlin.UInt? = COMPILED_CODE, armState: com.google.home.google.ArmDisarmTrait.ArmState? = COMPILED_CODE, targetArmLevel: kotlin.String? = COMPILED_CODE, exitAllowanceEndTimeSeconds: kotlin.Long? = COMPILED_CODE, entryAllowanceEndTimeSeconds: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision:
+            kotlin.UShort = COMPILED_CODE): com.google.home.google.ArmDisarmTrait.AttributesImpl { /* compiled code */ }
     }
 
     public object ArmDisarmCommand : com.google.home.CommandDescriptor {
@@ -470,4 +472,3 @@ public object ArmDisarmTrait {
         }
     }
 }
-

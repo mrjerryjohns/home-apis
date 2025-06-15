@@ -12,4 +12,3 @@ public interface ValveConfigurationAndControlCommandsDefaultImpl : com.google.ho
 
     public open fun closeBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

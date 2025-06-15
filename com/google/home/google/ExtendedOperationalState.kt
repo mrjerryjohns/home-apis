@@ -293,4 +293,3 @@ public interface ExtendedOperationalState : com.google.home.google.ExtendedOpera
         }
     }
 }
-

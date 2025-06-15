@@ -25,4 +25,3 @@ public object InvalidDurationKt {
         public final fun hasDuration(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

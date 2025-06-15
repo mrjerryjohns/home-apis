@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun missingPresenceSensingSetup(block: com.google.home.platform.traits.MissingPresenceSensingSetupKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.MissingPresenceSensingSetup { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.MissingPresenceSensingSetup.copy(block: com.google.home.platform.traits.MissingPresenceSensingSetupKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.MissingPresenceSensingSetup { /* compiled code */ }
-

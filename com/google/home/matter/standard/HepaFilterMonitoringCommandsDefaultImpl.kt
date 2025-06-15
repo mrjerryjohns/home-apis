@@ -8,4 +8,3 @@ public interface HepaFilterMonitoringCommandsDefaultImpl : com.google.home.matte
 
     public open fun resetConditionBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

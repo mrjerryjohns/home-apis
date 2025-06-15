@@ -8,4 +8,3 @@ public interface DeviceLocationCommandsDefaultImpl : com.google.home.google.Devi
 
     public open fun setSpokenLocationBatchable(spokenLocation: com.google.home.google.DeviceLocationTrait.Location): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

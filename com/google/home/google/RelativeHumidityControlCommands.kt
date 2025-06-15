@@ -12,4 +12,3 @@ public interface RelativeHumidityControlCommands {
 
     public abstract fun stepRelativeHumidityBatchable(relativeHumidityPercent: kotlin.UInt, relativeHumidityWeight: kotlin.UInt, stepMode: com.google.home.google.RelativeHumidityControlTrait.StepMode): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

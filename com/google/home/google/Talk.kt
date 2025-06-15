@@ -91,4 +91,3 @@ public interface Talk : com.google.home.google.TalkTrait.Attributes, com.google.
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

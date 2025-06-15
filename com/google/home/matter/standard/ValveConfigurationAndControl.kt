@@ -295,4 +295,3 @@ public interface ValveConfigurationAndControl : com.google.home.matter.standard.
         }
     }
 }
-

@@ -105,4 +105,3 @@ public interface DeviceLocation : com.google.home.google.DeviceLocationTrait.Att
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

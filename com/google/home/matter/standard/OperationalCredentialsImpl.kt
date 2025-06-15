@@ -70,4 +70,3 @@ public final class OperationalCredentialsImpl public constructor(metadata: com.g
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

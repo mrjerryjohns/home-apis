@@ -18,4 +18,3 @@ public sealed class BinaryExpression : com.google.home.automation.ExpressionWith
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

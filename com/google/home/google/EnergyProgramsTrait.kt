@@ -453,4 +453,3 @@ public object EnergyProgramsTrait {
         }
     }
 }
-

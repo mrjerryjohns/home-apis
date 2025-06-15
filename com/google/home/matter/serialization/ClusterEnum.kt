@@ -14,4 +14,3 @@ public interface ClusterEnum {
 
     public abstract val typeName: kotlin.String
 }
-

@@ -16,4 +16,3 @@ public sealed class ValidationIssue protected constructor(node: com.google.home.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

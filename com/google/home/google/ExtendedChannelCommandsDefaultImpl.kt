@@ -8,4 +8,3 @@ public interface ExtendedChannelCommandsDefaultImpl : com.google.home.google.Ext
 
     public open fun returnChannelBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

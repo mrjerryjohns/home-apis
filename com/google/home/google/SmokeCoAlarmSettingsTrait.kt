@@ -54,7 +54,8 @@ public object SmokeCoAlarmSettingsTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(pathlightSensitivity: com.google.home.google.SmokeCoAlarmSettingsTrait.PathlightSensitivity? = COMPILED_CODE, enableNightlyPromise: kotlin.Boolean? = COMPILED_CODE, enableSteamCheck: kotlin.Boolean? = COMPILED_CODE, enableHeadsUpAlert: kotlin.Boolean? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.SmokeCoAlarmSettingsTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.google.SmokeCoAlarmSettingsTrait.Attributes, com.google.home.google.SmokeCoAlarmSettingsTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(pathlightSensitivity: com.google.home.google.SmokeCoAlarmSettingsTrait.PathlightSensitivity? = COMPILED_CODE, enableNightlyPromise: kotlin.Boolean? = COMPILED_CODE, enableSteamCheck: kotlin.Boolean? = COMPILED_CODE, enableHeadsUpAlert: kotlin.Boolean? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.SmokeCoAlarmSettingsTrait.Attributes,
+        com.google.home.matter.serialization.CanMutate<com.google.home.google.SmokeCoAlarmSettingsTrait.Attributes, com.google.home.google.SmokeCoAlarmSettingsTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.google.SmokeCoAlarmSettingsTrait.Attributes.Adapter /* compiled code */
         }
@@ -130,4 +131,3 @@ public object SmokeCoAlarmSettingsTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

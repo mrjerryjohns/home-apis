@@ -8,4 +8,3 @@ public final class NoOpParser public constructor() : com.google.home.google.Pars
 
     public open fun encode(payload: kotlin.Unit): kotlin.ByteArray { /* compiled code */ }
 }
-

@@ -22,4 +22,3 @@ public object SmartHomeDeviceTraitKt {
         public final fun hasAgentId(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

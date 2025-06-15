@@ -67,4 +67,3 @@ public final class AssistantFulfillmentTrait public constructor() {
     public final class AttributesImpl public constructor() : com.google.home.google.AssistantFulfillmentTrait.Attributes {
     }
 }
-

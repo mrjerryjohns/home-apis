@@ -18,4 +18,3 @@ public abstract class MatterTraitImpl public constructor(metadata: com.google.ho
 
     public open suspend fun forceRead(): kotlin.Unit { /* compiled code */ }
 }
-

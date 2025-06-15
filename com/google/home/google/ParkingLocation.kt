@@ -83,4 +83,3 @@ public interface ParkingLocation : com.google.home.google.ParkingLocationTrait.A
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

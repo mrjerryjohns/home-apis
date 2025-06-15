@@ -27,4 +27,3 @@ public object NotificationTraitCommandKt {
         public final fun clearCommand(): kotlin.Unit { /* compiled code */ }
     }
 }
-

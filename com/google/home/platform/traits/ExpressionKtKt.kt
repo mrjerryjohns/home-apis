@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun expression(block: com.google.home.platform.traits.ExpressionKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Expression { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.Expression.copy(block: com.google.home.platform.traits.ExpressionKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Expression { /* compiled code */ }
-

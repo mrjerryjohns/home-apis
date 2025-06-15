@@ -16,4 +16,3 @@ public interface GeneralDiagnosticsCommands {
 
     public abstract fun payloadTestRequestBatchable(enableKey: kotlin.ByteArray, value: kotlin.UByte, count: kotlin.UShort): com.google.home.BatchableCommand<com.google.home.matter.standard.GeneralDiagnosticsTrait.PayloadTestRequestCommand.Response>
 }
-

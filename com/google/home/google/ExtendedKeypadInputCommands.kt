@@ -8,4 +8,3 @@ public interface ExtendedKeypadInputCommands {
 
     public abstract fun extendedSendKeyBatchable(keyCode: com.google.home.google.ExtendedKeypadInputTrait.Key): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

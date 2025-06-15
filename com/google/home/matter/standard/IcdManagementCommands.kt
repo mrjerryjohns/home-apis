@@ -16,4 +16,3 @@ public interface IcdManagementCommands {
 
     public abstract fun stayActiveRequestBatchable(stayActiveDuration: kotlin.UInt): com.google.home.BatchableCommand<com.google.home.matter.standard.IcdManagementTrait.StayActiveRequestCommand.Response>
 }
-

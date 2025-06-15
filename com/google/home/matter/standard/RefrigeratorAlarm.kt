@@ -181,4 +181,3 @@ public interface RefrigeratorAlarm : com.google.home.matter.standard.Refrigerato
         }
     }
 }
-

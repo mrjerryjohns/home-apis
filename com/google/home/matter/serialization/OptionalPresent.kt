@@ -19,4 +19,3 @@ public final class OptionalPresent<T> public constructor(value: T) : com.google.
 
     public open operator fun equals(other: kotlin.Any?): kotlin.Boolean { /* compiled code */ }
 }
-

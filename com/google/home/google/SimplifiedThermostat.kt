@@ -93,4 +93,3 @@ public interface SimplifiedThermostat : com.google.home.google.SimplifiedThermos
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

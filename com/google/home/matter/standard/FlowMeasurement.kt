@@ -107,4 +107,3 @@ public interface FlowMeasurement : com.google.home.matter.standard.FlowMeasureme
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

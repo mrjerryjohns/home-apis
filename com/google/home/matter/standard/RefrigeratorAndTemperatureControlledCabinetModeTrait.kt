@@ -189,7 +189,8 @@ public object RefrigeratorAndTemperatureControlledCabinetModeTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(supportedModes: kotlin.collections.List<com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Attributes, com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(supportedModes: kotlin.collections.List<com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Attributes, com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Attributes.Adapter /* compiled code */
         }
@@ -222,7 +223,8 @@ public object RefrigeratorAndTemperatureControlledCabinetModeTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(supportedModes: kotlin.collections.List<com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(supportedModes: kotlin.collections.List<com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE):
+            com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.AttributesImpl { /* compiled code */ }
     }
 
     public final class MutableAttributes public constructor(attributes: com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.Attributes) : com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.AttributesImpl {
@@ -343,4 +345,3 @@ public object RefrigeratorAndTemperatureControlledCabinetModeTrait {
         }
     }
 }
-

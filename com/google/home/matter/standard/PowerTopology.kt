@@ -91,4 +91,3 @@ public interface PowerTopology : com.google.home.matter.standard.PowerTopologyTr
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

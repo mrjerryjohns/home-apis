@@ -10,4 +10,3 @@ public final class BooleanConstraint public constructor() : com.google.home.auto
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -6,4 +6,3 @@ package com.google.home.matter
 public final class NoData public constructor() {
     public open operator fun equals(other: kotlin.Any?): kotlin.Boolean { /* compiled code */ }
 }
-

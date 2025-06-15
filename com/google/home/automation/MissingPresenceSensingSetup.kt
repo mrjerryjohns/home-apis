@@ -22,4 +22,3 @@ public final class MissingPresenceSensingSetup public constructor(type: com.goog
         @androidx.annotation.NonNull USER_PRESENCE;
     }
 }
-

@@ -24,4 +24,3 @@ public interface TimerCommands {
 
     public abstract fun timerCancelBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

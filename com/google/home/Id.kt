@@ -12,4 +12,3 @@ package com.google.home
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

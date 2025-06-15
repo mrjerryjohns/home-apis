@@ -37,4 +37,3 @@ public final class StateReader : com.google.home.automation.Node, com.google.hom
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

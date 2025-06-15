@@ -20,4 +20,3 @@ public interface NetworkControlCommandsDefaultImpl : com.google.home.google.Netw
 
     public open fun testNetworkSpeedBatchable(testUploadSpeed: kotlin.Boolean, testDownloadSpeed: kotlin.Boolean): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

@@ -6,4 +6,3 @@ package com.google.home.automation
 public interface ManualStarterNodeDsl : com.google.home.automation.AutomationFlowContributor {
     public open fun manualStarter(): kotlin.Unit { /* compiled code */ }
 }
-

@@ -28,4 +28,3 @@ public interface ChannelCommands {
 
     public abstract fun cancelRecordProgramBatchable(programIdentifier: kotlin.String, shouldRecordSeries: kotlin.Boolean, externalIdList: kotlin.collections.List<com.google.home.matter.standard.ChannelTrait.AdditionalInfoStruct>, data: kotlin.ByteArray): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

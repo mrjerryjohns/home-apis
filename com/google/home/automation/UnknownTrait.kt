@@ -22,4 +22,3 @@ public final class UnknownTrait public constructor(id: kotlin.String) : com.goog
         public open val traitId: kotlin.String /* compiled code */
     }
 }
-

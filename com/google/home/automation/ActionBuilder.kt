@@ -22,4 +22,3 @@ package com.google.home.automation
 
     public final fun build(): com.google.home.automation.Action { /* compiled code */ }
 }
-

@@ -89,4 +89,3 @@ public interface Locator : com.google.home.google.LocatorTrait.Attributes, com.g
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

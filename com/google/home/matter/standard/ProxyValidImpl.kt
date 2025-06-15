@@ -24,4 +24,3 @@ public final class ProxyValidImpl public constructor(metadata: com.google.home.T
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

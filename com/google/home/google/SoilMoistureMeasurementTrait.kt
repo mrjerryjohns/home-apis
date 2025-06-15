@@ -66,4 +66,3 @@ public object SoilMoistureMeasurementTrait {
         public final fun copy(measuredValue: kotlin.UInt? = COMPILED_CODE, minMeasuredValue: kotlin.UInt? = COMPILED_CODE, maxMeasuredValue: kotlin.UInt? = COMPILED_CODE, tolerance: kotlin.UInt? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.SoilMoistureMeasurementTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

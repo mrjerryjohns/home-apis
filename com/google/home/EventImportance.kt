@@ -14,4 +14,3 @@ public final enum class EventImportance private constructor() : kotlin.Enum<com.
 
     @androidx.annotation.NonNull UNRECOGNIZED;
 }
-

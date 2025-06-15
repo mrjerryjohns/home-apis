@@ -110,4 +110,3 @@ public object Max2FilterMonitoringTrait {
         public final fun copy(condition: kotlin.UInt? = COMPILED_CODE, changeIndication: com.google.home.google.Max2FilterMonitoringTrait.ChangeIndication? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.Max2FilterMonitoringTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

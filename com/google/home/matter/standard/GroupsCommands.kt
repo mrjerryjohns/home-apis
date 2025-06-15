@@ -28,4 +28,3 @@ public interface GroupsCommands {
 
     public abstract fun addGroupIfIdentifyingBatchable(groupId: kotlin.UShort, groupName: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

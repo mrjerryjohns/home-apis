@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun manualStarter(block: com.google.home.platform.traits.ManualStarterKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ManualStarter { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ManualStarter.copy(block: com.google.home.platform.traits.ManualStarterKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ManualStarter { /* compiled code */ }
-

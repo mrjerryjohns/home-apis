@@ -12,4 +12,3 @@ public interface EnergyProgramsCommands {
 
     public abstract fun cancelEnergyProgramEventBatchable(eventId: kotlin.String, programName: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

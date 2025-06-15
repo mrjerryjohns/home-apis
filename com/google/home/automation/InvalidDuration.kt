@@ -10,4 +10,3 @@ public final class InvalidDuration public constructor(node: com.google.home.auto
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

@@ -12,4 +12,3 @@ public interface ClipCommands {
 
     public abstract fun saveVideoClipBatchable(durationSeconds: kotlin.ULong): com.google.home.BatchableCommand<com.google.home.google.ClipTrait.SaveVideoClipCommand.Response>
 }
-

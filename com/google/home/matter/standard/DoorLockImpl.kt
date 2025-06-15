@@ -202,4 +202,3 @@ public final class DoorLockImpl public constructor(metadata: com.google.home.Tra
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

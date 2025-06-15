@@ -263,4 +263,3 @@ public interface OperationalState : com.google.home.matter.standard.OperationalS
         }
     }
 }
-

@@ -20,4 +20,3 @@ public final class Condition : com.google.home.automation.Node {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -8,4 +8,3 @@ public interface ExtendedModeSelectCommandsDefaultImpl : com.google.home.google.
 
     public open fun changeModeSettingsBatchable(updateModeSettings: kotlin.collections.List<com.google.home.google.ExtendedModeSelectTrait.ModeSetting>): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

@@ -66,4 +66,3 @@ public object TemperatureMeasurementTrait {
         public final fun copy(measuredValue: kotlin.Short? = COMPILED_CODE, minMeasuredValue: kotlin.Short? = COMPILED_CODE, maxMeasuredValue: kotlin.Short? = COMPILED_CODE, tolerance: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.TemperatureMeasurementTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

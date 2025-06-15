@@ -189,4 +189,3 @@ public interface SoftwareDiagnostics : com.google.home.matter.standard.SoftwareD
         }
     }
 }
-

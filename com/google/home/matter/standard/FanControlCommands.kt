@@ -8,4 +8,3 @@ public interface FanControlCommands {
 
     public abstract fun stepBatchable(direction: com.google.home.matter.standard.FanControlTrait.StepDirectionEnum, optionalArgs: com.google.home.matter.standard.FanControlTrait.StepCommand.OptionalArgs.() -> kotlin.Unit = COMPILED_CODE): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

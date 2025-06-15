@@ -32,4 +32,3 @@ public final class DockImpl public constructor(metadata: com.google.home.Trait.T
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

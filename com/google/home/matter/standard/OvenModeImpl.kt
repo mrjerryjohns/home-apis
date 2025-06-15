@@ -40,4 +40,3 @@ public final class OvenModeImpl public constructor(metadata: com.google.home.Tra
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -102,4 +102,3 @@ public object ExtendedSmokeCoAlarmTrait {
         public final fun copy(extendedEndOfServiceAlert: com.google.home.google.ExtendedSmokeCoAlarmTrait.ExtendedEndOfServiceEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ExtendedSmokeCoAlarmTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

@@ -62,4 +62,3 @@ public final class AreaAttendanceStateTrait public constructor() {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

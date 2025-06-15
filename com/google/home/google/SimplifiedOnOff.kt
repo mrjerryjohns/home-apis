@@ -83,4 +83,3 @@ public interface SimplifiedOnOff : com.google.home.google.SimplifiedOnOffTrait.A
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

@@ -40,4 +40,3 @@ public final class RefrigeratorAndTemperatureControlledCabinetModeImpl public co
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

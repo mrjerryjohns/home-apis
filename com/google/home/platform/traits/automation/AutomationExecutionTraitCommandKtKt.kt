@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun automationExecutionTraitCommand(block: com.google.home.platform.traits.automation.AutomationExecutionTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.automation.AutomationExecutionTraitCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.automation.AutomationExecutionTraitCommand.copy(block: com.google.home.platform.traits.automation.AutomationExecutionTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.automation.AutomationExecutionTraitCommand { /* compiled code */ }
-

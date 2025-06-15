@@ -16,4 +16,3 @@ public interface AdministratorCommissioningCommandsDefaultImpl : com.google.home
 
     public open fun revokeCommissioningBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

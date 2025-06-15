@@ -18,4 +18,3 @@ public final class ListIn : com.google.home.automation.ExpressionWithId {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

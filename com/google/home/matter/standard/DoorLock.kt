@@ -973,4 +973,3 @@ public interface DoorLock : com.google.home.matter.standard.DoorLockTrait.Attrib
         }
     }
 }
-

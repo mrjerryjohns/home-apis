@@ -156,4 +156,3 @@ public final class ThreadNetworkDiagnosticsImpl public constructor(metadata: com
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

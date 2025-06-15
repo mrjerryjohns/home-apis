@@ -8,4 +8,3 @@ public object LongSerializer : com.google.home.matter.serialization.ValueSeriali
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): kotlin.Long { /* compiled code */ }
 }
-

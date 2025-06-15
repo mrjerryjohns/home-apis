@@ -16,4 +16,3 @@ public interface RvcOperationalStateCommandsDefaultImpl : com.google.home.matter
 
     public open fun goHomeBatchable(): com.google.home.BatchableCommand<com.google.home.matter.standard.RvcOperationalStateTrait.GoHomeCommand.Response> { /* compiled code */ }
 }
-

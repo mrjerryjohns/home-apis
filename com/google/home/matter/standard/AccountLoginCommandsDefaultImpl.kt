@@ -16,4 +16,3 @@ public interface AccountLoginCommandsDefaultImpl : com.google.home.matter.standa
 
     public open fun logoutBatchable(optionalArgs: com.google.home.matter.standard.AccountLoginTrait.LogoutCommand.OptionalArgs.() -> kotlin.Unit): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

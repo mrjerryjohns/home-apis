@@ -20,4 +20,3 @@ public interface Automation : com.google.home.HasId, com.google.home.automation.
 
     @com.google.android.gms.common.internal.ShowFirstParty public abstract fun matchesId(id: com.google.home.Id): kotlin.Boolean
 }
-

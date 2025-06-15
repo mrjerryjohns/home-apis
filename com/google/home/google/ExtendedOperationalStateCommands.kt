@@ -12,4 +12,3 @@ public interface ExtendedOperationalStateCommands {
 
     public abstract fun startWithDurationBatchable(operationZones: kotlin.collections.List<kotlin.String>, durationSeconds: kotlin.UInt): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

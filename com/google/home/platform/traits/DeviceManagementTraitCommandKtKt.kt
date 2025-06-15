@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun deviceManagementTraitCommand(block: com.google.home.platform.traits.DeviceManagementTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.DeviceManagementTraitCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.DeviceManagementTraitCommand.copy(block: com.google.home.platform.traits.DeviceManagementTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.DeviceManagementTraitCommand { /* compiled code */ }
-

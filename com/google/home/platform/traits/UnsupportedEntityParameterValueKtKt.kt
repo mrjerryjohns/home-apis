@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun unsupportedEntityParameterValue(block: com.google.home.platform.traits.UnsupportedEntityParameterValueKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsupportedEntityParameterValue { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.UnsupportedEntityParameterValue.copy(block: com.google.home.platform.traits.UnsupportedEntityParameterValueKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsupportedEntityParameterValue { /* compiled code */ }
-

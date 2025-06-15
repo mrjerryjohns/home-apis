@@ -6,4 +6,3 @@ package com.google.home
 public interface HasHomeDevices {
     public abstract fun devices(): com.google.home.HomeObjectsFlow<com.google.home.HomeDevice>
 }
-

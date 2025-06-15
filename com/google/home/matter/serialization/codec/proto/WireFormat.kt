@@ -8,4 +8,3 @@ public object WireFormat {
 
     public final fun getTagWireType(tag: kotlin.Int): kotlin.Int { /* compiled code */ }
 }
-

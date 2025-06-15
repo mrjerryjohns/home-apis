@@ -12,4 +12,3 @@ public interface SceneCommands {
 
     public abstract fun deactivateSceneBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

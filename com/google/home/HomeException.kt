@@ -90,4 +90,3 @@ public final class HomeException public constructor(error: com.google.home.HomeE
         public const final val SDK_INITIALIZATION_MISSING_INFO: kotlin.Int = COMPILED_CODE /* compiled code */
     }
 }
-

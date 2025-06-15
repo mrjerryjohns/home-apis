@@ -36,7 +36,8 @@ public final class GoogleWeatherStationDevice public constructor(metadata: com.g
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 
-    public final class StandardTraits public constructor(carbonMonoxideConcentrationMeasurement: com.google.home.matter.standard.CarbonMonoxideConcentrationMeasurement?, airQuality: com.google.home.matter.standard.AirQuality?, pressureMeasurement: com.google.home.matter.standard.PressureMeasurement?, carbonDioxideConcentrationMeasurement: com.google.home.matter.standard.CarbonDioxideConcentrationMeasurement?, totalVolatileOrganicCompoundsConcentrationMeasurement: com.google.home.matter.standard.TotalVolatileOrganicCompoundsConcentrationMeasurement?, pm25ConcentrationMeasurement: com.google.home.matter.standard.Pm25ConcentrationMeasurement?, pm10ConcentrationMeasurement: com.google.home.matter.standard.Pm10ConcentrationMeasurement?, temperatureMeasurement: com.google.home.matter.standard.TemperatureMeasurement?) {
+        public final class StandardTraits public constructor(carbonMonoxideConcentrationMeasurement: com.google.home.matter.standard.CarbonMonoxideConcentrationMeasurement?, airQuality: com.google.home.matter.standard.AirQuality?, pressureMeasurement: com.google.home.matter.standard.PressureMeasurement?, carbonDioxideConcentrationMeasurement: com.google.home.matter.standard.CarbonDioxideConcentrationMeasurement?, totalVolatileOrganicCompoundsConcentrationMeasurement: com.google.home.matter.standard.TotalVolatileOrganicCompoundsConcentrationMeasurement?, pm25ConcentrationMeasurement: com.google.home.matter.standard.Pm25ConcentrationMeasurement?, pm10ConcentrationMeasurement: com.google.home.matter.standard.Pm10ConcentrationMeasurement?, temperatureMeasurement:
+        com.google.home.matter.standard.TemperatureMeasurement?) {
         public final val carbonMonoxideConcentrationMeasurement: com.google.home.matter.standard.CarbonMonoxideConcentrationMeasurement? /* compiled code */
 
         public final val airQuality: com.google.home.matter.standard.AirQuality? /* compiled code */
@@ -64,4 +65,3 @@ public final class GoogleWeatherStationDevice public constructor(metadata: com.g
         public open fun createType(traits: kotlin.collections.Map<com.google.home.TraitFactory<*>, com.google.home.Trait?>, metadataBuilder: (kotlin.collections.List<com.google.home.Trait>?) -> com.google.home.DeviceType.Metadata, traitProvider: com.google.home.TraitProvider, eventProvider: com.google.home.HasEvents): com.google.home.google.GoogleWeatherStationDevice { /* compiled code */ }
     }
 }
-

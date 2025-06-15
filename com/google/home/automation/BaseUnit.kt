@@ -36,4 +36,3 @@ public final enum class BaseUnit private constructor(tagId: kotlin.Int) : kotlin
 
     public final val tagId: kotlin.Int /* compiled code */
 }
-

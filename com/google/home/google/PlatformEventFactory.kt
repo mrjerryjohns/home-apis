@@ -20,4 +20,3 @@ public final class PlatformEventFactory<T : com.google.home.Event, A : kotlin.An
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

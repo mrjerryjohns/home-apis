@@ -8,4 +8,3 @@ public interface LaundryWasherModeCommandsDefaultImpl : com.google.home.matter.s
 
     public open fun changeToModeBatchable(newMode: kotlin.UByte): com.google.home.BatchableCommand<com.google.home.matter.standard.LaundryWasherModeTrait.ChangeToModeCommand.Response> { /* compiled code */ }
 }
-

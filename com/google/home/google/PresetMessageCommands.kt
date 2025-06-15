@@ -8,4 +8,3 @@ public interface PresetMessageCommands {
 
     public abstract fun playPresetMessageBatchable(phraseType: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

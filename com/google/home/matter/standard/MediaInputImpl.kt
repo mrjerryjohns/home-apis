@@ -46,4 +46,3 @@ public final class MediaInputImpl public constructor(metadata: com.google.home.T
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

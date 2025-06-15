@@ -80,4 +80,3 @@ public fun <T : com.google.home.Trait> stateReader(structure: com.google.home.St
 @com.google.android.gms.common.internal.ShowFirstParty public fun <T> @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<T>.toStarter(): com.google.home.automation.Starter { /* compiled code */ }
 
 @com.google.android.gms.common.internal.ShowFirstParty public fun <T> @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<T>.toStateReader(): com.google.home.automation.StateReader { /* compiled code */ }
-

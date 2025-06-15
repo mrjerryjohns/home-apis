@@ -8,4 +8,3 @@ public object NoOpAdapter : com.google.home.matter.serialization.StructAdapter<c
 
     public open fun read(reader: com.google.home.matter.serialization.ClusterPayloadReader): com.google.home.matter.NoData { /* compiled code */ }
 }
-

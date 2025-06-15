@@ -15,4 +15,3 @@ public interface Field {
     public open val descriptor: com.google.home.Descriptor /* compiled code */
         public open get
 }
-

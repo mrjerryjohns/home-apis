@@ -46,4 +46,3 @@ public final class VolumeImpl public constructor(metadata: com.google.home.Trait
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

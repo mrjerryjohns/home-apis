@@ -12,4 +12,3 @@ public interface SelfTestCommandsDefaultImpl : com.google.home.google.SelfTestCo
 
     public open fun setExecutionSummaryBatchable(warningDevices: kotlin.collections.List<com.google.home.google.SelfTestTrait.DeviceStatus>, criticalDevices: kotlin.collections.List<com.google.home.google.SelfTestTrait.DeviceStatus>): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

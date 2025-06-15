@@ -20,4 +20,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationLifecycleTrait.Delete.copy(block: com.google.home.platform.traits.AutomationLifecycleTraitKt.DeleteKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationLifecycleTrait.Delete { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationLifecycleTrait.DeleteResponse.copy(block: com.google.home.platform.traits.AutomationLifecycleTraitKt.DeleteResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationLifecycleTrait.DeleteResponse { /* compiled code */ }
-

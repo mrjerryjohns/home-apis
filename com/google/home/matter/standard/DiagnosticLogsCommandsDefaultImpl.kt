@@ -8,4 +8,3 @@ public interface DiagnosticLogsCommandsDefaultImpl : com.google.home.matter.stan
 
     public open fun retrieveLogsRequestBatchable(intent: com.google.home.matter.standard.DiagnosticLogsTrait.IntentEnum, requestedProtocol: com.google.home.matter.standard.DiagnosticLogsTrait.TransferProtocolEnum, optionalArgs: com.google.home.matter.standard.DiagnosticLogsTrait.RetrieveLogsRequestCommand.OptionalArgs.() -> kotlin.Unit): com.google.home.BatchableCommand<com.google.home.matter.standard.DiagnosticLogsTrait.RetrieveLogsRequestCommand.Response> { /* compiled code */ }
 }
-

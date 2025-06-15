@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun automationCandidateNode(block: com.google.home.platform.traits.AutomationCandidateNodeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationCandidateNode { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationCandidateNode.copy(block: com.google.home.platform.traits.AutomationCandidateNodeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationCandidateNode { /* compiled code */ }
-

@@ -12,4 +12,3 @@ public final class StructConstraint public constructor(fieldConstraints: kotlin.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

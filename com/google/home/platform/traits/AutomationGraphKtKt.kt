@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun automationGraph(block: com.google.home.platform.traits.AutomationGraphKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationGraph { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationGraph.copy(block: com.google.home.platform.traits.AutomationGraphKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationGraph { /* compiled code */ }
-

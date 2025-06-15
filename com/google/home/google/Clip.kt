@@ -121,4 +121,3 @@ public interface Clip : com.google.home.google.ClipTrait.Attributes, com.google.
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

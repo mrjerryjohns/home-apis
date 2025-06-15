@@ -22,4 +22,3 @@ public final class MapFilter : com.google.home.automation.ExpressionWithId {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

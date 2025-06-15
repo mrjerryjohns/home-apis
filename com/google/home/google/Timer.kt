@@ -133,4 +133,3 @@ public interface Timer : com.google.home.google.TimerTrait.Attributes, com.googl
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

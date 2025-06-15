@@ -11,4 +11,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.StructValue.copy(block: com.google.home.platform.traits.StructValueKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.StructValue { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.StructValue.Field.copy(block: com.google.home.platform.traits.StructValueKt.FieldKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.StructValue.Field { /* compiled code */ }
-

@@ -8,4 +8,3 @@ public interface SoftwareUpdateCommands {
 
     public abstract fun softwareUpdateBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

@@ -28,4 +28,3 @@ public interface OnOffCommands {
 
     public abstract fun onWithTimedOffBatchable(onOffControl: com.google.home.matter.standard.OnOffTrait.OnOffControlBitmap, onTime: kotlin.UShort, offWaitTime: kotlin.UShort): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

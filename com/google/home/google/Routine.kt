@@ -75,4 +75,3 @@ public interface Routine : com.google.home.google.RoutineTrait.Attributes, com.g
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

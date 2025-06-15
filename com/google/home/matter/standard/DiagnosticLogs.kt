@@ -85,4 +85,3 @@ public interface DiagnosticLogs : com.google.home.matter.standard.DiagnosticLogs
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

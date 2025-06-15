@@ -560,7 +560,8 @@ public object ContentLauncherTrait {
         }
     }
 
-    public final class BrandingInformationStruct public constructor(providerName: kotlin.String = COMPILED_CODE, background: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE, logo: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE, progressBar: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE, splash: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE, waterMark: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE) {
+        public final class BrandingInformationStruct public constructor(providerName: kotlin.String = COMPILED_CODE, background: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE, logo: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE, progressBar: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE, splash: com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE, waterMark:
+        com.google.home.matter.serialization.OptionalValue<com.google.home.matter.standard.ContentLauncherTrait.StyleInformationStruct> = COMPILED_CODE) {
         public companion object Adapter : com.google.home.matter.serialization.StructAdapter<com.google.home.matter.standard.ContentLauncherTrait.BrandingInformationStruct>, com.google.home.StructDescriptor {
             @field:com.google.android.gms.common.internal.ShowFirstParty public open val fields: kotlin.collections.Map<kotlin.UInt /* from: com.google.home.TagId */, com.google.home.Field> /* from: com.google.home.DescriptorMap */ /* compiled code */
 
@@ -898,4 +899,3 @@ public object ContentLauncherTrait {
         }
     }
 }
-

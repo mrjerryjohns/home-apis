@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun automationTooLarge(block: com.google.home.platform.traits.AutomationTooLargeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationTooLarge { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationTooLarge.copy(block: com.google.home.platform.traits.AutomationTooLargeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationTooLarge { /* compiled code */ }
-

@@ -133,4 +133,3 @@ public interface Cook : com.google.home.google.CookTrait.Attributes, com.google.
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

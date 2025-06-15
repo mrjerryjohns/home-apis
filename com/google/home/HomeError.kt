@@ -20,4 +20,3 @@ public final class HomeError public constructor(code: kotlin.Int, message: kotli
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

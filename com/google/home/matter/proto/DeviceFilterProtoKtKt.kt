@@ -18,4 +18,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.matter.proto.De
 @kotlin.jvm.JvmName public inline fun deviceFilterProto(block: com.google.home.matter.proto.DeviceFilterProtoKt.Dsl.() -> kotlin.Unit): com.google.home.matter.proto.DeviceFilterProto { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.matter.proto.DeviceFilterProto.copy(block: com.google.home.matter.proto.DeviceFilterProtoKt.Dsl.() -> kotlin.Unit): com.google.home.matter.proto.DeviceFilterProto { /* compiled code */ }
-

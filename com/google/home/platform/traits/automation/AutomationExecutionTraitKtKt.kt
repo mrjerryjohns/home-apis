@@ -14,4 +14,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.automation.AutomationExecutionTrait.StopAutomationCommand.copy(block: com.google.home.platform.traits.automation.AutomationExecutionTraitKt.StopAutomationCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.automation.AutomationExecutionTrait.StopAutomationCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.automation.AutomationExecutionTrait.StopAutomationCommandResponse.copy(block: com.google.home.platform.traits.automation.AutomationExecutionTraitKt.StopAutomationCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.automation.AutomationExecutionTrait.StopAutomationCommandResponse { /* compiled code */ }
-

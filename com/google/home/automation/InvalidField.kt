@@ -16,4 +16,3 @@ public final class InvalidField public constructor(node: com.google.home.automat
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

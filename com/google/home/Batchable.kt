@@ -5,4 +5,3 @@ package com.google.home
 
 @com.google.home.annotation.HomeExperimentalApi public sealed interface Batchable<T> {
 }
-

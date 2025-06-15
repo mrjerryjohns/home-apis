@@ -20,4 +20,3 @@ public interface OvenCavityOperationalStateCommandsDefaultImpl : com.google.home
 
     public open fun resumeBatchable(): com.google.home.BatchableCommand<com.google.home.matter.standard.OvenCavityOperationalStateTrait.ResumeCommand.Response> { /* compiled code */ }
 }
-

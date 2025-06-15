@@ -12,4 +12,3 @@ public final class Updater<T : com.google.home.Trait> public constructor() {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

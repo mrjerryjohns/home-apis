@@ -26,4 +26,3 @@ public final class MediaActivityStateImpl public constructor(metadata: com.googl
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

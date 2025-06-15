@@ -50,4 +50,3 @@ public final class RvcOperationalStateImpl public constructor(metadata: com.goog
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

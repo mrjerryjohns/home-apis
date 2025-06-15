@@ -12,4 +12,3 @@ public final class UnknownCommand public constructor(commandId: kotlin.String) :
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

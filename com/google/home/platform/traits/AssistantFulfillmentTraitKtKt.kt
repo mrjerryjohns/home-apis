@@ -70,4 +70,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AssistantFulfillmentTrait.PlayAudiobookCommand.copy(block: com.google.home.platform.traits.AssistantFulfillmentTraitKt.PlayAudiobookCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AssistantFulfillmentTrait.PlayAudiobookCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AssistantFulfillmentTrait.PlayAudiobookCommandResponse.copy(block: com.google.home.platform.traits.AssistantFulfillmentTraitKt.PlayAudiobookCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AssistantFulfillmentTrait.PlayAudiobookCommandResponse { /* compiled code */ }
-

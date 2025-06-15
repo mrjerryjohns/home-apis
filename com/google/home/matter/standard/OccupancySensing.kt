@@ -259,4 +259,3 @@ public interface OccupancySensing : com.google.home.matter.standard.OccupancySen
         }
     }
 }
-

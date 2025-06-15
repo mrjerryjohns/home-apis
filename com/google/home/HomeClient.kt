@@ -20,4 +20,3 @@ public interface HomeClient {
 
     @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.RequiresApi @androidx.annotation.Nullable public abstract suspend fun shutdown(): kotlin.Unit
 }
-

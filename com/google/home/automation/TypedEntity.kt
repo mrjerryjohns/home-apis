@@ -5,4 +5,3 @@ package com.google.home.automation
 
 public abstract class TypedEntity<T : com.google.home.HomeObjectType> internal constructor() {
 }
-

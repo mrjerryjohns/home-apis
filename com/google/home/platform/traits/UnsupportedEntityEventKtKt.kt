@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun unsupportedEntityEvent(block: com.google.home.platform.traits.UnsupportedEntityEventKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsupportedEntityEvent { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.UnsupportedEntityEvent.copy(block: com.google.home.platform.traits.UnsupportedEntityEventKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsupportedEntityEvent { /* compiled code */ }
-

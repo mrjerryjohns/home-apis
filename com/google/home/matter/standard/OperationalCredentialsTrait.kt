@@ -211,7 +211,8 @@ public object OperationalCredentialsTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(nocs: kotlin.collections.List<com.google.home.matter.standard.OperationalCredentialsTrait.NocStruct>? = COMPILED_CODE, fabrics: kotlin.collections.List<com.google.home.matter.standard.OperationalCredentialsTrait.FabricDescriptorStruct>? = COMPILED_CODE, supportedFabrics: kotlin.UByte? = COMPILED_CODE, commissionedFabrics: kotlin.UByte? = COMPILED_CODE, trustedRootCertificates: kotlin.collections.List<kotlin.ByteArray>? = COMPILED_CODE, currentFabricIndex: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.OperationalCredentialsTrait.Attributes {
+        public open class AttributesImpl public constructor(nocs: kotlin.collections.List<com.google.home.matter.standard.OperationalCredentialsTrait.NocStruct>? = COMPILED_CODE, fabrics: kotlin.collections.List<com.google.home.matter.standard.OperationalCredentialsTrait.FabricDescriptorStruct>? = COMPILED_CODE, supportedFabrics: kotlin.UByte? = COMPILED_CODE, commissionedFabrics: kotlin.UByte? = COMPILED_CODE, trustedRootCertificates: kotlin.collections.List<kotlin.ByteArray>? = COMPILED_CODE, currentFabricIndex: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt =
+        COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.OperationalCredentialsTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.OperationalCredentialsTrait.Attributes.Adapter /* compiled code */
         }
@@ -246,7 +247,8 @@ public object OperationalCredentialsTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(nocs: kotlin.collections.List<com.google.home.matter.standard.OperationalCredentialsTrait.NocStruct>? = COMPILED_CODE, fabrics: kotlin.collections.List<com.google.home.matter.standard.OperationalCredentialsTrait.FabricDescriptorStruct>? = COMPILED_CODE, supportedFabrics: kotlin.UByte? = COMPILED_CODE, commissionedFabrics: kotlin.UByte? = COMPILED_CODE, trustedRootCertificates: kotlin.collections.List<kotlin.ByteArray>? = COMPILED_CODE, currentFabricIndex: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.OperationalCredentialsTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(nocs: kotlin.collections.List<com.google.home.matter.standard.OperationalCredentialsTrait.NocStruct>? = COMPILED_CODE, fabrics: kotlin.collections.List<com.google.home.matter.standard.OperationalCredentialsTrait.FabricDescriptorStruct>? = COMPILED_CODE, supportedFabrics: kotlin.UByte? = COMPILED_CODE, commissionedFabrics: kotlin.UByte? = COMPILED_CODE, trustedRootCertificates: kotlin.collections.List<kotlin.ByteArray>? = COMPILED_CODE, currentFabricIndex: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE,
+            clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.OperationalCredentialsTrait.AttributesImpl { /* compiled code */ }
     }
 
     public object AttestationRequestCommand : com.google.home.CommandDescriptor {
@@ -959,4 +961,3 @@ public object OperationalCredentialsTrait {
         }
     }
 }
-

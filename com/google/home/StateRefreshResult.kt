@@ -5,4 +5,3 @@ package com.google.home
 
 @com.google.android.gms.common.internal.ShowFirstParty public sealed interface StateRefreshResult {
 }
-

@@ -46,4 +46,3 @@ public final class NitrogenDioxideConcentrationMeasurementImpl public constructo
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

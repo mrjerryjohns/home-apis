@@ -14,4 +14,3 @@ public object MultipleSelectFlowsKt {
         @kotlin.PublishedApi @androidx.annotation.NonNull internal final fun _build(): com.google.home.platform.traits.MultipleSelectFlows { /* compiled code */ }
     }
 }
-

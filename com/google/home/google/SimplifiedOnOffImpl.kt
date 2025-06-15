@@ -26,4 +26,3 @@ public final class SimplifiedOnOffImpl public constructor(metadata: com.google.h
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

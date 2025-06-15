@@ -12,4 +12,3 @@ public interface BrightnessCommandsDefaultImpl : com.google.home.google.Brightne
 
     public open fun brightnessStepBatchable(stepMode: com.google.home.google.BrightnessTrait.BrightnessStepModeEnum, step: kotlin.UByte): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

@@ -121,4 +121,3 @@ public interface OvenMode : com.google.home.matter.standard.OvenModeTrait.Attrib
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

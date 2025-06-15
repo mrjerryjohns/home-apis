@@ -10,4 +10,3 @@ public interface Structure : com.google.home.HasId, com.google.home.HasHomeDevic
 
     @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable public abstract suspend fun refreshCandidates(): kotlin.Unit
 }
-

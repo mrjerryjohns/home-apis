@@ -273,4 +273,3 @@ public interface ExtendedDoorLock : com.google.home.google.ExtendedDoorLockTrait
         }
     }
 }
-

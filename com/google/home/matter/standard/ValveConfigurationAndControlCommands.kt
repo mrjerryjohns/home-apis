@@ -12,4 +12,3 @@ public interface ValveConfigurationAndControlCommands {
 
     public abstract fun closeBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

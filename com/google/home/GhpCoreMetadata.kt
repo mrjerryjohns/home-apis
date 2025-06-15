@@ -6,4 +6,3 @@ package com.google.home
 public interface GhpCoreMetadata {
     public abstract val hasPermissionsGrant: kotlin.Boolean
 }
-

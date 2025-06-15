@@ -72,7 +72,8 @@ public object TemperatureControlTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(temperatureSetpoint: kotlin.Short? = COMPILED_CODE, minTemperature: kotlin.Short? = COMPILED_CODE, maxTemperature: kotlin.Short? = COMPILED_CODE, step: kotlin.Short? = COMPILED_CODE, selectedTemperatureLevel: kotlin.UByte? = COMPILED_CODE, supportedTemperatureLevels: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.TemperatureControlTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.TemperatureControlTrait.Attributes {
+        public open class AttributesImpl public constructor(temperatureSetpoint: kotlin.Short? = COMPILED_CODE, minTemperature: kotlin.Short? = COMPILED_CODE, maxTemperature: kotlin.Short? = COMPILED_CODE, step: kotlin.Short? = COMPILED_CODE, selectedTemperatureLevel: kotlin.UByte? = COMPILED_CODE, supportedTemperatureLevels: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.TemperatureControlTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.TemperatureControlTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.TemperatureControlTrait.Attributes.Adapter /* compiled code */
         }
@@ -107,7 +108,8 @@ public object TemperatureControlTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(temperatureSetpoint: kotlin.Short? = COMPILED_CODE, minTemperature: kotlin.Short? = COMPILED_CODE, maxTemperature: kotlin.Short? = COMPILED_CODE, step: kotlin.Short? = COMPILED_CODE, selectedTemperatureLevel: kotlin.UByte? = COMPILED_CODE, supportedTemperatureLevels: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.TemperatureControlTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.TemperatureControlTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(temperatureSetpoint: kotlin.Short? = COMPILED_CODE, minTemperature: kotlin.Short? = COMPILED_CODE, maxTemperature: kotlin.Short? = COMPILED_CODE, step: kotlin.Short? = COMPILED_CODE, selectedTemperatureLevel: kotlin.UByte? = COMPILED_CODE, supportedTemperatureLevels: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.TemperatureControlTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.TemperatureControlTrait.AttributesImpl { /*
+            compiled code */ }
     }
 
     public object SetTemperatureCommand : com.google.home.CommandDescriptor {
@@ -166,4 +168,3 @@ public object TemperatureControlTrait {
         }
     }
 }
-

@@ -40,4 +40,3 @@ public final class OtaSoftwareUpdateRequestorImpl public constructor(metadata: c
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

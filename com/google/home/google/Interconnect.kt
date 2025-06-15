@@ -107,4 +107,3 @@ public interface Interconnect : com.google.home.google.InterconnectTrait.Attribu
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

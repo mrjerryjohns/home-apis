@@ -223,4 +223,3 @@ public interface ElectricalEnergyMeasurement : com.google.home.matter.standard.E
         }
     }
 }
-

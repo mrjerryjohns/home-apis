@@ -32,4 +32,3 @@ public interface EnergyEvseCommandsDefaultImpl : com.google.home.matter.standard
 
     public open fun clearTargetsBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

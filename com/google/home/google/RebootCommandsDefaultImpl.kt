@@ -8,4 +8,3 @@ public interface RebootCommandsDefaultImpl : com.google.home.google.RebootComman
 
     public open fun rebootBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

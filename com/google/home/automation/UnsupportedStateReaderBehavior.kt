@@ -10,4 +10,3 @@ public final class UnsupportedStateReaderBehavior public constructor(node: com.g
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

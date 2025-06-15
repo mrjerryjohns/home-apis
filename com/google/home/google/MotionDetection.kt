@@ -189,4 +189,3 @@ public interface MotionDetection : com.google.home.google.MotionDetectionTrait.A
         }
     }
 }
-

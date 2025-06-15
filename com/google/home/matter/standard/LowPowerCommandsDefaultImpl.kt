@@ -8,4 +8,3 @@ public interface LowPowerCommandsDefaultImpl : com.google.home.matter.standard.L
 
     public open fun sleepBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

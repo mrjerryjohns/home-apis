@@ -40,4 +40,3 @@ public sealed class WireType<T : kotlin.Any> protected constructor(name: kotlin.
     public object WireTypeUnknown : com.google.home.matter.serialization.WireType<kotlin.Any> {
     }
 }
-

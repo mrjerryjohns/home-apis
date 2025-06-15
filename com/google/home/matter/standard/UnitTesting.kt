@@ -1241,4 +1241,3 @@ public interface UnitTesting : com.google.home.matter.standard.UnitTestingTrait.
         }
     }
 }
-

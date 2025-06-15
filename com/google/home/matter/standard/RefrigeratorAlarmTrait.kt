@@ -120,4 +120,3 @@ public object RefrigeratorAlarmTrait {
         public final fun copy(mask: com.google.home.matter.standard.RefrigeratorAlarmTrait.AlarmBitmap? = COMPILED_CODE, state: com.google.home.matter.standard.RefrigeratorAlarmTrait.AlarmBitmap? = COMPILED_CODE, supported: com.google.home.matter.standard.RefrigeratorAlarmTrait.AlarmBitmap? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.RefrigeratorAlarmTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

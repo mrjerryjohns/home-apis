@@ -12,4 +12,3 @@ public interface CameraActivationCommandsDefaultImpl : com.google.home.google.Ca
 
     public open fun convertMatterTlvToX509Batchable(matterTlvBytes: kotlin.ByteArray): com.google.home.BatchableCommand<com.google.home.google.CameraActivationTrait.ConvertMatterTlvToX509Command.Response> { /* compiled code */ }
 }
-

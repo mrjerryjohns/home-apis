@@ -92,4 +92,3 @@ public object DockTrait {
         }
     }
 }
-

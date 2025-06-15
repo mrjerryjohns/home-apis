@@ -15,4 +15,3 @@ public final class AutomationExecution private constructor(metadata: com.google.
 
     public open val running: kotlin.Boolean /* compiled code */
 }
-

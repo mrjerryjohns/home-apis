@@ -12,4 +12,3 @@ public interface LocatorCommands {
 
     public abstract fun silenceBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

@@ -8,4 +8,3 @@ public interface ForceReadCommands {
 
     public abstract fun forceReadCommandBatchable(trait_id: kotlin.String): com.google.home.BatchableCommand<com.google.home.google.ForceReadTrait.ForceReadCommandCommand.Response>
 }
-

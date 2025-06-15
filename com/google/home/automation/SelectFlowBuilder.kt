@@ -12,4 +12,3 @@ package com.google.home.automation
 
     public open fun nodes(): kotlin.collections.List<com.google.home.automation.Node> { /* compiled code */ }
 }
-

@@ -109,4 +109,3 @@ public interface Assistant : com.google.home.google.AssistantTrait.Attributes, c
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

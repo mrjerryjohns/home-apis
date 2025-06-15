@@ -20,4 +20,3 @@ public interface NetworkControlCommands {
 
     public abstract fun testNetworkSpeedBatchable(testUploadSpeed: kotlin.Boolean, testDownloadSpeed: kotlin.Boolean): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

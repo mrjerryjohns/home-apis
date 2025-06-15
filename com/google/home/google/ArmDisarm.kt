@@ -343,4 +343,3 @@ public interface ArmDisarm : com.google.home.google.ArmDisarmTrait.Attributes, c
         }
     }
 }
-

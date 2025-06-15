@@ -12,4 +12,3 @@ public interface AudioOutputCommandsDefaultImpl : com.google.home.matter.standar
 
     public open fun renameOutputBatchable(index: kotlin.UByte, name: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

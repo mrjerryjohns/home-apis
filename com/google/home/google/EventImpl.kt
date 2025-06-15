@@ -14,4 +14,3 @@ public final class EventImpl public constructor(eventId: com.google.home.Id, eve
 
     public open val eventNumber: kotlin.ULong /* compiled code */
 }
-

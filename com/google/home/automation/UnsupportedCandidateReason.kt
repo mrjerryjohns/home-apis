@@ -6,4 +6,3 @@ package com.google.home.automation
 public sealed interface UnsupportedCandidateReason {
     public abstract val reason: kotlin.String
 }
-

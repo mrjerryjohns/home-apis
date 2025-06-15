@@ -12,4 +12,3 @@ public interface MicrowaveOvenControlCommandsDefaultImpl : com.google.home.matte
 
     public open fun addMoreTimeBatchable(timeToAdd: kotlin.UInt): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

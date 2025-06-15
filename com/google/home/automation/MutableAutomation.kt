@@ -16,4 +16,3 @@ public interface MutableAutomation : com.google.home.automation.Automation {
 
     @com.google.android.gms.common.internal.ShowFirstParty public abstract fun setFirstPartyMetadata(firstPartyClientMetadata: com.google.home.platform.traits.FirstPartyClientMetadata?): kotlin.Unit
 }
-

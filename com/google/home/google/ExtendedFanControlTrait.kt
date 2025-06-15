@@ -343,4 +343,3 @@ public object ExtendedFanControlTrait {
         }
     }
 }
-

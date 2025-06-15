@@ -28,4 +28,3 @@ public final data class ScopedCommandId public constructor(cluster: com.google.h
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

@@ -8,4 +8,3 @@ public interface OtaSoftwareUpdateRequestorCommands {
 
     public abstract fun announceOtaProviderBatchable(providerNodeId: kotlin.ULong, vendorId: kotlin.UShort, announcementReason: com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.AnnouncementReasonEnum, endpoint: kotlin.UShort, optionalArgs: com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.AnnounceOtaProviderCommand.OptionalArgs.() -> kotlin.Unit = COMPILED_CODE): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

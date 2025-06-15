@@ -8,4 +8,3 @@ public interface BridgedDeviceBasicInformationCommandsDefaultImpl : com.google.h
 
     public open fun keepActiveBatchable(stayActiveDuration: kotlin.UInt, timeoutMs: kotlin.UInt): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

@@ -8,4 +8,3 @@ public interface ExtendedContentLauncherCommands {
 
     public abstract fun extendedLaunchContentBatchable(action: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

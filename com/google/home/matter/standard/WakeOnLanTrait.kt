@@ -58,4 +58,3 @@ public object WakeOnLanTrait {
         public final fun copy(macAddress: kotlin.String? = COMPILED_CODE, linkLocalAddress: kotlin.ByteArray? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.WakeOnLanTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

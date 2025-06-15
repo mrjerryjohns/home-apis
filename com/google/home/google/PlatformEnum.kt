@@ -18,4 +18,3 @@ public interface PlatformEnum {
 
     public abstract val typeName: kotlin.String
 }
-

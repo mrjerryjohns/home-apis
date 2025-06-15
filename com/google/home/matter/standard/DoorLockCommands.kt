@@ -88,4 +88,3 @@ public interface DoorLockCommands {
 
     public abstract fun clearAliroReaderConfigBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

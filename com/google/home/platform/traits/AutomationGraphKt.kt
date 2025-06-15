@@ -25,4 +25,3 @@ public object AutomationGraphKt {
         public final fun hasSequential(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

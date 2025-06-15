@@ -27,4 +27,3 @@ public object AssistantBroadcastTraitCommandKt {
         public final fun clearCommand(): kotlin.Unit { /* compiled code */ }
     }
 }
-

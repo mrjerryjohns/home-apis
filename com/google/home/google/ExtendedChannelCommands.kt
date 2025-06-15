@@ -8,4 +8,3 @@ public interface ExtendedChannelCommands {
 
     public abstract fun returnChannelBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

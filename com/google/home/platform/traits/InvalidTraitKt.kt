@@ -28,4 +28,3 @@ public object InvalidTraitKt {
         public final fun hasExpectedBehaviorType(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

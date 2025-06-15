@@ -113,4 +113,3 @@ public interface Groups : com.google.home.matter.standard.GroupsTrait.Attributes
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

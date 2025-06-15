@@ -102,4 +102,3 @@ public final class NotificationTrait public constructor() {
         public open fun hashCode(): kotlin.Int { /* compiled code */ }
     }
 }
-

@@ -8,4 +8,3 @@ public interface PairableCommandsDefaultImpl : com.google.home.google.PairableCo
 
     public open fun openForPairingBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

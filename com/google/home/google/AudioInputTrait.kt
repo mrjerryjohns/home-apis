@@ -98,4 +98,3 @@ public object AudioInputTrait {
         public final fun copy(audioInputQuality: com.google.home.google.AudioInputTrait.AudioInputQuality? = COMPILED_CODE, audioInputEnvironment: com.google.home.google.AudioInputTrait.AudioInputEnvironment? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.AudioInputTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

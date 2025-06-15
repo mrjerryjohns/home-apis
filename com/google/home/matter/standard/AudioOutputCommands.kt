@@ -12,4 +12,3 @@ public interface AudioOutputCommands {
 
     public abstract fun renameOutputBatchable(index: kotlin.UByte, name: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

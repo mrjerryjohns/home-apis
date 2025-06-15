@@ -8,4 +8,3 @@ public interface RvcRunModeCommandsDefaultImpl : com.google.home.matter.standard
 
     public open fun changeToModeBatchable(newMode: kotlin.UByte): com.google.home.BatchableCommand<com.google.home.matter.standard.RvcRunModeTrait.ChangeToModeCommand.Response> { /* compiled code */ }
 }
-

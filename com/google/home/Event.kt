@@ -14,4 +14,3 @@ public interface Event {
 
     public abstract val eventNumber: kotlin.ULong
 }
-

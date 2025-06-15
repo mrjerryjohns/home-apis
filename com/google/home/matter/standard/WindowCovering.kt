@@ -287,4 +287,3 @@ public interface WindowCovering : com.google.home.matter.standard.WindowCovering
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

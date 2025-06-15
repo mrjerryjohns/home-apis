@@ -12,4 +12,3 @@ public interface IdentifyCommands {
 
     public abstract fun triggerEffectBatchable(effectIdentifier: com.google.home.matter.standard.IdentifyTrait.EffectIdentifierEnum, effectVariant: com.google.home.matter.standard.IdentifyTrait.EffectVariantEnum): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

@@ -38,4 +38,3 @@ public object EntityKt {
         public final fun clearType(): kotlin.Unit { /* compiled code */ }
     }
 }
-

@@ -26,4 +26,3 @@ public final class ExtendedTemperatureControlImpl public constructor(metadata: c
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

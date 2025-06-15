@@ -54,4 +54,3 @@ package com.google.home.automation
 @kotlin.jvm.JvmName public fun @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out kotlin.Double?>.toFloat(): com.google.home.automation.TypedExpression<kotlin.Float?> { /* compiled code */ }
 
 @kotlin.jvm.JvmName public fun @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out kotlin.Float?>.toDouble(): com.google.home.automation.TypedExpression<kotlin.Double?> { /* compiled code */ }
-

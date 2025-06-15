@@ -253,7 +253,8 @@ public object OtaSoftwareUpdateRequestorTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(defaultOtaProviders: kotlin.collections.List<com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.ProviderLocation>? = COMPILED_CODE, updatePossible: kotlin.Boolean? = COMPILED_CODE, updateState: com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.UpdateStateEnum? = COMPILED_CODE, updateStateProgress: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.Attributes, com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(defaultOtaProviders: kotlin.collections.List<com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.ProviderLocation>? = COMPILED_CODE, updatePossible: kotlin.Boolean? = COMPILED_CODE, updateState: com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.UpdateStateEnum? = COMPILED_CODE, updateStateProgress: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.Attributes, com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.OtaSoftwareUpdateRequestorTrait.Attributes.Adapter /* compiled code */
         }
@@ -374,4 +375,3 @@ public object OtaSoftwareUpdateRequestorTrait {
         }
     }
 }
-

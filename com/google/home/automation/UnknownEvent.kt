@@ -26,4 +26,3 @@ public final class UnknownEvent public constructor(eventId: com.google.home.Id =
         public open val eventId: kotlin.String /* compiled code */
     }
 }
-

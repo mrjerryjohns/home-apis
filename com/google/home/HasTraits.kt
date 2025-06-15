@@ -8,4 +8,3 @@ public interface HasTraits {
 
     public abstract fun <T : com.google.home.Trait> getSourceConnectivity(trait: com.google.home.TraitFactory<T>): com.google.home.SourceConnectivity?
 }
-

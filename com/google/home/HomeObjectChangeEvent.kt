@@ -6,4 +6,3 @@ package com.google.home
 @com.google.home.annotation.HomeExperimentalApi public sealed interface HomeObjectChangeEvent<T : com.google.home.HasId> {
     public abstract val id: com.google.home.Id
 }
-

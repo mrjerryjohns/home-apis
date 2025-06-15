@@ -12,4 +12,3 @@ public interface RotationCommandsDefaultImpl : com.google.home.google.RotationCo
 
     public open fun rotateToPercentageBatchable(rotationPercent: kotlin.Float): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

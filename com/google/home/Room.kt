@@ -12,4 +12,3 @@ public interface Room : com.google.home.HasId, com.google.home.HasHomeDevices, c
 
     public abstract suspend fun setName(name: kotlin.String): com.google.home.Room
 }
-

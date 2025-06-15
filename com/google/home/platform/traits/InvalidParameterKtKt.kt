@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidParameter(block: com.google.home.platform.traits.InvalidParameterKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidParameter { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidParameter.copy(block: com.google.home.platform.traits.InvalidParameterKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidParameter { /* compiled code */ }
-

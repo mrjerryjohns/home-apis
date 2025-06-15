@@ -26,4 +26,3 @@ public final class Tag public constructor(tag: kotlin.UInt /* from: com.google.h
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

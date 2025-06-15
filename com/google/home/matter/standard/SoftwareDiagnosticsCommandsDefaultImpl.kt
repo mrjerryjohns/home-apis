@@ -8,4 +8,3 @@ public interface SoftwareDiagnosticsCommandsDefaultImpl : com.google.home.matter
 
     public open fun resetWatermarksBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

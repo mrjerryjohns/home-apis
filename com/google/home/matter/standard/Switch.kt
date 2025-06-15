@@ -637,4 +637,3 @@ public interface Switch : com.google.home.matter.standard.SwitchTrait.Attributes
         }
     }
 }
-

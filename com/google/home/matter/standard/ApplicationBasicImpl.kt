@@ -40,4 +40,3 @@ public final class ApplicationBasicImpl public constructor(metadata: com.google.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

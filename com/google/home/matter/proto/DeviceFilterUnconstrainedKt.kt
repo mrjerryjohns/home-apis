@@ -14,4 +14,3 @@ public object DeviceFilterUnconstrainedKt {
         @kotlin.PublishedApi @androidx.annotation.NonNull internal final fun _build(): com.google.home.matter.proto.DeviceFilterUnconstrained { /* compiled code */ }
     }
 }
-

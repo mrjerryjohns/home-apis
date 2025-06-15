@@ -34,4 +34,3 @@ public final class SoftwareUpdateImpl public constructor(metadata: com.google.ho
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

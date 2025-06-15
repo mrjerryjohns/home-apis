@@ -24,4 +24,3 @@ public interface TimeSynchronizationCommands {
 
     public abstract fun setDefaultNtpBatchable(defaultNtp: kotlin.String?): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

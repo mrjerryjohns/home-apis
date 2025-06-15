@@ -8,4 +8,3 @@ public interface CookCommands {
 
     public abstract fun cookBatchable(start: kotlin.Boolean, cookingMode: com.google.home.google.CookTrait.CookingMode, foodPreset: kotlin.String, quantity: kotlin.Float, unit: com.google.home.google.CookTrait.Unit): com.google.home.BatchableCommand<com.google.home.google.CookTrait.CookCommand.Response>
 }
-

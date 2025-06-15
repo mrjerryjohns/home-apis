@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun unsubscribableAttribute(block: com.google.home.platform.traits.UnsubscribableAttributeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsubscribableAttribute { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.UnsubscribableAttribute.copy(block: com.google.home.platform.traits.UnsubscribableAttributeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsubscribableAttribute { /* compiled code */ }
-

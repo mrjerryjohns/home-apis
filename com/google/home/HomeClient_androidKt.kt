@@ -6,4 +6,3 @@ package com.google.home
 public typealias PermissionsRequest = android.content.IntentSender
 
 public typealias PermissionsLauncher = androidx.activity.result.ActivityResultCaller
-

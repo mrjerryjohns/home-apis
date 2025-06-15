@@ -16,4 +16,3 @@ public interface HasAutomations {
 
     @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable public abstract suspend fun automationFromData(data: kotlin.ByteArray): com.google.home.automation.Automation
 }
-

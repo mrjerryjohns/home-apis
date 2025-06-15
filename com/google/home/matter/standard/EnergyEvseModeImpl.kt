@@ -40,4 +40,3 @@ public final class EnergyEvseModeImpl public constructor(metadata: com.google.ho
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

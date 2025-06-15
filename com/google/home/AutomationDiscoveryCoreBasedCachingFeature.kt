@@ -5,4 +5,3 @@ package com.google.home
 
 public object AutomationDiscoveryCoreBasedCachingFeature : com.google.home.Feature {
 }
-

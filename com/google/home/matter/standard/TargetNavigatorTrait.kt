@@ -248,4 +248,3 @@ public object TargetNavigatorTrait {
         }
     }
 }
-

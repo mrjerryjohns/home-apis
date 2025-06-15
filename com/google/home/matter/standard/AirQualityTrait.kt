@@ -124,4 +124,3 @@ public object AirQualityTrait {
         public final fun copy(airQuality: com.google.home.matter.standard.AirQualityTrait.AirQualityEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.AirQualityTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.AirQualityTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

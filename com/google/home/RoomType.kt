@@ -14,4 +14,3 @@ public final class RoomType public constructor() : com.google.home.HomeObjectTyp
         public open val traits: kotlin.collections.List<com.google.home.TraitFactory<*>> /* compiled code */
     }
 }
-

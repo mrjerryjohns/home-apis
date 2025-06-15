@@ -283,4 +283,3 @@ public interface NetworkControl : com.google.home.google.NetworkControlTrait.Att
         }
     }
 }
-

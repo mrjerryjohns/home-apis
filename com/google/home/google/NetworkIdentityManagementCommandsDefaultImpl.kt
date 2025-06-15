@@ -24,4 +24,3 @@ public interface NetworkIdentityManagementCommandsDefaultImpl : com.google.home.
 
     public open fun getNetworkIdentityInformationBatchable(): com.google.home.BatchableCommand<com.google.home.google.NetworkIdentityManagementTrait.GetNetworkIdentityInformationCommand.Response> { /* compiled code */ }
 }
-

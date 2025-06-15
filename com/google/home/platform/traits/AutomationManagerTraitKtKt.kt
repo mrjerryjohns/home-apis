@@ -35,4 +35,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationManagerTrait.Stop.copy(block: com.google.home.platform.traits.AutomationManagerTraitKt.StopKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationManagerTrait.Stop { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationManagerTrait.StopResponse.copy(block: com.google.home.platform.traits.AutomationManagerTraitKt.StopResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationManagerTrait.StopResponse { /* compiled code */ }
-

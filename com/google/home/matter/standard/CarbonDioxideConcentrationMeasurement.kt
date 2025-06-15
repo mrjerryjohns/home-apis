@@ -163,4 +163,3 @@ public interface CarbonDioxideConcentrationMeasurement : com.google.home.matter.
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

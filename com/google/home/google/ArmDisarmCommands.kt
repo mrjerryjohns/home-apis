@@ -8,4 +8,3 @@ public interface ArmDisarmCommands {
 
     public abstract fun armDisarmBatchable(arm: kotlin.Boolean, optionalArgs: com.google.home.google.ArmDisarmTrait.ArmDisarmCommand.OptionalArgs.() -> kotlin.Unit = COMPILED_CODE): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

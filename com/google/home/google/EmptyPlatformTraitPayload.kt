@@ -10,4 +10,3 @@ public final class EmptyPlatformTraitPayload public constructor() : com.google.h
     public open val payloadParser: com.google.home.google.Parser<kotlin.Unit> /* compiled code */
         public open get
 }
-

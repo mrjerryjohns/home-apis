@@ -85,4 +85,3 @@ public interface Reboot : com.google.home.google.RebootTrait.Attributes, com.goo
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

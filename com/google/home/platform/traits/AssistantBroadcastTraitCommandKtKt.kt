@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun assistantBroadcastTraitCommand(block: com.google.home.platform.traits.AssistantBroadcastTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AssistantBroadcastTraitCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AssistantBroadcastTraitCommand.copy(block: com.google.home.platform.traits.AssistantBroadcastTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AssistantBroadcastTraitCommand { /* compiled code */ }
-

@@ -18,4 +18,3 @@ public sealed class Node {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

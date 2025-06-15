@@ -6,4 +6,3 @@ package com.google.home.matter.proto
 @kotlin.jvm.JvmName public inline fun deviceFilterForType(block: com.google.home.matter.proto.DeviceFilterForTypeKt.Dsl.() -> kotlin.Unit): com.google.home.matter.proto.DeviceFilterForType { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.matter.proto.DeviceFilterForType.copy(block: com.google.home.matter.proto.DeviceFilterForTypeKt.Dsl.() -> kotlin.Unit): com.google.home.matter.proto.DeviceFilterForType { /* compiled code */ }
-

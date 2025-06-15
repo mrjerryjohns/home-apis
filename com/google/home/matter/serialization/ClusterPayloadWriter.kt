@@ -58,4 +58,3 @@ public interface ClusterPayloadWriter {
         public abstract fun <NEWTYPE : kotlin.Any> adapt(adapter: com.google.home.matter.serialization.FieldAdapter<T, NEWTYPE>): com.google.home.matter.serialization.ClusterPayloadWriter.FieldWriter<NEWTYPE>
     }
 }
-

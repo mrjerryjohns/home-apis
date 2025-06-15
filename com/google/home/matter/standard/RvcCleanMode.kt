@@ -101,4 +101,3 @@ public interface RvcCleanMode : com.google.home.matter.standard.RvcCleanModeTrai
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

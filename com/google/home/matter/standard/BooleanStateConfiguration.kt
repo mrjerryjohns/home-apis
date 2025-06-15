@@ -269,4 +269,3 @@ public interface BooleanStateConfiguration : com.google.home.matter.standard.Boo
         }
     }
 }
-

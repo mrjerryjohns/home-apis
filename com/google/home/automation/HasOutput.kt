@@ -6,4 +6,3 @@ package com.google.home.automation
 public sealed interface HasOutput {
     public abstract val output: kotlin.String
 }
-

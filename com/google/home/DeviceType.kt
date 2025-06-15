@@ -42,4 +42,3 @@ public abstract class DeviceType public constructor(traitProvider: com.google.ho
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

@@ -28,4 +28,3 @@ public final class WakeOnLanImpl public constructor(metadata: com.google.home.Tr
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

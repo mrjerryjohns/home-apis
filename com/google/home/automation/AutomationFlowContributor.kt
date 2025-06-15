@@ -8,4 +8,3 @@ public interface AutomationFlowContributor {
 
     @com.google.android.gms.common.internal.ShowFirstParty public abstract fun addNode(n: com.google.home.automation.Node): kotlin.Unit
 }
-

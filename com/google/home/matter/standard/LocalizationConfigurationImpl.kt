@@ -30,4 +30,3 @@ public final class LocalizationConfigurationImpl public constructor(metadata: co
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -10,4 +10,3 @@ public final class CommandFieldDetails public constructor(name: kotlin.String, i
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

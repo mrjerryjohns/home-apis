@@ -83,4 +83,3 @@ public interface StatusReport : com.google.home.google.StatusReportTrait.Attribu
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

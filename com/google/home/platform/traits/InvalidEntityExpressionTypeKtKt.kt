@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidEntityExpressionType(block: com.google.home.platform.traits.InvalidEntityExpressionTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidEntityExpressionType { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidEntityExpressionType.copy(block: com.google.home.platform.traits.InvalidEntityExpressionTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidEntityExpressionType { /* compiled code */ }
-

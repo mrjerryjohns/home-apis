@@ -95,4 +95,3 @@ public interface SoftwareUpdate : com.google.home.google.SoftwareUpdateTrait.Att
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

@@ -8,4 +8,3 @@ private object UnsupportedValueSerializer : com.google.home.matter.serialization
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): kotlin.Any { /* compiled code */ }
 }
-

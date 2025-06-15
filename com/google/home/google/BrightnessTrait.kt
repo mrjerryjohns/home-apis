@@ -168,4 +168,3 @@ public object BrightnessTrait {
         }
     }
 }
-

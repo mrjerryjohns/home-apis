@@ -121,4 +121,3 @@ public interface RefrigeratorAndTemperatureControlledCabinetMode : com.google.ho
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

@@ -11,4 +11,3 @@ public val com.google.home.platform.traits.LocalInteractionDiscoveryTraitOrBuild
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.LocalInteractionDiscoveryTrait.copy(block: com.google.home.platform.traits.LocalInteractionDiscoveryTraitKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.LocalInteractionDiscoveryTrait { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.LocalInteractionDiscoveryTrait.InitializeCommand.copy(block: com.google.home.platform.traits.LocalInteractionDiscoveryTraitKt.InitializeCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.LocalInteractionDiscoveryTrait.InitializeCommand { /* compiled code */ }
-

@@ -18,4 +18,3 @@ public final class Assignment : com.google.home.automation.Node, com.google.home
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

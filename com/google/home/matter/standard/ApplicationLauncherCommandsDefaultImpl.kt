@@ -16,4 +16,3 @@ public interface ApplicationLauncherCommandsDefaultImpl : com.google.home.matter
 
     public open fun hideAppBatchable(optionalArgs: com.google.home.matter.standard.ApplicationLauncherTrait.HideAppCommand.OptionalArgs.() -> kotlin.Unit): com.google.home.BatchableCommand<com.google.home.matter.standard.ApplicationLauncherTrait.HideAppCommand.Response> { /* compiled code */ }
 }
-

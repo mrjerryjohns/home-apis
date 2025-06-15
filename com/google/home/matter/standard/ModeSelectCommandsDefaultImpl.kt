@@ -8,4 +8,3 @@ public interface ModeSelectCommandsDefaultImpl : com.google.home.matter.standard
 
     public open fun changeToModeBatchable(newMode: kotlin.UByte): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

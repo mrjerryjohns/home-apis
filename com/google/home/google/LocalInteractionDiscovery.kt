@@ -26,4 +26,3 @@ public final class LocalInteractionDiscovery private constructor(metadata: com.g
 
     public final suspend fun initializeDiscovery(enabledFeatures: kotlin.collections.List<com.google.home.google.LocalInteractionDiscoveryTrait.Feature> = COMPILED_CODE): kotlin.Unit { /* compiled code */ }
 }
-

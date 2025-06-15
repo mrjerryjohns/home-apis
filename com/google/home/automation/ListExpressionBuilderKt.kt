@@ -33,4 +33,3 @@ public infix fun <T, U> @receiver:androidx.annotation.NonNull com.google.home.au
 public infix fun <T> @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out kotlin.collections.List<T>?>.filter(body: (com.google.home.automation.TypedExpression<T>) -> com.google.home.automation.TypedExpression<kotlin.Boolean>): com.google.home.automation.TypedExpression<out kotlin.collections.List<T>?> { /* compiled code */ }
 
 internal fun <T> @receiver:androidx.annotation.NonNull kotlin.String.asReference(): com.google.home.automation.TypedExpression<T> { /* compiled code */ }
-

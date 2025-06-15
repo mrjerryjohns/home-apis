@@ -5,4 +5,3 @@ package com.google.home
 
 public object NoOpDescriptor : com.google.home.Descriptor {
 }
-

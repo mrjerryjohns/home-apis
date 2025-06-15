@@ -6,4 +6,3 @@ package com.google.home
 @com.google.home.annotation.HomeExperimentalApi public interface DeferredResponse<T> {
     public abstract fun getOrThrow(): T
 }
-

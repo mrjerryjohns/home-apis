@@ -29,4 +29,3 @@ public final class Action : com.google.home.automation.Node {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

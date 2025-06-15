@@ -343,4 +343,3 @@ public interface OtaSoftwareUpdateRequestor : com.google.home.matter.standard.Ot
         }
     }
 }
-

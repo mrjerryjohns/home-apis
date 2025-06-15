@@ -15,4 +15,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun entityMetadata(block: com.google.home.platform.traits.EntityMetadataKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.EntityMetadata { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.EntityMetadata.copy(block: com.google.home.platform.traits.EntityMetadataKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.EntityMetadata { /* compiled code */ }
-

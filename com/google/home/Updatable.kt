@@ -6,4 +6,3 @@ package com.google.home
 public interface Updatable<IMMUTABLE, MUTABLE> {
     public abstract suspend fun update(optimisticReturn: (IMMUTABLE) -> kotlin.Unit = COMPILED_CODE, init: MUTABLE.() -> kotlin.Unit): IMMUTABLE
 }
-

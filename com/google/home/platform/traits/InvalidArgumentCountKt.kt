@@ -36,4 +36,3 @@ public object InvalidArgumentCountKt {
         public final fun hasMaxOperands(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

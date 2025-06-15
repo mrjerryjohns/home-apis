@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun compressionConfig(block: com.google.home.platform.traits.CompressionConfigKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.CompressionConfig { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.CompressionConfig.copy(block: com.google.home.platform.traits.CompressionConfigKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.CompressionConfig { /* compiled code */ }
-

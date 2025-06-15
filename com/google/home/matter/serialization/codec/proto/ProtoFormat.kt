@@ -84,4 +84,3 @@ public object ProtoFormat {
         public final val value: kotlin.Int /* compiled code */
     }
 }
-

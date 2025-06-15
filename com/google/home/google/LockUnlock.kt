@@ -233,4 +233,3 @@ public interface LockUnlock : com.google.home.google.LockUnlockTrait.Attributes,
         }
     }
 }
-

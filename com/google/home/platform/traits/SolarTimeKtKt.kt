@@ -9,4 +9,3 @@ public val com.google.home.platform.traits.SolarTimeOrBuilder.offsetOrNull: com.
 @kotlin.jvm.JvmName public inline fun solarTime(block: com.google.home.platform.traits.SolarTimeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.SolarTime { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.SolarTime.copy(block: com.google.home.platform.traits.SolarTimeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.SolarTime { /* compiled code */ }
-

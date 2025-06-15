@@ -91,4 +91,3 @@ public interface WakeOnLan : com.google.home.matter.standard.WakeOnLanTrait.Attr
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

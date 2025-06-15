@@ -12,4 +12,3 @@ public fun kotlin.UInt /* from: com.google.home.matter.serialization.TagId */.se
 public fun kotlin.UInt /* from: com.google.home.matter.serialization.TagId */.setVendor(vendor: kotlin.UInt /* from: com.google.home.matter.serialization.TagId */ = COMPILED_CODE): kotlin.UInt /* from: com.google.home.matter.serialization.TagId */ { /* compiled code */ }
 
 public typealias TagId = kotlin.UInt
-

@@ -93,4 +93,3 @@ public interface Dock : com.google.home.google.DockTrait.Attributes, com.google.
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

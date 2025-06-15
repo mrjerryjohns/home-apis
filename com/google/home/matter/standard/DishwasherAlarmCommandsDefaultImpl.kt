@@ -12,4 +12,3 @@ public interface DishwasherAlarmCommandsDefaultImpl : com.google.home.matter.sta
 
     public open fun modifyEnabledAlarmsBatchable(mask: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

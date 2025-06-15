@@ -16,4 +16,3 @@ public final class FactoryRegistry public constructor(traits: kotlin.collections
 
     public final fun getTypeOrNull(typeId: kotlin.String): com.google.home.DeviceTypeFactory<out com.google.home.DeviceType>? { /* compiled code */ }
 }
-

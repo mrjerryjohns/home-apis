@@ -18,4 +18,3 @@ public final class Reference private constructor(reference: com.google.home.auto
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

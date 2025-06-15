@@ -285,4 +285,3 @@ public interface FilterMonitoring : com.google.home.google.FilterMonitoringTrait
         }
     }
 }
-

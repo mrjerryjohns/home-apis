@@ -89,4 +89,3 @@ public interface FaultInjection : com.google.home.matter.standard.FaultInjection
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

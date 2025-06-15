@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun assignment(block: com.google.home.platform.traits.AssignmentKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Assignment { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.Assignment.copy(block: com.google.home.platform.traits.AssignmentKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Assignment { /* compiled code */ }
-

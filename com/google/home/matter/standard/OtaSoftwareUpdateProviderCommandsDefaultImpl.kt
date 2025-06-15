@@ -16,4 +16,3 @@ public interface OtaSoftwareUpdateProviderCommandsDefaultImpl : com.google.home.
 
     public open fun notifyUpdateAppliedBatchable(updateToken: kotlin.ByteArray, softwareVersion: kotlin.UInt): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

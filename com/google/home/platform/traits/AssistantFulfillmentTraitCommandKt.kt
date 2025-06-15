@@ -147,4 +147,3 @@ public object AssistantFulfillmentTraitCommandKt {
         public final fun clearCommand(): kotlin.Unit { /* compiled code */ }
     }
 }
-

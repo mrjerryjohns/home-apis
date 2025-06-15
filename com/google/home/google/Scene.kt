@@ -105,4 +105,3 @@ public interface Scene : com.google.home.google.SceneTrait.Attributes, com.googl
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

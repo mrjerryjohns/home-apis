@@ -14,4 +14,3 @@ public final class ByteArrayOutputStream public constructor() {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

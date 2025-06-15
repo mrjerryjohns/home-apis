@@ -703,4 +703,3 @@ public interface SmokeCoAlarm : com.google.home.matter.standard.SmokeCoAlarmTrai
         }
     }
 }
-

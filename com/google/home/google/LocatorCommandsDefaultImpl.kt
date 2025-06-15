@@ -12,4 +12,3 @@ public interface LocatorCommandsDefaultImpl : com.google.home.google.LocatorComm
 
     public open fun silenceBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

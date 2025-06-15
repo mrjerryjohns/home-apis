@@ -54,4 +54,3 @@ public object ExtendedLevelControlTrait {
         public final fun copy(defaultStepSize: kotlin.UInt? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ExtendedLevelControlTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

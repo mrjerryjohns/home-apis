@@ -137,4 +137,3 @@ public interface ModeSelect : com.google.home.matter.standard.ModeSelectTrait.At
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

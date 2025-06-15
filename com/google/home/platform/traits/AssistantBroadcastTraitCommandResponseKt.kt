@@ -27,4 +27,3 @@ public object AssistantBroadcastTraitCommandResponseKt {
         public final fun clearResponse(): kotlin.Unit { /* compiled code */ }
     }
 }
-

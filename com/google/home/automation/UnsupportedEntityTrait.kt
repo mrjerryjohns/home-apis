@@ -16,4 +16,3 @@ public final class UnsupportedEntityTrait public constructor(node: com.google.ho
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

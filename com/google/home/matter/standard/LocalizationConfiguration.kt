@@ -93,4 +93,3 @@ public interface LocalizationConfiguration : com.google.home.matter.standard.Loc
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

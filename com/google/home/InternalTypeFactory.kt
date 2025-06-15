@@ -8,4 +8,3 @@ public interface InternalTypeFactory<T : com.google.home.HomeObjectType> {
 
     public abstract val traits: kotlin.collections.List<com.google.home.TraitFactory<*>>
 }
-

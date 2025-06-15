@@ -14,4 +14,3 @@ public final class ConstraintUnit public constructor(baseUnit: com.google.home.a
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -152,7 +152,8 @@ public object ExtendedOperationalStateTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(operationZones: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, activeOperationZones: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, currentPhaseCountdownTimeSeconds: kotlin.UInt? = COMPILED_CODE, minOperationDurationSeconds: kotlin.UInt? = COMPILED_CODE, maxOperationDurationSeconds: kotlin.UInt? = COMPILED_CODE, operationCompletionTimestamp: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.ExtendedOperationalStateTrait.Attributes {
+        public open class AttributesImpl public constructor(operationZones: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, activeOperationZones: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, currentPhaseCountdownTimeSeconds: kotlin.UInt? = COMPILED_CODE, minOperationDurationSeconds: kotlin.UInt? = COMPILED_CODE, maxOperationDurationSeconds: kotlin.UInt? = COMPILED_CODE, operationCompletionTimestamp: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.google.ExtendedOperationalStateTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.google.ExtendedOperationalStateTrait.Attributes.Adapter /* compiled code */
         }
@@ -187,7 +188,8 @@ public object ExtendedOperationalStateTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(operationZones: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, activeOperationZones: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, currentPhaseCountdownTimeSeconds: kotlin.UInt? = COMPILED_CODE, minOperationDurationSeconds: kotlin.UInt? = COMPILED_CODE, maxOperationDurationSeconds: kotlin.UInt? = COMPILED_CODE, operationCompletionTimestamp: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ExtendedOperationalStateTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(operationZones: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, activeOperationZones: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, currentPhaseCountdownTimeSeconds: kotlin.UInt? = COMPILED_CODE, minOperationDurationSeconds: kotlin.UInt? = COMPILED_CODE, maxOperationDurationSeconds: kotlin.UInt? = COMPILED_CODE, operationCompletionTimestamp: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE):
+            com.google.home.google.ExtendedOperationalStateTrait.AttributesImpl { /* compiled code */ }
     }
 
     public object StartWithOperationZonesCommand : com.google.home.CommandDescriptor {
@@ -286,4 +288,3 @@ public object ExtendedOperationalStateTrait {
         }
     }
 }
-

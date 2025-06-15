@@ -13,4 +13,3 @@ public final class DeviceManagement private constructor(metadata: com.google.hom
 
     public final suspend fun moveDevicesToRoom(roomId: kotlin.String, deviceIds: kotlin.collections.List<kotlin.String>): com.google.home.google.DeviceManagementTrait.MoveDevicesToRoomCommand.MoveDevicesToRoomResponse { /* compiled code */ }
 }
-

@@ -75,4 +75,3 @@ public interface PulseWidthModulation : com.google.home.matter.standard.PulseWid
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

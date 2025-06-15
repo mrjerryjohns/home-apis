@@ -123,4 +123,3 @@ public interface Channel : com.google.home.matter.standard.ChannelTrait.Attribut
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

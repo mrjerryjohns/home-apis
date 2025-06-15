@@ -8,4 +8,3 @@ public interface ThreadNetworkDiagnosticsCommandsDefaultImpl : com.google.home.m
 
     public open fun resetCountsBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

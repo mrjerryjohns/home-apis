@@ -12,4 +12,3 @@ public final class PlatformEnumAdapter<RUNTIME : com.google.home.google.Platform
 
     public final fun toRuntime(enumStringValue: kotlin.String): RUNTIME { /* compiled code */ }
 }
-

@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun mapType(block: com.google.home.platform.traits.MapTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.MapType { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.MapType.copy(block: com.google.home.platform.traits.MapTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.MapType { /* compiled code */ }
-

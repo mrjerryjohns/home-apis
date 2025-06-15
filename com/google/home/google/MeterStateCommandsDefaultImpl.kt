@@ -8,4 +8,3 @@ public interface MeterStateCommandsDefaultImpl : com.google.home.google.MeterSta
 
     public open fun fetchMeterStateHistoryBatchable(startTimeUnixTimestampSeconds: kotlin.Long, endTimeUnixTimestampSeconds: kotlin.Long, meterStates: kotlin.collections.List<com.google.home.google.MeterStateTrait.MeterStates>): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

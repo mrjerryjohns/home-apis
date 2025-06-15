@@ -107,4 +107,3 @@ public interface TemperatureMeasurement : com.google.home.matter.standard.Temper
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

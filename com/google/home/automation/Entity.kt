@@ -14,4 +14,3 @@ public final class Entity internal constructor(entityObject: com.google.home.Has
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

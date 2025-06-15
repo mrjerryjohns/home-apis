@@ -28,4 +28,3 @@ public final class EventCandidate public constructor(entity: com.google.home.Has
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

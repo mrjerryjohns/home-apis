@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun roomManagementTraitCommandResponse(block: com.google.home.platform.traits.RoomManagementTraitCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.RoomManagementTraitCommandResponse { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.RoomManagementTraitCommandResponse.copy(block: com.google.home.platform.traits.RoomManagementTraitCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.RoomManagementTraitCommandResponse { /* compiled code */ }
-

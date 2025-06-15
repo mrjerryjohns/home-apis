@@ -155,7 +155,8 @@ public object ModeSelectTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(description: kotlin.String? = COMPILED_CODE, standardNamespace: kotlin.UShort? = COMPILED_CODE, supportedModes: kotlin.collections.List<com.google.home.matter.standard.ModeSelectTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.ModeSelectTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.ModeSelectTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.ModeSelectTrait.Attributes, com.google.home.matter.standard.ModeSelectTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(description: kotlin.String? = COMPILED_CODE, standardNamespace: kotlin.UShort? = COMPILED_CODE, supportedModes: kotlin.collections.List<com.google.home.matter.standard.ModeSelectTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.ModeSelectTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.ModeSelectTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.ModeSelectTrait.Attributes, com.google.home.matter.standard.ModeSelectTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.ModeSelectTrait.Attributes.Adapter /* compiled code */
         }
@@ -192,7 +193,8 @@ public object ModeSelectTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(description: kotlin.String? = COMPILED_CODE, standardNamespace: kotlin.UShort? = COMPILED_CODE, supportedModes: kotlin.collections.List<com.google.home.matter.standard.ModeSelectTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.ModeSelectTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.ModeSelectTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(description: kotlin.String? = COMPILED_CODE, standardNamespace: kotlin.UShort? = COMPILED_CODE, supportedModes: kotlin.collections.List<com.google.home.matter.standard.ModeSelectTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.ModeSelectTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE):
+            com.google.home.matter.standard.ModeSelectTrait.AttributesImpl { /* compiled code */ }
     }
 
     public final class MutableAttributes public constructor(attributes: com.google.home.matter.standard.ModeSelectTrait.Attributes) : com.google.home.matter.standard.ModeSelectTrait.AttributesImpl {
@@ -271,4 +273,3 @@ public object ModeSelectTrait {
         }
     }
 }
-

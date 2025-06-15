@@ -12,4 +12,3 @@ public interface InterconnectCommands {
 
     public abstract fun clearInterconnectCredentialsBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

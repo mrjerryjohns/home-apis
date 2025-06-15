@@ -14,4 +14,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.RoomManagementTrait.DeleteRoom.copy(block: com.google.home.platform.traits.RoomManagementTraitKt.DeleteRoomKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.RoomManagementTrait.DeleteRoom { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.RoomManagementTrait.DeleteRoomResponse.copy(block: com.google.home.platform.traits.RoomManagementTraitKt.DeleteRoomResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.RoomManagementTrait.DeleteRoomResponse { /* compiled code */ }
-

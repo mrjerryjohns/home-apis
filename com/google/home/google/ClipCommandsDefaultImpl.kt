@@ -12,4 +12,3 @@ public interface ClipCommandsDefaultImpl : com.google.home.google.ClipCommands {
 
     public open fun saveVideoClipBatchable(durationSeconds: kotlin.ULong): com.google.home.BatchableCommand<com.google.home.google.ClipTrait.SaveVideoClipCommand.Response> { /* compiled code */ }
 }
-

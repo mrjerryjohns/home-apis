@@ -107,4 +107,3 @@ public interface SoilMoistureMeasurement : com.google.home.google.SoilMoistureMe
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

@@ -103,4 +103,3 @@ public interface ApplicationLauncher : com.google.home.matter.standard.Applicati
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

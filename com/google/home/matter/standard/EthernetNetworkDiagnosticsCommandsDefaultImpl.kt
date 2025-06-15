@@ -8,4 +8,3 @@ public interface EthernetNetworkDiagnosticsCommandsDefaultImpl : com.google.home
 
     public open fun resetCountsBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

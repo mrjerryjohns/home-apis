@@ -117,4 +117,3 @@ public interface AdministratorCommissioning : com.google.home.matter.standard.Ad
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

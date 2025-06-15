@@ -419,4 +419,3 @@ public object MeterStateTrait {
         }
     }
 }
-

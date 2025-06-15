@@ -24,4 +24,3 @@ public object AreaPresenceStateTraitKt {
         public final fun clearPresenceState(): kotlin.Unit { /* compiled code */ }
     }
 }
-

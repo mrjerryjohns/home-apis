@@ -83,4 +83,3 @@ public interface Binding : com.google.home.matter.standard.BindingTrait.Attribut
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

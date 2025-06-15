@@ -12,4 +12,3 @@ public interface InterconnectCommandsDefaultImpl : com.google.home.google.Interc
 
     public open fun clearInterconnectCredentialsBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

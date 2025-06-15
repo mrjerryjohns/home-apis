@@ -88,4 +88,3 @@ public object SpeedMeasurementTrait {
         public final fun copy(measurementUnit: com.google.home.google.SpeedMeasurementTrait.MeasurementUnit? = COMPILED_CODE, measuredValue: kotlin.Int? = COMPILED_CODE, minMeasuredValue: kotlin.UInt? = COMPILED_CODE, maxMeasuredValue: kotlin.UInt? = COMPILED_CODE, tolerance: kotlin.UInt? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.SpeedMeasurementTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

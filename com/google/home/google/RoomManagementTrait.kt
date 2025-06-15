@@ -85,4 +85,3 @@ public final class RoomManagementTrait public constructor() {
     public final class AttributesImpl public constructor() : com.google.home.google.RoomManagementTrait.Attributes {
     }
 }
-

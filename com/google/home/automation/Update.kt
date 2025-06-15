@@ -16,4 +16,3 @@ public final class Update public constructor(trait: com.google.home.TraitFactory
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

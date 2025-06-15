@@ -8,4 +8,3 @@ package com.google.home
 
     public final val addedObject: T /* compiled code */
 }
-

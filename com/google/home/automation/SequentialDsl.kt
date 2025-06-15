@@ -6,4 +6,3 @@ package com.google.home.automation
 public interface SequentialDsl : com.google.home.automation.AutomationFlowContributor {
     public open fun sequential(block: com.google.home.automation.SequentialFlowBuilder.() -> kotlin.Unit): kotlin.Unit { /* compiled code */ }
 }
-

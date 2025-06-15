@@ -75,4 +75,3 @@ public interface ProxyValid : com.google.home.matter.standard.ProxyValidTrait.At
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

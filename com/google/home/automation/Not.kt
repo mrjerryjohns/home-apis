@@ -8,4 +8,3 @@ public final class Not : com.google.home.automation.UnaryExpression {
 
     internal constructor(operand: com.google.home.automation.Expression, expressionId: kotlin.String) { /* compiled code */ }
 }
-

@@ -981,4 +981,3 @@ public interface PumpConfigurationAndControl : com.google.home.matter.standard.P
         }
     }
 }
-

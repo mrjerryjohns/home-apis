@@ -161,4 +161,3 @@ public interface OperationalCredentials : com.google.home.matter.standard.Operat
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

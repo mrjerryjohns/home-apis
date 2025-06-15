@@ -20,4 +20,3 @@ public interface OperationalStateCommandsDefaultImpl : com.google.home.matter.st
 
     public open fun resumeBatchable(): com.google.home.BatchableCommand<com.google.home.matter.standard.OperationalStateTrait.ResumeCommand.Response> { /* compiled code */ }
 }
-

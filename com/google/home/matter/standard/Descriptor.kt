@@ -115,4 +115,3 @@ public interface Descriptor : com.google.home.matter.standard.DescriptorTrait.At
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

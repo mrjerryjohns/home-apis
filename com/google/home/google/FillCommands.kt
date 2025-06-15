@@ -8,4 +8,3 @@ public interface FillCommands {
 
     public abstract fun fillBatchable(fill: kotlin.Boolean, fillLevel: kotlin.String, fillPercent: kotlin.Float): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

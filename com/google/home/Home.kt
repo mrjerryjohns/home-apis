@@ -3,7 +3,8 @@
 
 package com.google.home
 
-@com.google.android.gms.common.annotation.KeepForSdk @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.RequiresApi public final class Home internal constructor(context: android.content.Context, permissionsClient: com.google.android.gms.home.permissions.PermissionsClient, authorizationClient: com.google.android.gms.home.internal.AuthorizationClient = COMPILED_CODE, homeConfig: com.google.home.HomeConfig = COMPILED_CODE, googleApiAvailability: com.google.android.gms.common.GoogleApiAvailabilityLight = COMPILED_CODE, permissionsUiManagerOverride: com.google.android.gms.home.internal.PermissionsUiManager? = COMPILED_CODE, providedAccount: com.google.android.gms.auth.api.signin.GoogleSignInAccount? = COMPILED_CODE, homeManagerOverride: com.google.home.HomeManager? = COMPILED_CODE, previousShutdownJob: kotlinx.coroutines.Job? = COMPILED_CODE, use1pAuthFlow: kotlin.Boolean = COMPILED_CODE, googleAuthUtilWrapper: com.google.android.gms.home.internal.GhpGoogleAuthUtilWrapper = COMPILED_CODE) : com.google.home.HomeClient {
+@com.google.android.gms.common.annotation.KeepForSdk @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.RequiresApi public final class Home internal constructor(context: android.content.Context, permissionsClient: com.google.android.gms.home.permissions.PermissionsClient, authorizationClient: com.google.android.gms.home.internal.AuthorizationClient = COMPILED_CODE, homeConfig: com.google.home.HomeConfig = COMPILED_CODE, googleApiAvailability: com.google.android.gms.common.GoogleApiAvailabilityLight = COMPILED_CODE, permissionsUiManagerOverride: com.google.android.gms.home.internal.PermissionsUiManager? = COMPILED_CODE, providedAccount: com.google.android.gms.auth.api.signin.GoogleSignInAccount? = COMPILED_CODE, homeManagerOverride: com.google.home.HomeManager? =
+    COMPILED_CODE, previousShutdownJob: kotlinx.coroutines.Job? = COMPILED_CODE, use1pAuthFlow: kotlin.Boolean = COMPILED_CODE, googleAuthUtilWrapper: com.google.android.gms.home.internal.GhpGoogleAuthUtilWrapper = COMPILED_CODE) : com.google.home.HomeClient {
     public companion object : com.google.android.gms.common.api.OptionalModuleApi {
         public const final val TAG: kotlin.String = COMPILED_CODE /* compiled code */
 
@@ -150,4 +151,3 @@ package com.google.home
 
     private final fun calculateSupportedFeatures(): kotlin.collections.Set<com.google.home.Feature> { /* compiled code */ }
 }
-

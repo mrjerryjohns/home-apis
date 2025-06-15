@@ -8,4 +8,3 @@ public final enum class JoinSemanticType private constructor() : kotlin.Enum<com
 
     @androidx.annotation.NonNull JsUnspecified;
 }
-

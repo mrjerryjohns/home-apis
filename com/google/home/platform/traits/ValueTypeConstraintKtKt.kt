@@ -45,4 +45,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun valueTypeConstraint(block: com.google.home.platform.traits.ValueTypeConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ValueTypeConstraint { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ValueTypeConstraint.copy(block: com.google.home.platform.traits.ValueTypeConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ValueTypeConstraint { /* compiled code */ }
-

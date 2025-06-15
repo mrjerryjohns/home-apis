@@ -91,4 +91,3 @@ public interface Max2FilterMonitoring : com.google.home.google.Max2FilterMonitor
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

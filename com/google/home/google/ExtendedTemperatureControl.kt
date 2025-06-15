@@ -207,4 +207,3 @@ public interface ExtendedTemperatureControl : com.google.home.google.ExtendedTem
         }
     }
 }
-

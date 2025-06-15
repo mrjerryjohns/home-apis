@@ -60,4 +60,3 @@ public interface MediaPlaybackCommandsDefaultImpl : com.google.home.matter.stand
 
     public open fun deactivateTextTrackBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

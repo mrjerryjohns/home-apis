@@ -8,4 +8,3 @@ public interface DispenseCommands {
 
     public abstract fun dispenseBatchable(item: kotlin.String, amount: kotlin.Float, unit: com.google.home.google.DispenseTrait.Unit, presetName: kotlin.String): com.google.home.BatchableCommand<com.google.home.google.DispenseTrait.DispenseCommand.Response>
 }
-

@@ -25,4 +25,3 @@ public object SuppressionDurationOutOfRangeKt {
         public final fun hasDuration(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

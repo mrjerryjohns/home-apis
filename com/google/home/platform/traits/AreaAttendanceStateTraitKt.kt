@@ -24,4 +24,3 @@ public object AreaAttendanceStateTraitKt {
         public final fun clearAttendanceState(): kotlin.Unit { /* compiled code */ }
     }
 }
-

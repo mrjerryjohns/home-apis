@@ -12,4 +12,3 @@ public final class MissingStructureAddressSetup public constructor(reason: kotli
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

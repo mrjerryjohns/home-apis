@@ -12,4 +12,3 @@ public interface ExtendedPowerSourceCommandsDefaultImpl : com.google.home.google
 
     public open fun stopChargingBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

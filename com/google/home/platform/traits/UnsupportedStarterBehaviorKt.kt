@@ -20,4 +20,3 @@ public object UnsupportedStarterBehaviorKt {
         public final fun clearBehaviorType(): kotlin.Unit { /* compiled code */ }
     }
 }
-

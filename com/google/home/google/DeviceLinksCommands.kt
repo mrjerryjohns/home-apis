@@ -8,4 +8,3 @@ public interface DeviceLinksCommands {
 
     public abstract fun getDeviceLinksBatchable(): com.google.home.BatchableCommand<com.google.home.google.DeviceLinksTrait.GetDeviceLinksCommand.Response>
 }
-

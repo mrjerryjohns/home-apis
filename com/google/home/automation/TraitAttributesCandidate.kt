@@ -28,4 +28,3 @@ public final class TraitAttributesCandidate public constructor(entity: com.googl
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

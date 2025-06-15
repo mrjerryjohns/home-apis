@@ -34,4 +34,3 @@ public final class TargetNavigatorImpl public constructor(metadata: com.google.h
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

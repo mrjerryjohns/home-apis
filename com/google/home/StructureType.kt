@@ -14,4 +14,3 @@ public final class StructureType public constructor() : com.google.home.HomeObje
         public open val traits: kotlin.collections.List<com.google.home.TraitFactory<*>> /* compiled code */
     }
 }
-

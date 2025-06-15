@@ -101,4 +101,3 @@ public interface ExtendedChannel : com.google.home.google.ExtendedChannelTrait.A
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

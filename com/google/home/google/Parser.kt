@@ -8,4 +8,3 @@ public interface Parser<T> {
 
     public abstract fun encode(payload: T): kotlin.ByteArray
 }
-

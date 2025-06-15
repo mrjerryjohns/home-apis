@@ -20,4 +20,3 @@ public interface GroupKeyManagementCommands {
 
     public abstract fun keySetReadAllIndicesBatchable(): com.google.home.BatchableCommand<com.google.home.matter.standard.GroupKeyManagementTrait.KeySetReadAllIndicesCommand.Response>
 }
-

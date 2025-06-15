@@ -8,4 +8,3 @@ public object FloatSerializer : com.google.home.matter.serialization.ValueSerial
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): kotlin.Float { /* compiled code */ }
 }
-

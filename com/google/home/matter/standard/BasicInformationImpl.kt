@@ -78,4 +78,3 @@ public final class BasicInformationImpl public constructor(metadata: com.google.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

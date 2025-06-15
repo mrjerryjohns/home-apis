@@ -12,4 +12,3 @@ public final enum class PermissionsState private constructor() : kotlin.Enum<com
 
     @androidx.annotation.NonNull PERMISSIONS_STATE_UNINITIALIZED;
 }
-

@@ -30,4 +30,3 @@ public final class AutomationExecutionTrait public constructor() {
         public open fun hashCode(): kotlin.Int { /* compiled code */ }
     }
 }
-

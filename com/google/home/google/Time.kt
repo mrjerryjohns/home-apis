@@ -260,4 +260,3 @@ public final class Time private constructor(metadata: com.google.home.Trait.Trai
         }
     }
 }
-

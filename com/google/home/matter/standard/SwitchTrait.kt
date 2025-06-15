@@ -354,4 +354,3 @@ public object SwitchTrait {
         public final fun copy(numberOfPositions: kotlin.UByte? = COMPILED_CODE, currentPosition: kotlin.UByte? = COMPILED_CODE, multiPressMax: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.SwitchTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE, googleSyntheticFeatures: com.google.home.matter.standard.SwitchTrait.GoogleSyntheticFeatures? = COMPILED_CODE): com.google.home.matter.standard.SwitchTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

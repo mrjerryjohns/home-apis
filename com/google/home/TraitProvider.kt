@@ -8,4 +8,3 @@ public interface TraitProvider {
 
     public open fun traits(): kotlin.collections.Set<com.google.home.Trait> { /* compiled code */ }
 }
-

@@ -12,4 +12,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.DeviceManagementTrait.MoveDevicesToRoomResponse.copy(block: com.google.home.platform.traits.DeviceManagementTraitKt.MoveDevicesToRoomResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.DeviceManagementTrait.MoveDevicesToRoomResponse { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.DeviceManagementTrait.MoveDevicesToRoomResponse.DeviceInRoom.copy(block: com.google.home.platform.traits.DeviceManagementTraitKt.MoveDevicesToRoomResponseKt.DeviceInRoomKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.DeviceManagementTrait.MoveDevicesToRoomResponse.DeviceInRoom { /* compiled code */ }
-

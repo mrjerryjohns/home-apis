@@ -221,4 +221,3 @@ public interface SyntheticSwitch : com.google.home.google.SyntheticSwitchTrait.A
         }
     }
 }
-

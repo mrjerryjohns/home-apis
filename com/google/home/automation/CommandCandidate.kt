@@ -28,4 +28,3 @@ public final class CommandCandidate public constructor(entity: com.google.home.H
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

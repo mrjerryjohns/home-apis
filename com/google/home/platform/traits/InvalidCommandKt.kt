@@ -28,4 +28,3 @@ public object InvalidCommandKt {
         public final fun hasExpectedBehaviorType(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

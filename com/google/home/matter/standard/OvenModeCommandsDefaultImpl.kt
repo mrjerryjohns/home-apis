@@ -8,4 +8,3 @@ public interface OvenModeCommandsDefaultImpl : com.google.home.matter.standard.O
 
     public open fun changeToModeBatchable(newMode: kotlin.UByte): com.google.home.BatchableCommand<com.google.home.matter.standard.OvenModeTrait.ChangeToModeCommand.Response> { /* compiled code */ }
 }
-

@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun listType(block: com.google.home.platform.traits.ListTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ListType { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ListType.copy(block: com.google.home.platform.traits.ListTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ListType { /* compiled code */ }
-

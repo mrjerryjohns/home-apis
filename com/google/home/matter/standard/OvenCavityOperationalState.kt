@@ -263,4 +263,3 @@ public interface OvenCavityOperationalState : com.google.home.matter.standard.Ov
         }
     }
 }
-

@@ -6,4 +6,3 @@ package com.google.home
 public interface HasId {
     public abstract val id: com.google.home.Id
 }
-

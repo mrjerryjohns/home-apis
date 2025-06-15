@@ -117,4 +117,3 @@ public interface Fill : com.google.home.google.FillTrait.Attributes, com.google.
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

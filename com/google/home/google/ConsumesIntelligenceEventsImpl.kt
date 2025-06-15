@@ -32,4 +32,3 @@ public final class ConsumesIntelligenceEventsImpl public constructor(metadata: c
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

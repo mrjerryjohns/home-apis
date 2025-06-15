@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidField(block: com.google.home.platform.traits.InvalidFieldKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidField { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidField.copy(block: com.google.home.platform.traits.InvalidFieldKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidField { /* compiled code */ }
-

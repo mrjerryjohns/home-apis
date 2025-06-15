@@ -119,4 +119,3 @@ public object UnitLocalizationTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

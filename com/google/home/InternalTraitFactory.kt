@@ -6,4 +6,3 @@ package com.google.home
 public interface InternalTraitFactory<T : com.google.home.Trait> {
     public abstract val traitId: kotlin.String
 }
-

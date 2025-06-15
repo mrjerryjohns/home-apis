@@ -257,4 +257,3 @@ public interface CameraStream : com.google.home.google.CameraStreamTrait.Attribu
         }
     }
 }
-

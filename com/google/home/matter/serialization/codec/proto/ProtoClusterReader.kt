@@ -30,4 +30,3 @@ public final class ProtoClusterReader public constructor(strictOperationValidati
 
     public final fun <T> @receiver:androidx.annotation.NonNull com.google.home.matter.serialization.codec.proto.CodedInputStream.readStruct(adapter: com.google.home.matter.serialization.StructAdapter<T>?, reader: com.google.home.matter.serialization.codec.proto.ProtoClusterReader): T { /* compiled code */ }
 }
-

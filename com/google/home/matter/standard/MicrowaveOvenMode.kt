@@ -91,4 +91,3 @@ public interface MicrowaveOvenMode : com.google.home.matter.standard.MicrowaveOv
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

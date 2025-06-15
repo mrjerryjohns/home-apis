@@ -52,4 +52,3 @@ public interface ActionsCommands {
 
     public abstract fun disableActionWithDurationBatchable(actionId: kotlin.UShort, duration: kotlin.UInt, optionalArgs: com.google.home.matter.standard.ActionsTrait.DisableActionWithDurationCommand.OptionalArgs.() -> kotlin.Unit = COMPILED_CODE): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

@@ -12,4 +12,3 @@ public final class FunctionAdapter<FROM : kotlin.Any, TO : kotlin.Any> public co
 
     public open fun toRuntime(value: FROM): TO { /* compiled code */ }
 }
-

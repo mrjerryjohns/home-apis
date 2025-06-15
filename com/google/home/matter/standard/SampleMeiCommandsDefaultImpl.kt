@@ -12,4 +12,3 @@ public interface SampleMeiCommandsDefaultImpl : com.google.home.matter.standard.
 
     public open fun addArgumentsBatchable(arg1: kotlin.UByte, arg2: kotlin.UByte): com.google.home.BatchableCommand<com.google.home.matter.standard.SampleMeiTrait.AddArgumentsCommand.Response> { /* compiled code */ }
 }
-

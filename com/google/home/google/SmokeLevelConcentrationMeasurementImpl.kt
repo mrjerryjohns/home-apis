@@ -30,4 +30,3 @@ public final class SmokeLevelConcentrationMeasurementImpl public constructor(met
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

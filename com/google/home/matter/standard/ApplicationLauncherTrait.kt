@@ -478,4 +478,3 @@ public object ApplicationLauncherTrait {
         }
     }
 }
-

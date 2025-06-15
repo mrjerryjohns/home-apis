@@ -4,4 +4,3 @@
 package com.google.home.automation
 
 public typealias DraftAutomation = com.google.home.automation.BaseAutomation
-

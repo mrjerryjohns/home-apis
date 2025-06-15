@@ -79,4 +79,3 @@ public object LocalizationConfigurationTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

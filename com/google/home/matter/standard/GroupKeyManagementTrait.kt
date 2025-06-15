@@ -269,7 +269,8 @@ public object GroupKeyManagementTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(groupKeyMap: kotlin.collections.List<com.google.home.matter.standard.GroupKeyManagementTrait.GroupKeyMapStruct>? = COMPILED_CODE, groupTable: kotlin.collections.List<com.google.home.matter.standard.GroupKeyManagementTrait.GroupInfoMapStruct>? = COMPILED_CODE, maxGroupsPerFabric: kotlin.UShort? = COMPILED_CODE, maxGroupKeysPerFabric: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.GroupKeyManagementTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.GroupKeyManagementTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.GroupKeyManagementTrait.Attributes, com.google.home.matter.standard.GroupKeyManagementTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(groupKeyMap: kotlin.collections.List<com.google.home.matter.standard.GroupKeyManagementTrait.GroupKeyMapStruct>? = COMPILED_CODE, groupTable: kotlin.collections.List<com.google.home.matter.standard.GroupKeyManagementTrait.GroupInfoMapStruct>? = COMPILED_CODE, maxGroupsPerFabric: kotlin.UShort? = COMPILED_CODE, maxGroupKeysPerFabric: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.GroupKeyManagementTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.GroupKeyManagementTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.GroupKeyManagementTrait.Attributes, com.google.home.matter.standard.GroupKeyManagementTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.GroupKeyManagementTrait.Attributes.Adapter /* compiled code */
         }
@@ -302,7 +303,8 @@ public object GroupKeyManagementTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(groupKeyMap: kotlin.collections.List<com.google.home.matter.standard.GroupKeyManagementTrait.GroupKeyMapStruct>? = COMPILED_CODE, groupTable: kotlin.collections.List<com.google.home.matter.standard.GroupKeyManagementTrait.GroupInfoMapStruct>? = COMPILED_CODE, maxGroupsPerFabric: kotlin.UShort? = COMPILED_CODE, maxGroupKeysPerFabric: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.GroupKeyManagementTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.GroupKeyManagementTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(groupKeyMap: kotlin.collections.List<com.google.home.matter.standard.GroupKeyManagementTrait.GroupKeyMapStruct>? = COMPILED_CODE, groupTable: kotlin.collections.List<com.google.home.matter.standard.GroupKeyManagementTrait.GroupInfoMapStruct>? = COMPILED_CODE, maxGroupsPerFabric: kotlin.UShort? = COMPILED_CODE, maxGroupKeysPerFabric: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.GroupKeyManagementTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE):
+            com.google.home.matter.standard.GroupKeyManagementTrait.AttributesImpl { /* compiled code */ }
     }
 
     public final class MutableAttributes public constructor(attributes: com.google.home.matter.standard.GroupKeyManagementTrait.Attributes) : com.google.home.matter.standard.GroupKeyManagementTrait.AttributesImpl {
@@ -576,4 +578,3 @@ public object GroupKeyManagementTrait {
         }
     }
 }
-

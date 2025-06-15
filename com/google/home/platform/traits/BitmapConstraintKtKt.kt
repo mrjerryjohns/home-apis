@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun bitmapConstraint(block: com.google.home.platform.traits.BitmapConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.BitmapConstraint { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.BitmapConstraint.copy(block: com.google.home.platform.traits.BitmapConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.BitmapConstraint { /* compiled code */ }
-

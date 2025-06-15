@@ -8,4 +8,3 @@ public interface RefrigeratorAndTemperatureControlledCabinetModeCommands {
 
     public abstract fun changeToModeBatchable(newMode: kotlin.UByte): com.google.home.BatchableCommand<com.google.home.matter.standard.RefrigeratorAndTemperatureControlledCabinetModeTrait.ChangeToModeCommand.Response>
 }
-

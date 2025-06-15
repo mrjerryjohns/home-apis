@@ -8,4 +8,3 @@ public interface ExtendedThermostatCommandsDefaultImpl : com.google.home.google.
 
     public open fun notifySensorStateChangeBatchable(sensorType: com.google.home.google.ExtendedThermostatTrait.SensorType, alarmType: com.google.home.google.ExtendedThermostatTrait.AlarmType): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

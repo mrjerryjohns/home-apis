@@ -8,4 +8,3 @@ public interface ActivatedCarbonFilterMonitoringCommandsDefaultImpl : com.google
 
     public open fun resetConditionBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

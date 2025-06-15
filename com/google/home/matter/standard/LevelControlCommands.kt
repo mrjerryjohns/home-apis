@@ -40,4 +40,3 @@ public interface LevelControlCommands {
 
     public abstract fun moveToClosestFrequencyBatchable(frequency: kotlin.UShort): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

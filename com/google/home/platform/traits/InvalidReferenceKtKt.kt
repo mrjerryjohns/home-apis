@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidReference(block: com.google.home.platform.traits.InvalidReferenceKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidReference { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidReference.copy(block: com.google.home.platform.traits.InvalidReferenceKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidReference { /* compiled code */ }
-

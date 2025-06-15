@@ -32,4 +32,3 @@ public final class SoilMoistureMeasurementImpl public constructor(metadata: com.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

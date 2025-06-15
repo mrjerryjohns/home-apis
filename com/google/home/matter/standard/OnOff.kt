@@ -151,4 +151,3 @@ public interface OnOff : com.google.home.matter.standard.OnOffTrait.Attributes, 
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

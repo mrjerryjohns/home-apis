@@ -703,4 +703,3 @@ public interface ThreadNetworkDiagnostics : com.google.home.matter.standard.Thre
         }
     }
 }
-

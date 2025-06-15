@@ -8,4 +8,3 @@ public interface DishwasherModeCommandsDefaultImpl : com.google.home.matter.stan
 
     public open fun changeToModeBatchable(newMode: kotlin.UByte): com.google.home.BatchableCommand<com.google.home.matter.standard.DishwasherModeTrait.ChangeToModeCommand.Response> { /* compiled code */ }
 }
-

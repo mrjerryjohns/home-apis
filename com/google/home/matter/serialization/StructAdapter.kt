@@ -8,4 +8,3 @@ public interface StructAdapter<T> {
 
     public open fun read(reader: com.google.home.matter.serialization.ClusterPayloadReader): T { /* compiled code */ }
 }
-

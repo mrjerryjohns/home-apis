@@ -20,4 +20,3 @@ public interface ExtendedMediaPlaybackCommands {
 
     public abstract fun shuffleBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

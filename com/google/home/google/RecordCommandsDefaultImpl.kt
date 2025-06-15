@@ -16,4 +16,3 @@ public interface RecordCommandsDefaultImpl : com.google.home.google.RecordComman
 
     public open fun recordBatchable(reason: com.google.home.google.RecordTrait.RecordingReason, durationSeconds: kotlin.UInt): com.google.home.BatchableCommand<com.google.home.google.RecordTrait.RecordCommand.Response> { /* compiled code */ }
 }
-

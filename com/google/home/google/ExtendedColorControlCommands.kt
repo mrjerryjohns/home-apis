@@ -16,4 +16,3 @@ public interface ExtendedColorControlCommands {
 
     public abstract fun moveToColorHsvBatchable(hue: kotlin.Float, saturation: kotlin.Float, value: kotlin.Float): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

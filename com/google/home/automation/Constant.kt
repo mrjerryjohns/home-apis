@@ -12,4 +12,3 @@ public final class Constant internal constructor(constant: kotlin.Any?) : com.go
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

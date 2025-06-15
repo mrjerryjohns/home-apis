@@ -15,4 +15,3 @@ public final class RoomManagement private constructor(metadata: com.google.home.
 
     public final suspend fun deleteRoom(roomId: kotlin.String): kotlin.Unit { /* compiled code */ }
 }
-

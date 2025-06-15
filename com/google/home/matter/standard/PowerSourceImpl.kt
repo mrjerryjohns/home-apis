@@ -88,4 +88,3 @@ public final class PowerSourceImpl public constructor(metadata: com.google.home.
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

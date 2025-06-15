@@ -40,4 +40,3 @@ public interface LevelControlCommandsDefaultImpl : com.google.home.matter.standa
 
     public open fun moveToClosestFrequencyBatchable(frequency: kotlin.UShort): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

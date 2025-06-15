@@ -20,4 +20,3 @@ public open class Bitmap public constructor(value: kotlin.ULong) {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -54,4 +54,3 @@ public final class OvenCavityOperationalStateImpl public constructor(metadata: c
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

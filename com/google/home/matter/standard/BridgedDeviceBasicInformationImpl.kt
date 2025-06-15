@@ -66,4 +66,3 @@ public final class BridgedDeviceBasicInformationImpl public constructor(metadata
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

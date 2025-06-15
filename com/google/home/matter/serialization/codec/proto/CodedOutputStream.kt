@@ -66,4 +66,3 @@ public final class CodedOutputStream public constructor(byteStream: com.google.h
 
     public final fun computeBoolSizeNoTag(value: kotlin.Boolean): kotlin.Int { /* compiled code */ }
 }
-

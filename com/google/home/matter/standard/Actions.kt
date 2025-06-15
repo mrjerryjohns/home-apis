@@ -307,4 +307,3 @@ public interface Actions : com.google.home.matter.standard.ActionsTrait.Attribut
         }
     }
 }
-

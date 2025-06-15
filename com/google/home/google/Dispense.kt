@@ -109,4 +109,3 @@ public interface Dispense : com.google.home.google.DispenseTrait.Attributes, com
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

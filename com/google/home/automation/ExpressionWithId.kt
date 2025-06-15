@@ -16,4 +16,3 @@ public sealed class ExpressionWithId : com.google.home.automation.Expression {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

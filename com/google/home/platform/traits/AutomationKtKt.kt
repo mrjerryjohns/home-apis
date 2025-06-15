@@ -14,4 +14,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.Automation.copy(block: com.google.home.platform.traits.AutomationKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Automation { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.Automation.EphemeralAutomationInfo.copy(block: com.google.home.platform.traits.AutomationKt.EphemeralAutomationInfoKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Automation.EphemeralAutomationInfo { /* compiled code */ }
-

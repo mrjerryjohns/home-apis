@@ -138,4 +138,3 @@ public object ExtendedGeneralDiagnosticsTrait {
         public final fun copy(extendedActiveHardwareFaults: kotlin.collections.List<com.google.home.google.ExtendedGeneralDiagnosticsTrait.ExtendedHardwareFault>? = COMPILED_CODE, sensorFaults: kotlin.collections.List<com.google.home.google.ExtendedGeneralDiagnosticsTrait.SensorFaultType>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.ExtendedGeneralDiagnosticsTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

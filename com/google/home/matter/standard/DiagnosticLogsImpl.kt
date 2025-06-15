@@ -30,4 +30,3 @@ public final class DiagnosticLogsImpl public constructor(metadata: com.google.ho
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

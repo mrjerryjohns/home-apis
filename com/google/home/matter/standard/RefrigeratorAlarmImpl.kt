@@ -30,4 +30,3 @@ public final class RefrigeratorAlarmImpl public constructor(metadata: com.google
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

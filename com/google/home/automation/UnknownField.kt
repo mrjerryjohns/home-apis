@@ -20,4 +20,3 @@ public final class UnknownField public constructor(tag: kotlin.UInt) : com.googl
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

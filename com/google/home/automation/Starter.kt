@@ -45,4 +45,3 @@ public final class Starter : com.google.home.automation.Node, com.google.home.au
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -12,4 +12,3 @@ public interface RotationCommands {
 
     public abstract fun rotateToPercentageBatchable(rotationPercent: kotlin.Float): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

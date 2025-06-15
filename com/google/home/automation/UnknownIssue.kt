@@ -10,4 +10,3 @@ public final class UnknownIssue public constructor(node: com.google.home.automat
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

@@ -6,4 +6,3 @@ package com.google.home
 public interface HasStructures {
     public abstract fun structures(): com.google.home.HomeObjectsFlow<com.google.home.Structure>
 }
-

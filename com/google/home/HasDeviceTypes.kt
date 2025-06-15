@@ -12,4 +12,3 @@ public interface HasDeviceTypes {
 
     public abstract fun types(): kotlinx.coroutines.flow.Flow<kotlin.collections.Set<com.google.home.DeviceType>>
 }
-

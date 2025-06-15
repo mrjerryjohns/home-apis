@@ -100,4 +100,3 @@ public final class WindowCoveringImpl public constructor(metadata: com.google.ho
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

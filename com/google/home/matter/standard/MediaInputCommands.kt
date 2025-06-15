@@ -20,4 +20,3 @@ public interface MediaInputCommands {
 
     public abstract fun renameInputBatchable(index: kotlin.UByte, name: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

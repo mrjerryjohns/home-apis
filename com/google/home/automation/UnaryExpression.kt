@@ -16,4 +16,3 @@ public sealed class UnaryExpression : com.google.home.automation.ExpressionWithI
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

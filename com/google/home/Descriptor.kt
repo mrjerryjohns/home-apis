@@ -5,4 +5,3 @@ package com.google.home
 
 public sealed interface Descriptor {
 }
-

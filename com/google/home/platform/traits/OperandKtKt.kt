@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun operand(block: com.google.home.platform.traits.OperandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Operand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.Operand.copy(block: com.google.home.platform.traits.OperandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Operand { /* compiled code */ }
-

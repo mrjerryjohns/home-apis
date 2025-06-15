@@ -12,4 +12,3 @@ public final class ReferenceDeclaration public constructor(variable: kotlin.Stri
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -5,4 +5,3 @@ package com.google.home
 
 public object DataReadyFeature : com.google.home.Feature {
 }
-

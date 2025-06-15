@@ -20,4 +20,3 @@ public interface VolumeCommands {
 
     public abstract fun unmuteBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

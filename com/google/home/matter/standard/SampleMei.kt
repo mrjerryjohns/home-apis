@@ -161,4 +161,3 @@ public interface SampleMei : com.google.home.matter.standard.SampleMeiTrait.Attr
         }
     }
 }
-

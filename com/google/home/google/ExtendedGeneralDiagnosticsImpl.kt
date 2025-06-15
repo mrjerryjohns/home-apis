@@ -28,4 +28,3 @@ public final class ExtendedGeneralDiagnosticsImpl public constructor(metadata: c
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

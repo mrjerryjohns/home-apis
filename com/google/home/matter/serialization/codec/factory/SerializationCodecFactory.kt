@@ -8,4 +8,3 @@ public object SerializationCodecFactory {
 
     public final fun createWriter(strictOperationValidation: kotlin.Boolean = COMPILED_CODE): com.google.home.matter.serialization.ClusterPayloadWriter { /* compiled code */ }
 }
-

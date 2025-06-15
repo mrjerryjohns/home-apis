@@ -83,4 +83,3 @@ public interface ThreadNetworkCapabilities : com.google.home.google.ThreadNetwor
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

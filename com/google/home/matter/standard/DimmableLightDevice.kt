@@ -52,4 +52,3 @@ public final class DimmableLightDevice public constructor(metadata: com.google.h
         public open fun createType(traits: kotlin.collections.Map<com.google.home.TraitFactory<*>, com.google.home.Trait?>, metadataBuilder: (kotlin.collections.List<com.google.home.Trait>?) -> com.google.home.DeviceType.Metadata, traitProvider: com.google.home.TraitProvider, eventProvider: com.google.home.HasEvents): com.google.home.matter.standard.DimmableLightDevice { /* compiled code */ }
     }
 }
-

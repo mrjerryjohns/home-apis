@@ -10,4 +10,3 @@ package com.google.home.automation
 
     public final fun build(): kotlin.collections.List<com.google.home.automation.Parameter> { /* compiled code */ }
 }
-

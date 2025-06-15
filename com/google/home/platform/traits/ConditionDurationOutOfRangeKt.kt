@@ -25,4 +25,3 @@ public object ConditionDurationOutOfRangeKt {
         public final fun hasDuration(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

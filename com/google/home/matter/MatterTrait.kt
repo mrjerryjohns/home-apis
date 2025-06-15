@@ -5,4 +5,3 @@ package com.google.home.matter
 
 public interface MatterTrait : com.google.home.Trait, com.google.home.TraitStateInvalidation {
 }
-

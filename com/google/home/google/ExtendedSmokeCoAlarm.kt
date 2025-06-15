@@ -155,4 +155,3 @@ public interface ExtendedSmokeCoAlarm : com.google.home.google.ExtendedSmokeCoAl
         }
     }
 }
-

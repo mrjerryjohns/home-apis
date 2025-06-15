@@ -32,4 +32,3 @@ public final class StringConstraint private constructor(allowedSet: kotlin.colle
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

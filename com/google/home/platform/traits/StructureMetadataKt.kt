@@ -20,4 +20,3 @@ public object StructureMetadataKt {
         public final fun clearName(): kotlin.Unit { /* compiled code */ }
     }
 }
-

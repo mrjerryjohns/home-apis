@@ -406,4 +406,3 @@ public object OtaSoftwareUpdateProviderTrait {
         }
     }
 }
-

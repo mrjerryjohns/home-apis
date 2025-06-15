@@ -10,4 +10,3 @@ public final class EventFieldDetails public constructor(name: kotlin.String, isO
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -8,4 +8,3 @@ public interface BasicInformationCommands {
 
     public abstract fun mfgSpecificPingBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

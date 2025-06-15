@@ -8,4 +8,3 @@ public interface MatterUpgradableCommandsDefaultImpl : com.google.home.google.Ma
 
     public open fun initiateMatterUpgradeBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

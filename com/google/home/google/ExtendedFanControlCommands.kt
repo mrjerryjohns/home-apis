@@ -12,4 +12,3 @@ public interface ExtendedFanControlCommands {
 
     public abstract fun toggleAirflowDirectionBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

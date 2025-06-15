@@ -105,4 +105,3 @@ public interface ThermostatUserInterfaceConfiguration : com.google.home.matter.s
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

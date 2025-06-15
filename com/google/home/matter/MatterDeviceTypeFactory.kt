@@ -20,4 +20,3 @@ public abstract class MatterDeviceTypeFactory<T : com.google.home.DeviceType> pu
 
     public final fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

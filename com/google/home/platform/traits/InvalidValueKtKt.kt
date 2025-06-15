@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidValue(block: com.google.home.platform.traits.InvalidValueKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidValue { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidValue.copy(block: com.google.home.platform.traits.InvalidValueKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidValue { /* compiled code */ }
-

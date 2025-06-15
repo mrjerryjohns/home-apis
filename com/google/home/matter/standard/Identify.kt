@@ -107,4 +107,3 @@ public interface Identify : com.google.home.matter.standard.IdentifyTrait.Attrib
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

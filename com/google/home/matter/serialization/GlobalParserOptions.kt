@@ -6,4 +6,3 @@ package com.google.home.matter.serialization
 public object GlobalParserOptions {
     public final var lenient: kotlin.Boolean /* compiled code */
 }
-

@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun unsupportedSubNodeType(block: com.google.home.platform.traits.UnsupportedSubNodeTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsupportedSubNodeType { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.UnsupportedSubNodeType.copy(block: com.google.home.platform.traits.UnsupportedSubNodeTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.UnsupportedSubNodeType { /* compiled code */ }
-

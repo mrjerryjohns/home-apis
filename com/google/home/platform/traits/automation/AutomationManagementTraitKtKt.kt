@@ -16,4 +16,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.automation.AutomationManagementTrait.CreateAutomationCommand.copy(block: com.google.home.platform.traits.automation.AutomationManagementTraitKt.CreateAutomationCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.automation.AutomationManagementTrait.CreateAutomationCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.automation.AutomationManagementTrait.CreateAutomationCommandResponse.copy(block: com.google.home.platform.traits.automation.AutomationManagementTraitKt.CreateAutomationCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.automation.AutomationManagementTrait.CreateAutomationCommandResponse { /* compiled code */ }
-

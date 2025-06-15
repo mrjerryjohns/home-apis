@@ -46,4 +46,3 @@ public final class RadonConcentrationMeasurementImpl public constructor(metadata
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -473,4 +473,3 @@ public interface BasicInformation : com.google.home.matter.standard.BasicInforma
         }
     }
 }
-

@@ -12,4 +12,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun valueType(block: com.google.home.platform.traits.ValueTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ValueType { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ValueType.copy(block: com.google.home.platform.traits.ValueTypeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ValueType { /* compiled code */ }
-

@@ -32,4 +32,3 @@ public interface WindowCoveringCommandsDefaultImpl : com.google.home.matter.stan
 
     public open fun goToTiltPercentageBatchable(tiltPercent100thsValue: kotlin.UShort): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

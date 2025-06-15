@@ -34,4 +34,3 @@ public final class LaundryWasherControlsImpl public constructor(metadata: com.go
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -18,4 +18,3 @@ public final class HomeObjectsFlow<T : com.google.home.HasId> internal construct
 
     public open suspend fun collect(collector: kotlinx.coroutines.flow.FlowCollector<kotlin.collections.Set<T>>): kotlin.Unit { /* compiled code */ }
 }
-

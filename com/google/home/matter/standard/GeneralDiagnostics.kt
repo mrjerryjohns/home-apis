@@ -403,4 +403,3 @@ public interface GeneralDiagnostics : com.google.home.matter.standard.GeneralDia
         }
     }
 }
-

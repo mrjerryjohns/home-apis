@@ -6,4 +6,3 @@ package com.google.home.automation
 public interface SuppressionNodeDsl : com.google.home.automation.AutomationFlowContributor {
     public open fun suppressFor(duration: java.time.Duration): kotlin.Unit { /* compiled code */ }
 }
-

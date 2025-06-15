@@ -79,4 +79,3 @@ public final class Device private constructor(metadata: com.google.home.Trait.Tr
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

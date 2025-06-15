@@ -46,4 +46,3 @@ public final class Pm25ConcentrationMeasurementImpl public constructor(metadata:
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

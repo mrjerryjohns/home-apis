@@ -113,4 +113,3 @@ public interface Volume : com.google.home.google.VolumeTrait.Attributes, com.goo
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

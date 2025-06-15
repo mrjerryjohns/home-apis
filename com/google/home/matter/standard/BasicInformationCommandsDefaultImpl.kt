@@ -8,4 +8,3 @@ public interface BasicInformationCommandsDefaultImpl : com.google.home.matter.st
 
     public open fun mfgSpecificPingBatchable(): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

@@ -106,4 +106,3 @@ public final class ProtoClusterWriter public constructor(strictOperationValidati
         public open fun <NEWTYPE : kotlin.Any> adapt(adapter: com.google.home.matter.serialization.FieldAdapter<T, NEWTYPE>): com.google.home.matter.serialization.ClusterPayloadWriter.FieldWriter<NEWTYPE> { /* compiled code */ }
     }
 }
-

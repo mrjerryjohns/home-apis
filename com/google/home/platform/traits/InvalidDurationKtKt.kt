@@ -9,4 +9,3 @@ public val com.google.home.platform.traits.InvalidDurationOrBuilder.durationOrNu
 @kotlin.jvm.JvmName public inline fun invalidDuration(block: com.google.home.platform.traits.InvalidDurationKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidDuration { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidDuration.copy(block: com.google.home.platform.traits.InvalidDurationKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidDuration { /* compiled code */ }
-

@@ -20,4 +20,3 @@ public object InvalidReferenceKt {
         public final fun clearReference(): kotlin.Unit { /* compiled code */ }
     }
 }
-

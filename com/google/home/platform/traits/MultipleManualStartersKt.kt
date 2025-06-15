@@ -14,4 +14,3 @@ public object MultipleManualStartersKt {
         @kotlin.PublishedApi @androidx.annotation.NonNull internal final fun _build(): com.google.home.platform.traits.MultipleManualStarters { /* compiled code */ }
     }
 }
-

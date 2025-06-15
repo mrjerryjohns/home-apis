@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun notificationTraitCommand(block: com.google.home.platform.traits.NotificationTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.NotificationTraitCommand { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.NotificationTraitCommand.copy(block: com.google.home.platform.traits.NotificationTraitCommandKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.NotificationTraitCommand { /* compiled code */ }
-

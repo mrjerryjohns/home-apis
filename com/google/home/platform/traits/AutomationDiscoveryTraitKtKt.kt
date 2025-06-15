@@ -16,4 +16,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationDiscoveryTrait.DiscoverAutomationCandidates.copy(block: com.google.home.platform.traits.AutomationDiscoveryTraitKt.DiscoverAutomationCandidatesKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationDiscoveryTrait.DiscoverAutomationCandidates { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.AutomationDiscoveryTrait.DiscoverAutomationCandidatesResponse.copy(block: com.google.home.platform.traits.AutomationDiscoveryTraitKt.DiscoverAutomationCandidatesResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.AutomationDiscoveryTrait.DiscoverAutomationCandidatesResponse { /* compiled code */ }
-

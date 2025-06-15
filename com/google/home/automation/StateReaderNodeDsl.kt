@@ -16,4 +16,3 @@ public interface StateReaderNodeDsl : com.google.home.automation.AutomationFlowC
 
     @kotlin.jvm.JvmName public open fun <T : com.google.home.Trait, U : com.google.home.HomeObjectType> stateReader(entityExpression: com.google.home.automation.TypedExpression<out kotlin.collections.List<com.google.home.automation.TypedEntity<U>>?>, trait: com.google.home.TraitFactory<T>): com.google.home.automation.TypedExpression<kotlin.collections.Map<com.google.home.automation.TypedEntity<U>, T>> { /* compiled code */ }
 }
-

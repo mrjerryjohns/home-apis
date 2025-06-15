@@ -14,4 +14,3 @@ public interface ClusterPayloadReader {
 
     public abstract fun <T> read(adapter: com.google.home.matter.serialization.StructAdapter<T>): T
 }
-

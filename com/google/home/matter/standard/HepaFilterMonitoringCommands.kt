@@ -8,4 +8,3 @@ public interface HepaFilterMonitoringCommands {
 
     public abstract fun resetConditionBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

@@ -273,4 +273,3 @@ public interface ElectricalPowerMeasurement : com.google.home.matter.standard.El
         }
     }
 }
-

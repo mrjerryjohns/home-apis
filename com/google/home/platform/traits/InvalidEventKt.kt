@@ -28,4 +28,3 @@ public object InvalidEventKt {
         public final fun hasExpectedBehaviorType(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

@@ -12,4 +12,3 @@ public val com.google.home.platform.traits.ConditionOrBuilder.forDurationOrNull:
 @kotlin.jvm.JvmName public inline fun condition(block: com.google.home.platform.traits.ConditionKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Condition { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.Condition.copy(block: com.google.home.platform.traits.ConditionKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.Condition { /* compiled code */ }
-

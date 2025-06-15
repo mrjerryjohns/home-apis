@@ -111,4 +111,3 @@ public interface EnergyPrograms : com.google.home.google.EnergyProgramsTrait.Att
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

@@ -83,4 +83,3 @@ public interface Shared : com.google.home.google.SharedTrait.Attributes, com.goo
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

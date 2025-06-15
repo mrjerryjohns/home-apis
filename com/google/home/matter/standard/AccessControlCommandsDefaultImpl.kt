@@ -8,4 +8,3 @@ public interface AccessControlCommandsDefaultImpl : com.google.home.matter.stand
 
     public open fun reviewFabricRestrictionsBatchable(arl: kotlin.collections.List<com.google.home.matter.standard.AccessControlTrait.CommissioningAccessRestrictionEntryStruct>): com.google.home.BatchableCommand<com.google.home.matter.standard.AccessControlTrait.ReviewFabricRestrictionsCommand.Response> { /* compiled code */ }
 }
-

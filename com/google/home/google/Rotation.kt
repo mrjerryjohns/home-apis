@@ -121,4 +121,3 @@ public interface Rotation : com.google.home.google.RotationTrait.Attributes, com
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

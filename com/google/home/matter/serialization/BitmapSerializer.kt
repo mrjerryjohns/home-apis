@@ -5,4 +5,3 @@ package com.google.home.matter.serialization
 
 public interface BitmapSerializer : com.google.home.matter.serialization.ValueSerializer<kotlin.ULong> {
 }
-

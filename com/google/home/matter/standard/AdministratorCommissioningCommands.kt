@@ -16,4 +16,3 @@ public interface AdministratorCommissioningCommands {
 
     public abstract fun revokeCommissioningBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

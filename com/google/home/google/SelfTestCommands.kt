@@ -12,4 +12,3 @@ public interface SelfTestCommands {
 
     public abstract fun setExecutionSummaryBatchable(warningDevices: kotlin.collections.List<com.google.home.google.SelfTestTrait.DeviceStatus>, criticalDevices: kotlin.collections.List<com.google.home.google.SelfTestTrait.DeviceStatus>): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

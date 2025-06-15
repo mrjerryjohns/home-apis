@@ -259,4 +259,3 @@ public interface RvcOperationalState : com.google.home.matter.standard.RvcOperat
         }
     }
 }
-

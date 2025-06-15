@@ -12,4 +12,3 @@ public interface CameraStreamCommands {
 
     public abstract fun getCameraStreamPreviewImageBatchable(preferredWidth: kotlin.UInt, preferredHeight: kotlin.UInt): com.google.home.BatchableCommand<com.google.home.google.CameraStreamTrait.GetCameraStreamPreviewImageCommand.Response>
 }
-

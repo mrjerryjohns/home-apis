@@ -42,4 +42,3 @@ public final class CodedInputStream public constructor(bytes: kotlin.ByteArray, 
 
     public final fun skipField(tag: kotlin.Int): kotlin.Boolean { /* compiled code */ }
 }
-

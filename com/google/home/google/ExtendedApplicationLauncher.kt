@@ -133,4 +133,3 @@ public interface ExtendedApplicationLauncher : com.google.home.google.ExtendedAp
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

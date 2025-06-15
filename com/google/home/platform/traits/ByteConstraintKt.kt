@@ -30,4 +30,3 @@ public object ByteConstraintKt {
         public final fun hasMaxLength(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

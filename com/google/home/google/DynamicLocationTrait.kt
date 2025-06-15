@@ -66,4 +66,3 @@ public object DynamicLocationTrait {
         public final fun copy(dockedDeviceId: kotlin.String? = COMPILED_CODE, dockedDeviceRoomId: kotlin.String? = COMPILED_CODE, previousDockedDeviceRoomId: kotlin.String? = COMPILED_CODE, dockedDeviceStructureId: kotlin.String? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.DynamicLocationTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

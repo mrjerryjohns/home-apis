@@ -147,4 +147,3 @@ public interface DoorbellPress : com.google.home.google.DoorbellPressTrait.Attri
         }
     }
 }
-

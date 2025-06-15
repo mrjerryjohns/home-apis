@@ -20,4 +20,3 @@ public interface OpenCloseCommandsDefaultImpl : com.google.home.google.OpenClose
 
     public open fun stepBatchable(openRelativePercent: kotlin.Double, openDirection: com.google.home.google.OpenCloseTrait.Direction): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

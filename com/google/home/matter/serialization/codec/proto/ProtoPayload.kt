@@ -16,4 +16,3 @@ public final data class ProtoPayload public constructor(payload: kotlin.ByteArra
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

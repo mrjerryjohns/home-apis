@@ -8,4 +8,3 @@ public interface KeypadInputCommandsDefaultImpl : com.google.home.matter.standar
 
     public open fun sendKeyBatchable(keyCode: com.google.home.matter.standard.KeypadInputTrait.CecKeyCodeEnum): com.google.home.BatchableCommand<com.google.home.matter.standard.KeypadInputTrait.SendKeyCommand.Response> { /* compiled code */ }
 }
-

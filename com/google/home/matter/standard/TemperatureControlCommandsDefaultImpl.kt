@@ -8,4 +8,3 @@ public interface TemperatureControlCommandsDefaultImpl : com.google.home.matter.
 
     public open fun setTemperatureBatchable(optionalArgs: com.google.home.matter.standard.TemperatureControlTrait.SetTemperatureCommand.OptionalArgs.() -> kotlin.Unit): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

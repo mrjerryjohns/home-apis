@@ -84,7 +84,8 @@ public object LaundryWasherControlsTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(spinSpeeds: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, spinSpeedCurrent: kotlin.UByte? = COMPILED_CODE, numberOfRinses: com.google.home.matter.standard.LaundryWasherControlsTrait.NumberOfRinsesEnum? = COMPILED_CODE, supportedRinses: kotlin.collections.List<com.google.home.matter.standard.LaundryWasherControlsTrait.NumberOfRinsesEnum>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.LaundryWasherControlsTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.LaundryWasherControlsTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.LaundryWasherControlsTrait.Attributes, com.google.home.matter.standard.LaundryWasherControlsTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(spinSpeeds: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, spinSpeedCurrent: kotlin.UByte? = COMPILED_CODE, numberOfRinses: com.google.home.matter.standard.LaundryWasherControlsTrait.NumberOfRinsesEnum? = COMPILED_CODE, supportedRinses: kotlin.collections.List<com.google.home.matter.standard.LaundryWasherControlsTrait.NumberOfRinsesEnum>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.LaundryWasherControlsTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.LaundryWasherControlsTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.LaundryWasherControlsTrait.Attributes, com.google.home.matter.standard.LaundryWasherControlsTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.LaundryWasherControlsTrait.Attributes.Adapter /* compiled code */
         }
@@ -117,7 +118,8 @@ public object LaundryWasherControlsTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(spinSpeeds: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, spinSpeedCurrent: kotlin.UByte? = COMPILED_CODE, numberOfRinses: com.google.home.matter.standard.LaundryWasherControlsTrait.NumberOfRinsesEnum? = COMPILED_CODE, supportedRinses: kotlin.collections.List<com.google.home.matter.standard.LaundryWasherControlsTrait.NumberOfRinsesEnum>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.LaundryWasherControlsTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.LaundryWasherControlsTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(spinSpeeds: kotlin.collections.List<kotlin.String>? = COMPILED_CODE, spinSpeedCurrent: kotlin.UByte? = COMPILED_CODE, numberOfRinses: com.google.home.matter.standard.LaundryWasherControlsTrait.NumberOfRinsesEnum? = COMPILED_CODE, supportedRinses: kotlin.collections.List<com.google.home.matter.standard.LaundryWasherControlsTrait.NumberOfRinsesEnum>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.LaundryWasherControlsTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE):
+            com.google.home.matter.standard.LaundryWasherControlsTrait.AttributesImpl { /* compiled code */ }
     }
 
     public final class MutableAttributes public constructor(attributes: com.google.home.matter.standard.LaundryWasherControlsTrait.Attributes) : com.google.home.matter.standard.LaundryWasherControlsTrait.AttributesImpl {
@@ -148,4 +150,3 @@ public object LaundryWasherControlsTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

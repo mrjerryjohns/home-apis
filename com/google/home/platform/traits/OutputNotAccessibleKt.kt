@@ -20,4 +20,3 @@ public object OutputNotAccessibleKt {
         public final fun clearOutput(): kotlin.Unit { /* compiled code */ }
     }
 }
-

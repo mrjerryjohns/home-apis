@@ -8,4 +8,3 @@ public interface ExtendedContentLauncherCommandsDefaultImpl : com.google.home.go
 
     public open fun extendedLaunchContentBatchable(action: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

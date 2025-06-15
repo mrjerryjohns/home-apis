@@ -115,4 +115,3 @@ public interface SpeedMeasurement : com.google.home.google.SpeedMeasurementTrait
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

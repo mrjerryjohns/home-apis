@@ -61,4 +61,3 @@ public final class DeviceManagementTrait public constructor() {
     public final class AttributesImpl public constructor() : com.google.home.google.DeviceManagementTrait.Attributes {
     }
 }
-

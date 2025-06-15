@@ -36,4 +36,3 @@ public interface StarterNodeDsl : com.google.home.automation.AutomationFlowContr
 
     @kotlin.jvm.JvmName public open fun <T : com.google.home.Event, U : com.google.home.HomeObjectType> starter(entityExpression: com.google.home.automation.TypedExpression<out kotlin.collections.List<com.google.home.automation.TypedEntity<U>>?>, event: com.google.home.EventFactory<T>, block: com.google.home.automation.ParametersBuilder.() -> kotlin.Unit): com.google.home.automation.TypedExpression<T> { /* compiled code */ }
 }
-

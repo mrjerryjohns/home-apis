@@ -91,4 +91,3 @@ public interface AudioInput : com.google.home.google.AudioInputTrait.Attributes,
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

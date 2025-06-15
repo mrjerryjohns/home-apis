@@ -130,4 +130,3 @@ public object MotionDetectionTrait {
         public final fun copy(motionDetectionTimestampSeconds: kotlin.Long? = COMPILED_CODE, motionDetectionEventInProgress: kotlin.Boolean? = COMPILED_CODE, lastMotionDetectionEventStartTimestampSeconds: kotlin.Long? = COMPILED_CODE, lastMotionDetectionEventEndTimestampSeconds: kotlin.Long? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.google.MotionDetectionTrait.MotionDetectionFeature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.MotionDetectionTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

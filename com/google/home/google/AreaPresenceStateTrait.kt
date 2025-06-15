@@ -58,4 +58,3 @@ public final class AreaPresenceStateTrait public constructor() {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

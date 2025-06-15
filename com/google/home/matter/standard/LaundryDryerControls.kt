@@ -93,4 +93,3 @@ public interface LaundryDryerControls : com.google.home.matter.standard.LaundryD
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

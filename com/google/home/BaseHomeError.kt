@@ -8,4 +8,3 @@ public sealed class BaseHomeError protected constructor(code: kotlin.Int, messag
 
     public open val message: kotlin.String /* compiled code */
 }
-

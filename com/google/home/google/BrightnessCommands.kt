@@ -12,4 +12,3 @@ public interface BrightnessCommands {
 
     public abstract fun brightnessStepBatchable(stepMode: com.google.home.google.BrightnessTrait.BrightnessStepModeEnum, step: kotlin.UByte): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

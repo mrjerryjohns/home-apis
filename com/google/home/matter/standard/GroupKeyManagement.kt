@@ -127,4 +127,3 @@ public interface GroupKeyManagement : com.google.home.matter.standard.GroupKeyMa
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

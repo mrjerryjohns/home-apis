@@ -8,4 +8,3 @@ public interface ElevatorControlCommands {
 
     public abstract fun callElevatorBatchable(floorName: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

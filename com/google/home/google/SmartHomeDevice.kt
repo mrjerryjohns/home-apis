@@ -39,4 +39,3 @@ public final class SmartHomeDevice private constructor(metadata: com.google.home
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

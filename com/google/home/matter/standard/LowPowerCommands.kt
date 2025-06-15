@@ -8,4 +8,3 @@ public interface LowPowerCommands {
 
     public abstract fun sleepBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

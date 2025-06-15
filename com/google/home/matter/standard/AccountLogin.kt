@@ -145,4 +145,3 @@ public interface AccountLogin : com.google.home.matter.standard.AccountLoginTrai
         }
     }
 }
-

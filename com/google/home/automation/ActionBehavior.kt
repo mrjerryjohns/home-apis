@@ -5,4 +5,3 @@ package com.google.home.automation
 
 public sealed interface ActionBehavior {
 }
-

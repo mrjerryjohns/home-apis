@@ -44,4 +44,3 @@ public final class ExtendedMediaPlaybackImpl public constructor(metadata: com.go
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

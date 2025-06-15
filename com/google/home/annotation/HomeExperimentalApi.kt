@@ -5,4 +5,3 @@ package com.google.home.annotation
 
 @kotlin.annotation.MustBeDocumented @kotlin.annotation.Retention @kotlin.annotation.Target @kotlin.RequiresOptIn public final annotation class HomeExperimentalApi public constructor() : kotlin.Annotation {
 }
-

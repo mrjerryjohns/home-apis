@@ -20,4 +20,3 @@ public sealed class Comprehension : com.google.home.automation.ExpressionWithId 
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

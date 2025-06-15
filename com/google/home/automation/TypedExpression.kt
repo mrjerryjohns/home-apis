@@ -5,4 +5,3 @@ package com.google.home.automation
 
 public abstract class TypedExpression<T> internal constructor() {
 }
-

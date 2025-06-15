@@ -27,4 +27,3 @@ public interface HomeDevice : com.google.home.HasId, com.google.home.HasTraits, 
 
     @kotlin.Deprecated @com.google.android.gms.common.internal.ShowFirstParty public abstract fun <T : com.google.home.Trait> trait(trait: com.google.home.TraitFactory<T>): kotlinx.coroutines.flow.Flow<T>
 }
-

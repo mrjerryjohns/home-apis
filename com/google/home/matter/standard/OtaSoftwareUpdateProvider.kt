@@ -93,4 +93,3 @@ public interface OtaSoftwareUpdateProvider : com.google.home.matter.standard.Ota
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

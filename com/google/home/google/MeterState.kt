@@ -99,4 +99,3 @@ public interface MeterState : com.google.home.google.MeterStateTrait.Attributes,
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

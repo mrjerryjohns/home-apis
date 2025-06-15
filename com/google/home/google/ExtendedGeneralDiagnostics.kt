@@ -183,4 +183,3 @@ public interface ExtendedGeneralDiagnostics : com.google.home.google.ExtendedGen
         }
     }
 }
-

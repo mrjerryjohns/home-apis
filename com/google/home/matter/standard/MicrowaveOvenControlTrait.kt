@@ -78,7 +78,8 @@ public object MicrowaveOvenControlTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(cookTime: kotlin.UInt? = COMPILED_CODE, maxCookTime: kotlin.UInt? = COMPILED_CODE, powerSetting: kotlin.UByte? = COMPILED_CODE, minPower: kotlin.UByte? = COMPILED_CODE, maxPower: kotlin.UByte? = COMPILED_CODE, powerStep: kotlin.UByte? = COMPILED_CODE, supportedWatts: kotlin.collections.List<kotlin.UShort>? = COMPILED_CODE, selectedWattIndex: kotlin.UByte? = COMPILED_CODE, wattRating: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.MicrowaveOvenControlTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.MicrowaveOvenControlTrait.Attributes {
+        public open class AttributesImpl public constructor(cookTime: kotlin.UInt? = COMPILED_CODE, maxCookTime: kotlin.UInt? = COMPILED_CODE, powerSetting: kotlin.UByte? = COMPILED_CODE, minPower: kotlin.UByte? = COMPILED_CODE, maxPower: kotlin.UByte? = COMPILED_CODE, powerStep: kotlin.UByte? = COMPILED_CODE, supportedWatts: kotlin.collections.List<kotlin.UShort>? = COMPILED_CODE, selectedWattIndex: kotlin.UByte? = COMPILED_CODE, wattRating: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.MicrowaveOvenControlTrait.Feature = COMPILED_CODE,
+        clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.MicrowaveOvenControlTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.MicrowaveOvenControlTrait.Attributes.Adapter /* compiled code */
         }
@@ -119,7 +120,8 @@ public object MicrowaveOvenControlTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(cookTime: kotlin.UInt? = COMPILED_CODE, maxCookTime: kotlin.UInt? = COMPILED_CODE, powerSetting: kotlin.UByte? = COMPILED_CODE, minPower: kotlin.UByte? = COMPILED_CODE, maxPower: kotlin.UByte? = COMPILED_CODE, powerStep: kotlin.UByte? = COMPILED_CODE, supportedWatts: kotlin.collections.List<kotlin.UShort>? = COMPILED_CODE, selectedWattIndex: kotlin.UByte? = COMPILED_CODE, wattRating: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.MicrowaveOvenControlTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.MicrowaveOvenControlTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(cookTime: kotlin.UInt? = COMPILED_CODE, maxCookTime: kotlin.UInt? = COMPILED_CODE, powerSetting: kotlin.UByte? = COMPILED_CODE, minPower: kotlin.UByte? = COMPILED_CODE, maxPower: kotlin.UByte? = COMPILED_CODE, powerStep: kotlin.UByte? = COMPILED_CODE, supportedWatts: kotlin.collections.List<kotlin.UShort>? = COMPILED_CODE, selectedWattIndex: kotlin.UByte? = COMPILED_CODE, wattRating: kotlin.UShort? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.MicrowaveOvenControlTrait.Feature = COMPILED_CODE, clusterRevision:
+            kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.MicrowaveOvenControlTrait.AttributesImpl { /* compiled code */ }
     }
 
     public object SetCookingParametersCommand : com.google.home.CommandDescriptor {
@@ -242,4 +244,3 @@ public object MicrowaveOvenControlTrait {
         }
     }
 }
-

@@ -157,4 +157,3 @@ public interface EthernetNetworkDiagnostics : com.google.home.matter.standard.Et
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

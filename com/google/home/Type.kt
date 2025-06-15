@@ -40,4 +40,3 @@ public final enum class Type private constructor(valueSerializer: com.google.hom
 
     public final val valueSerializer: com.google.home.matter.serialization.ValueSerializer<*> /* compiled code */
 }
-

@@ -22,4 +22,3 @@ public object DeviceFilterForTypeKt {
         public final fun hasType(): kotlin.Boolean { /* compiled code */ }
     }
 }
-

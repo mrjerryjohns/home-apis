@@ -20,4 +20,3 @@ public sealed class TernaryExpression : com.google.home.automation.ExpressionWit
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

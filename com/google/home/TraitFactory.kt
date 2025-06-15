@@ -10,4 +10,3 @@ public open class TraitFactory<T : com.google.home.Trait> public constructor(fac
 
     @com.google.android.gms.common.internal.ShowFirstParty @androidx.annotation.Nullable public open fun getAttributeByName(name: kotlin.String): com.google.home.Field? { /* compiled code */ }
 }
-

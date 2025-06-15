@@ -393,4 +393,3 @@ public interface AccessControl : com.google.home.matter.standard.AccessControlTr
         }
     }
 }
-

@@ -14,4 +14,3 @@ public final class AttributeToUpdate public constructor(fieldIdentifier: com.goo
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

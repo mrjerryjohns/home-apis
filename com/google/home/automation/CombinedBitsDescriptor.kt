@@ -16,4 +16,3 @@ public final class CombinedBitsDescriptor public constructor(startBit: kotlin.UI
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

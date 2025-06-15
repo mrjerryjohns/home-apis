@@ -8,4 +8,3 @@ package com.google.home.platform.traits
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.VoiceStarterTrait.copy(block: com.google.home.platform.traits.VoiceStarterTraitKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.VoiceStarterTrait { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.VoiceStarterTrait.OkGoogleEvent.copy(block: com.google.home.platform.traits.VoiceStarterTraitKt.OkGoogleEventKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.VoiceStarterTrait.OkGoogleEvent { /* compiled code */ }
-

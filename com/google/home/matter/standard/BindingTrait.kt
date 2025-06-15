@@ -140,4 +140,3 @@ public object BindingTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

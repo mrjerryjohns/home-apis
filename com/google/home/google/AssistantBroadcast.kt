@@ -14,4 +14,3 @@ public final class AssistantBroadcast private constructor(metadata: com.google.h
 
     public final suspend fun broadcast(msg: kotlin.String?): com.google.home.google.AssistantBroadcastTrait.BroadcastCommand.BroadcastCommandResponse { /* compiled code */ }
 }
-

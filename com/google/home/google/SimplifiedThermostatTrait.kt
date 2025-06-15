@@ -138,4 +138,3 @@ public object SimplifiedThermostatTrait {
         }
     }
 }
-

@@ -26,4 +26,3 @@ public object ReadOnlyAttributeKt {
         public final fun clearAttributeName(): kotlin.Unit { /* compiled code */ }
     }
 }
-

@@ -83,4 +83,3 @@ public interface ExtendedLevelControl : com.google.home.google.ExtendedLevelCont
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

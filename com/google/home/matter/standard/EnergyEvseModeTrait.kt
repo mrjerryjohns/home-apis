@@ -191,7 +191,8 @@ public object EnergyEvseModeTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(supportedModes: kotlin.collections.List<com.google.home.matter.standard.EnergyEvseModeTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.EnergyEvseModeTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.EnergyEvseModeTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.EnergyEvseModeTrait.Attributes, com.google.home.matter.standard.EnergyEvseModeTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(supportedModes: kotlin.collections.List<com.google.home.matter.standard.EnergyEvseModeTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, startUpMode: kotlin.UByte? = COMPILED_CODE, onMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.EnergyEvseModeTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.EnergyEvseModeTrait.Attributes,
+        com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.EnergyEvseModeTrait.Attributes, com.google.home.matter.standard.EnergyEvseModeTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.EnergyEvseModeTrait.Attributes.Adapter /* compiled code */
         }
@@ -345,4 +346,3 @@ public object EnergyEvseModeTrait {
         }
     }
 }
-

@@ -14,4 +14,3 @@ public final enum class LocalityType private constructor() : kotlin.Enum<com.goo
 
     @androidx.annotation.NonNull MIXED;
 }
-

@@ -56,4 +56,3 @@ public final class WiFiNetworkDiagnosticsImpl public constructor(metadata: com.g
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

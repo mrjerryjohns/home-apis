@@ -92,4 +92,3 @@ public final class JsonClusterWriter public constructor(out: com.google.nest.pla
         public open fun writeList(tag: kotlin.UInt /* from: com.google.home.matter.serialization.TagId */, value: kotlin.collections.List<T>?): kotlin.Unit { /* compiled code */ }
     }
 }
-

@@ -8,4 +8,3 @@ public interface ExtendedBasicInformationCommands {
 
     public abstract fun getSerialNumberBatchable(): com.google.home.BatchableCommand<com.google.home.google.ExtendedBasicInformationTrait.GetSerialNumberCommand.Response>
 }
-

@@ -41,4 +41,3 @@ public object InvalidFieldKt {
         public final fun clearField(): kotlin.Unit { /* compiled code */ }
     }
 }
-

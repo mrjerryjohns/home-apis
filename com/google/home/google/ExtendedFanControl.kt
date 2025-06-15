@@ -107,4 +107,3 @@ public interface ExtendedFanControl : com.google.home.google.ExtendedFanControlT
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

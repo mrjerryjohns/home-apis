@@ -6,4 +6,3 @@ package com.google.home
 public interface HomeManager : com.google.home.HasHomeDevices, com.google.home.HasStructures, com.google.home.HasRooms {
     public abstract fun ghpCoreMetadata(): kotlinx.coroutines.flow.SharedFlow<com.google.home.GhpCoreMetadata>
 }
-

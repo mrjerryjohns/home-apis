@@ -12,4 +12,3 @@ public interface ExtendedPowerSourceCommands {
 
     public abstract fun stopChargingBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

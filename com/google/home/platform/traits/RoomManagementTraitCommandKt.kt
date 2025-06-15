@@ -35,4 +35,3 @@ public object RoomManagementTraitCommandKt {
         public final fun clearCommand(): kotlin.Unit { /* compiled code */ }
     }
 }
-

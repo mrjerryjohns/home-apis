@@ -641,4 +641,3 @@ public interface Thermostat : com.google.home.matter.standard.ThermostatTrait.At
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

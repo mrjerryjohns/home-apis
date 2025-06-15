@@ -36,4 +36,3 @@ public interface OperationalCredentialsCommands {
 
     public abstract fun addTrustedRootCertificateBatchable(rootCaCertificate: kotlin.ByteArray): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

@@ -119,4 +119,3 @@ public object UserLabelTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

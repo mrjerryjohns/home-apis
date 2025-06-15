@@ -12,4 +12,3 @@ public final class UnknownUnsupportedCandidateReason public constructor(reason: 
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

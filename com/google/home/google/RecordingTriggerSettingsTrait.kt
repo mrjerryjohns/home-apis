@@ -50,7 +50,8 @@ public object RecordingTriggerSettingsTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(safetyTriggerSetting: com.google.home.google.RecordingTriggerSettingsTrait.Setting? = COMPILED_CODE, defaultSafetyTriggerSetting: com.google.home.google.RecordingTriggerSettingsTrait.Setting? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.RecordingTriggerSettingsTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.google.RecordingTriggerSettingsTrait.Attributes, com.google.home.google.RecordingTriggerSettingsTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(safetyTriggerSetting: com.google.home.google.RecordingTriggerSettingsTrait.Setting? = COMPILED_CODE, defaultSafetyTriggerSetting: com.google.home.google.RecordingTriggerSettingsTrait.Setting? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.google.RecordingTriggerSettingsTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.google.RecordingTriggerSettingsTrait.Attributes,
+        com.google.home.google.RecordingTriggerSettingsTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.google.RecordingTriggerSettingsTrait.Attributes.Adapter /* compiled code */
         }
@@ -101,4 +102,3 @@ public object RecordingTriggerSettingsTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

@@ -132,4 +132,3 @@ public object CommunicationVideoCallTrait {
         public final fun copy(communicationVideoCallState: com.google.home.google.CommunicationVideoCallTrait.CommunicationVideoCallState? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.google.CommunicationVideoCallTrait.CommunicationVideoCallFeature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.CommunicationVideoCallTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

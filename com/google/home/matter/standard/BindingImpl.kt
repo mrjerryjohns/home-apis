@@ -28,4 +28,3 @@ public final class BindingImpl public constructor(metadata: com.google.home.Trai
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

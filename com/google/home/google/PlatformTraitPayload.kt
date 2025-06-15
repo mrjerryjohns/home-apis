@@ -10,4 +10,3 @@ public interface PlatformTraitPayload<T> {
 
     public open fun encode(): kotlin.ByteArray { /* compiled code */ }
 }
-

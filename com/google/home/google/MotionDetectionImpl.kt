@@ -32,4 +32,3 @@ public final class MotionDetectionImpl public constructor(metadata: com.google.h
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

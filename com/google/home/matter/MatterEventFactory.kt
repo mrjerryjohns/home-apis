@@ -23,4 +23,3 @@ public final class MatterEventFactory<T : com.google.home.Event, A : kotlin.Any>
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

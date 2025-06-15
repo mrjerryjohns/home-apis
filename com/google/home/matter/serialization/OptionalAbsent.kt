@@ -22,4 +22,3 @@ public object OptionalAbsent : com.google.home.matter.serialization.OptionalValu
 
     public final fun <T> constrain(): com.google.home.matter.serialization.OptionalValue<T> { /* compiled code */ }
 }
-

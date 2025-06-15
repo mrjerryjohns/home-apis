@@ -14,4 +14,3 @@ public final class AssistantFulfillment private constructor(metadata: com.google
 
     public final suspend fun okGoogle(query: kotlin.String): kotlin.Unit { /* compiled code */ }
 }
-

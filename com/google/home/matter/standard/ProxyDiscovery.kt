@@ -75,4 +75,3 @@ public interface ProxyDiscovery : com.google.home.matter.standard.ProxyDiscovery
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

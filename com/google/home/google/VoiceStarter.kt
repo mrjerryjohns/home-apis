@@ -53,4 +53,3 @@ public final class VoiceStarter private constructor(metadata: com.google.home.Tr
         }
     }
 }
-

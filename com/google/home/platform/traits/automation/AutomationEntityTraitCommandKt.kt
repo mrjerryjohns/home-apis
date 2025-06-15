@@ -35,4 +35,3 @@ public object AutomationEntityTraitCommandKt {
         public final fun clearCommand(): kotlin.Unit { /* compiled code */ }
     }
 }
-

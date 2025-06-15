@@ -215,4 +215,3 @@ public object MicrowaveOvenModeTrait {
         public final fun copy(supportedModes: kotlin.collections.List<com.google.home.matter.standard.MicrowaveOvenModeTrait.ModeOptionStruct>? = COMPILED_CODE, currentMode: kotlin.UByte? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.MicrowaveOvenModeTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.MicrowaveOvenModeTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

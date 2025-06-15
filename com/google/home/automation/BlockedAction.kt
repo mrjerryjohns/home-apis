@@ -12,4 +12,3 @@ public final class BlockedAction public constructor(node: com.google.home.automa
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

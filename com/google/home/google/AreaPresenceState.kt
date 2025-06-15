@@ -37,4 +37,3 @@ public final class AreaPresenceState private constructor(metadata: com.google.ho
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

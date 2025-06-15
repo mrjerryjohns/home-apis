@@ -42,4 +42,3 @@ public final class ApplicationLauncherImpl public constructor(metadata: com.goog
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

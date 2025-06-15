@@ -12,4 +12,3 @@ public interface CommissionerControlCommands {
 
     public abstract fun commissionNodeBatchable(requestId: kotlin.ULong, responseTimeoutSeconds: kotlin.UShort): com.google.home.BatchableCommand<com.google.home.matter.standard.CommissionerControlTrait.CommissionNodeCommand.Response>
 }
-

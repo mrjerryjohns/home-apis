@@ -10,4 +10,3 @@ public final class SuppressionDurationOutOfRange public constructor(node: com.go
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

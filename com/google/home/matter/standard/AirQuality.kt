@@ -83,4 +83,3 @@ public interface AirQuality : com.google.home.matter.standard.AirQualityTrait.At
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

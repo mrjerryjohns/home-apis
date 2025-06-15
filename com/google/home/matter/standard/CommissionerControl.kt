@@ -179,4 +179,3 @@ public interface CommissionerControl : com.google.home.matter.standard.Commissio
         }
     }
 }
-

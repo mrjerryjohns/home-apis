@@ -46,4 +46,3 @@ public final class CarbonMonoxideConcentrationMeasurementImpl public constructor
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

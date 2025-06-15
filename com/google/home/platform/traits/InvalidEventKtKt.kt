@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun invalidEvent(block: com.google.home.platform.traits.InvalidEventKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidEvent { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.InvalidEvent.copy(block: com.google.home.platform.traits.InvalidEventKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.InvalidEvent { /* compiled code */ }
-

@@ -12,4 +12,3 @@ public interface ContentLauncherCommandsDefaultImpl : com.google.home.matter.sta
 
     public open fun launchUrlBatchable(contentUrl: kotlin.String, optionalArgs: com.google.home.matter.standard.ContentLauncherTrait.LaunchUrlCommand.OptionalArgs.() -> kotlin.Unit): com.google.home.BatchableCommand<com.google.home.matter.standard.ContentLauncherTrait.LaunchUrlCommand.Response> { /* compiled code */ }
 }
-

@@ -167,4 +167,3 @@ public interface TargetNavigator : com.google.home.matter.standard.TargetNavigat
         }
     }
 }
-

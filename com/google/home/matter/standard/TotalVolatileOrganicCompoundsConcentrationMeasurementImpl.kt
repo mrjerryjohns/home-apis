@@ -46,4 +46,3 @@ public final class TotalVolatileOrganicCompoundsConcentrationMeasurementImpl pub
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

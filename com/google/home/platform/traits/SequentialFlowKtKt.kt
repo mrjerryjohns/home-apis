@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun sequentialFlow(block: com.google.home.platform.traits.SequentialFlowKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.SequentialFlow { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.SequentialFlow.copy(block: com.google.home.platform.traits.SequentialFlowKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.SequentialFlow { /* compiled code */ }
-

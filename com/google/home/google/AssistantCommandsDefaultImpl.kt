@@ -8,4 +8,3 @@ public interface AssistantCommandsDefaultImpl : com.google.home.google.Assistant
 
     public open fun activateAssistantDiscoverabilityBatchable(): com.google.home.BatchableCommand<com.google.home.google.AssistantTrait.ActivateAssistantDiscoverabilityCommand.Response> { /* compiled code */ }
 }
-

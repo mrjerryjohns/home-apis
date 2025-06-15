@@ -32,4 +32,3 @@ public interface ThermostatCommands {
 
     public abstract fun atomicRequestBatchable(requestType: com.google.home.matter.standard.ThermostatTrait.AtomicRequestTypeEnum, attributeRequests: kotlin.collections.List<kotlin.UInt>, optionalArgs: com.google.home.matter.standard.ThermostatTrait.AtomicRequestCommand.OptionalArgs.() -> kotlin.Unit = COMPILED_CODE): com.google.home.BatchableCommand<com.google.home.matter.standard.ThermostatTrait.AtomicRequestCommand.Response>
 }
-

@@ -12,4 +12,3 @@ public final class InvalidReference public constructor(node: com.google.home.aut
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

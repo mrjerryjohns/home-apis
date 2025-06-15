@@ -10,4 +10,3 @@ public interface HasEvents {
 
     public abstract fun events(): kotlinx.coroutines.flow.Flow<com.google.home.Event>
 }
-

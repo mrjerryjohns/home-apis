@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun parameterDetails(block: com.google.home.platform.traits.ParameterDetailsKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ParameterDetails { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ParameterDetails.copy(block: com.google.home.platform.traits.ParameterDetailsKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ParameterDetails { /* compiled code */ }
-

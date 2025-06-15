@@ -35,4 +35,3 @@ public final class VoiceStarterTrait public constructor() {
     public final class AttributesImpl public constructor() : com.google.home.google.VoiceStarterTrait.Attributes {
     }
 }
-

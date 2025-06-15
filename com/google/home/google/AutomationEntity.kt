@@ -35,4 +35,3 @@ public final class AutomationEntity private constructor(metadata: com.google.hom
 
     public open val validationResults: kotlin.collections.List<kotlin.ByteArray> /* compiled code */
 }
-

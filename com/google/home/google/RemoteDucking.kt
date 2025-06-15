@@ -75,4 +75,3 @@ public interface RemoteDucking : com.google.home.google.RemoteDuckingTrait.Attri
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

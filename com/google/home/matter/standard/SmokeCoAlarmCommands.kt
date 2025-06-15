@@ -8,4 +8,3 @@ public interface SmokeCoAlarmCommands {
 
     public abstract fun selfTestRequestBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

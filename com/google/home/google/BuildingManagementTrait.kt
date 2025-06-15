@@ -149,4 +149,3 @@ public object BuildingManagementTrait {
         public final fun copy(activeBuildingNotices: kotlin.collections.List<com.google.home.google.BuildingManagementTrait.ActiveBuildingNotices>? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.BuildingManagementTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

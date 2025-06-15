@@ -8,4 +8,3 @@ public final class PermissionsResult public constructor(status: com.google.home.
 
     public final val errorMessage: kotlin.String? /* compiled code */
 }
-

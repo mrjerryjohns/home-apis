@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun validationResult(block: com.google.home.platform.traits.ValidationResultKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ValidationResult { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ValidationResult.copy(block: com.google.home.platform.traits.ValidationResultKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ValidationResult { /* compiled code */ }
-

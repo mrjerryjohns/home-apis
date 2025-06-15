@@ -144,7 +144,8 @@ public object DishwasherAlarmTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(mask: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, latch: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, state: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, supported: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.DishwasherAlarmTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.DishwasherAlarmTrait.Attributes {
+        public open class AttributesImpl public constructor(mask: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, latch: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, state: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, supported: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.DishwasherAlarmTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.DishwasherAlarmTrait.Attributes {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.DishwasherAlarmTrait.Attributes.Adapter /* compiled code */
         }
@@ -175,7 +176,8 @@ public object DishwasherAlarmTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(mask: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, latch: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, state: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, supported: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.DishwasherAlarmTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.DishwasherAlarmTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(mask: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, latch: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, state: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, supported: com.google.home.matter.standard.DishwasherAlarmTrait.AlarmBitmap? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.matter.standard.DishwasherAlarmTrait.Feature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE):
+            com.google.home.matter.standard.DishwasherAlarmTrait.AttributesImpl { /* compiled code */ }
     }
 
     public object ResetCommand : com.google.home.CommandDescriptor {
@@ -270,4 +272,3 @@ public object DishwasherAlarmTrait {
         }
     }
 }
-

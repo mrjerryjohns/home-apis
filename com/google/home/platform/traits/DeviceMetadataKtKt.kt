@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun deviceMetadata(block: com.google.home.platform.traits.DeviceMetadataKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.DeviceMetadata { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.DeviceMetadata.copy(block: com.google.home.platform.traits.DeviceMetadataKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.DeviceMetadata { /* compiled code */ }
-

@@ -102,4 +102,3 @@ package com.google.home.automation
 @kotlin.jvm.JvmName public operator fun @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out java.time.Duration?>.minus(param0: com.google.home.automation.TypedExpression<out java.time.Duration?>): com.google.home.automation.TypedExpression<java.time.Duration> { /* compiled code */ }
 
 @kotlin.jvm.JvmName public operator fun @receiver:androidx.annotation.NonNull com.google.home.automation.TypedExpression<out java.time.Duration?>.minus(param0: java.time.Duration): com.google.home.automation.TypedExpression<java.time.Duration> { /* compiled code */ }
-

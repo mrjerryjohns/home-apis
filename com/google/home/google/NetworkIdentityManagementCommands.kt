@@ -24,4 +24,3 @@ public interface NetworkIdentityManagementCommands {
 
     public abstract fun getNetworkIdentityInformationBatchable(): com.google.home.BatchableCommand<com.google.home.google.NetworkIdentityManagementTrait.GetNetworkIdentityInformationCommand.Response>
 }
-

@@ -20,4 +20,3 @@ public object CompressionConfigKt {
         public final fun clearCompress(): kotlin.Unit { /* compiled code */ }
     }
 }
-

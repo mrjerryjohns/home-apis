@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun readOnlyAttribute(block: com.google.home.platform.traits.ReadOnlyAttributeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ReadOnlyAttribute { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ReadOnlyAttribute.copy(block: com.google.home.platform.traits.ReadOnlyAttributeKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ReadOnlyAttribute { /* compiled code */ }
-

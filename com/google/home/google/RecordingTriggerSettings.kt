@@ -93,4 +93,3 @@ public interface RecordingTriggerSettings : com.google.home.google.RecordingTrig
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

@@ -12,4 +12,3 @@ public interface FaultInjectionCommands {
 
     public abstract fun failRandomlyAtFaultBatchable(type: com.google.home.matter.standard.FaultInjectionTrait.FaultType, id: kotlin.UInt, percentage: kotlin.UByte): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

@@ -9,4 +9,3 @@ public val @receiver:androidx.annotation.NonNull com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun structFieldConstraint(block: com.google.home.platform.traits.StructFieldConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.StructFieldConstraint { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.StructFieldConstraint.copy(block: com.google.home.platform.traits.StructFieldConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.StructFieldConstraint { /* compiled code */ }
-

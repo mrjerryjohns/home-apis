@@ -74,4 +74,3 @@ public object SimplifiedOnOffTrait {
         public final fun copy(onOff: com.google.home.google.SimplifiedOnOffTrait.OnOffEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.SimplifiedOnOffTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

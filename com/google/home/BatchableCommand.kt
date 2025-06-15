@@ -8,4 +8,3 @@ package com.google.home
 
     public final val responseAdapter: com.google.home.matter.serialization.StructAdapter<RESPONSE>? /* compiled code */
 }
-

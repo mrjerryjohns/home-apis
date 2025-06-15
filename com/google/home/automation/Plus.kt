@@ -8,4 +8,3 @@ public final class Plus : com.google.home.automation.BinaryExpression {
 
     internal constructor(operand1: com.google.home.automation.Expression, operand2: com.google.home.automation.Expression, expressionId: kotlin.String) { /* compiled code */ }
 }
-

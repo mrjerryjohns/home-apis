@@ -6,4 +6,3 @@ package com.google.home.automation
 public interface DelayNodeDsl : com.google.home.automation.AutomationFlowContributor {
     public open fun delayFor(duration: java.time.Duration): kotlin.Unit { /* compiled code */ }
 }
-

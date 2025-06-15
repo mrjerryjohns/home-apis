@@ -60,4 +60,3 @@ public interface MediaPlaybackCommands {
 
     public abstract fun deactivateTextTrackBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

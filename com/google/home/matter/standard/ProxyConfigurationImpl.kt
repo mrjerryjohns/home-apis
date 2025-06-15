@@ -24,4 +24,3 @@ public final class ProxyConfigurationImpl public constructor(metadata: com.googl
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

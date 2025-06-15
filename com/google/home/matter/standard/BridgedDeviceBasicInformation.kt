@@ -463,4 +463,3 @@ public interface BridgedDeviceBasicInformation : com.google.home.matter.standard
         }
     }
 }
-

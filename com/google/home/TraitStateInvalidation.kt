@@ -6,4 +6,3 @@ package com.google.home
 public interface TraitStateInvalidation {
     public abstract suspend fun forceRead(): kotlin.Unit
 }
-

@@ -20,4 +20,3 @@ public interface LightEffectsCommands {
 
     public abstract fun stopEffectBatchable(): com.google.home.BatchableCommand<kotlin.Unit>
 }
-

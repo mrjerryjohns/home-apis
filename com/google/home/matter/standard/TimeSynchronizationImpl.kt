@@ -72,4 +72,3 @@ public final class TimeSynchronizationImpl public constructor(metadata: com.goog
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

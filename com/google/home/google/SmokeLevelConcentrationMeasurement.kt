@@ -99,4 +99,3 @@ public interface SmokeLevelConcentrationMeasurement : com.google.home.google.Smo
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

@@ -101,4 +101,3 @@ public interface RvcRunMode : com.google.home.matter.standard.RvcRunModeTrait.At
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

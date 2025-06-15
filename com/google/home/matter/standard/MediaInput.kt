@@ -113,4 +113,3 @@ public interface MediaInput : com.google.home.matter.standard.MediaInputTrait.At
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

@@ -181,4 +181,3 @@ public interface SelfTest : com.google.home.google.SelfTestTrait.Attributes, com
         }
     }
 }
-

@@ -338,4 +338,3 @@ public object ExtendedDoorLockTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

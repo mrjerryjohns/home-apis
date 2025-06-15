@@ -83,4 +83,3 @@ public interface UserLabel : com.google.home.matter.standard.UserLabelTrait.Attr
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

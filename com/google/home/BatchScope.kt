@@ -6,4 +6,3 @@ package com.google.home
 @com.google.home.annotation.HomeExperimentalApi public interface BatchScope {
     public abstract fun <T> add(batchable: com.google.home.Batchable<T>): com.google.home.DeferredResponse<T>
 }
-

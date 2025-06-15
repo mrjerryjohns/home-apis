@@ -83,4 +83,3 @@ public interface CommunicationVideoCall : com.google.home.google.CommunicationVi
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

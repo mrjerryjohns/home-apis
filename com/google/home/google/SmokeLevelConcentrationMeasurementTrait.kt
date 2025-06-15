@@ -146,4 +146,3 @@ public object SmokeLevelConcentrationMeasurementTrait {
         public final fun copy(measurementUnit: com.google.home.google.SmokeLevelConcentrationMeasurementTrait.MeasurementUnit? = COMPILED_CODE, measuredValue: kotlin.Int? = COMPILED_CODE, levelValue: com.google.home.google.SmokeLevelConcentrationMeasurementTrait.ConcentrationLevel? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.SmokeLevelConcentrationMeasurementTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

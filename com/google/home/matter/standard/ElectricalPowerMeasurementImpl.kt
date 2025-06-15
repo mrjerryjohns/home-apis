@@ -62,4 +62,3 @@ public final class ElectricalPowerMeasurementImpl public constructor(metadata: c
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

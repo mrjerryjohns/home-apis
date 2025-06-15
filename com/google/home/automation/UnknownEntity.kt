@@ -12,4 +12,3 @@ public final class UnknownEntity public constructor(id: com.google.home.Id = COM
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

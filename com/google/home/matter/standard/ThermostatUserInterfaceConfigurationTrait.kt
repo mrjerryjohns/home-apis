@@ -92,7 +92,8 @@ public object ThermostatUserInterfaceConfigurationTrait {
         public abstract val clusterRevision: kotlin.UShort
     }
 
-    public open class AttributesImpl public constructor(temperatureDisplayMode: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.TemperatureDisplayModeEnum? = COMPILED_CODE, keypadLockout: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.KeypadLockoutEnum? = COMPILED_CODE, scheduleProgrammingVisibility: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.ScheduleProgrammingVisibilityEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) : com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.Attributes, com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.MutableAttributes> {
+        public open class AttributesImpl public constructor(temperatureDisplayMode: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.TemperatureDisplayModeEnum? = COMPILED_CODE, keypadLockout: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.KeypadLockoutEnum? = COMPILED_CODE, scheduleProgrammingVisibility: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.ScheduleProgrammingVisibilityEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE) :
+        com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.Attributes, com.google.home.matter.serialization.CanMutate<com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.Attributes, com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.MutableAttributes> {
         public companion object {
             public final val Adapter: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.Attributes.Adapter /* compiled code */
         }
@@ -123,7 +124,8 @@ public object ThermostatUserInterfaceConfigurationTrait {
 
         public open fun toString(): kotlin.String { /* compiled code */ }
 
-        public final fun copy(temperatureDisplayMode: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.TemperatureDisplayModeEnum? = COMPILED_CODE, keypadLockout: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.KeypadLockoutEnum? = COMPILED_CODE, scheduleProgrammingVisibility: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.ScheduleProgrammingVisibilityEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.AttributesImpl { /* compiled code */ }
+                public final fun copy(temperatureDisplayMode: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.TemperatureDisplayModeEnum? = COMPILED_CODE, keypadLockout: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.KeypadLockoutEnum? = COMPILED_CODE, scheduleProgrammingVisibility: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.ScheduleProgrammingVisibilityEnum? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: kotlin.UInt = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE):
+            com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.AttributesImpl { /* compiled code */ }
     }
 
     public final class MutableAttributes public constructor(attributes: com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.Attributes) : com.google.home.matter.standard.ThermostatUserInterfaceConfigurationTrait.AttributesImpl {
@@ -159,4 +161,3 @@ public object ThermostatUserInterfaceConfigurationTrait {
         public open fun toString(): kotlin.String { /* compiled code */ }
     }
 }
-

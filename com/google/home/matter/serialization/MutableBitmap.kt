@@ -8,4 +8,3 @@ public final class MutableBitmap public constructor(value: kotlin.ULong = COMPIL
 
     public final operator fun set(flag: kotlin.ULong, value: kotlin.Boolean): kotlin.Unit { /* compiled code */ }
 }
-

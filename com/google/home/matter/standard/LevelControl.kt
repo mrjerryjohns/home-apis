@@ -243,4 +243,3 @@ public interface LevelControl : com.google.home.matter.standard.LevelControlTrai
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

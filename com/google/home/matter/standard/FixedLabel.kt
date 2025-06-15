@@ -83,4 +83,3 @@ public interface FixedLabel : com.google.home.matter.standard.FixedLabelTrait.At
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

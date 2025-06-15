@@ -12,4 +12,3 @@ public final class ManualStarter : com.google.home.automation.Node {
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

@@ -27,4 +27,3 @@ public object VoiceStarterTraitEventKt {
         public final fun clearEvent(): kotlin.Unit { /* compiled code */ }
     }
 }
-

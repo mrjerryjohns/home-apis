@@ -12,4 +12,3 @@ public final class EnumConstraint<T : kotlin.Enum<*>> public constructor(allowed
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

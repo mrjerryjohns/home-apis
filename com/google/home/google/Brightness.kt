@@ -97,4 +97,3 @@ public interface Brightness : com.google.home.google.BrightnessTrait.Attributes,
         public final val tag: kotlin.UInt /* compiled code */
     }
 }
-

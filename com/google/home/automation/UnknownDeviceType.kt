@@ -21,4 +21,3 @@ public final class UnknownDeviceType public constructor(metadata: com.google.hom
         public open val traits: kotlin.collections.List<com.google.home.TraitFactory<*>> /* compiled code */
     }
 }
-

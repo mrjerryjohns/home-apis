@@ -37,4 +37,3 @@ public final data class ClusterId public constructor(value: kotlin.UInt, traitNa
 
     public open fun hashCode(): kotlin.Int { /* compiled code */ }
 }
-

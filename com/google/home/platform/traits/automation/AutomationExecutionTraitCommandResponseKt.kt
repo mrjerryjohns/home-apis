@@ -35,4 +35,3 @@ public object AutomationExecutionTraitCommandResponseKt {
         public final fun clearResponse(): kotlin.Unit { /* compiled code */ }
     }
 }
-

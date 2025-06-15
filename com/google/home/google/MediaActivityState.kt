@@ -83,4 +83,3 @@ public interface MediaActivityState : com.google.home.google.MediaActivityStateT
         public final val isNullable: kotlin.Boolean /* compiled code */
     }
 }
-

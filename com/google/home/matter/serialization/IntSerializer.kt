@@ -8,4 +8,3 @@ public object IntSerializer : com.google.home.matter.serialization.ValueSerializ
 
     public open fun deserialize(valueProto: com.google.home.platform.traits.Value): kotlin.Int { /* compiled code */ }
 }
-

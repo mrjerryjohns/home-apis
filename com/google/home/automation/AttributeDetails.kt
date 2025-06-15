@@ -14,4 +14,3 @@ public final class AttributeDetails public constructor(name: kotlin.String, isOp
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

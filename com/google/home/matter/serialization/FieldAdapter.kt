@@ -25,4 +25,3 @@ public interface FieldAdapter<RAW : kotlin.Any, RUNTIME : kotlin.Any> {
 
     public abstract fun toRuntime(value: RAW): RUNTIME
 }
-

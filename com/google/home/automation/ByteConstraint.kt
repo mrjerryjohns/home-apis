@@ -14,4 +14,3 @@ public final class ByteConstraint public constructor(minLength: kotlin.UInt?, ma
 
     public open fun toString(): kotlin.String { /* compiled code */ }
 }
-

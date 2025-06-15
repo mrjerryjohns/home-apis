@@ -12,4 +12,3 @@ public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.NotificationTrait.SendNotificationsCommandResponse.copy(block: com.google.home.platform.traits.NotificationTraitKt.SendNotificationsCommandResponseKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.NotificationTrait.SendNotificationsCommandResponse { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.NotificationTrait.User.copy(block: com.google.home.platform.traits.NotificationTraitKt.UserKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.NotificationTrait.User { /* compiled code */ }
-

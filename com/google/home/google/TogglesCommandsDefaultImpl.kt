@@ -8,4 +8,3 @@ public interface TogglesCommandsDefaultImpl : com.google.home.google.TogglesComm
 
     public open fun changeToggleSettingsBatchable(updatedToggleSettings: kotlin.collections.List<com.google.home.google.TogglesTrait.ToggleSetting>): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

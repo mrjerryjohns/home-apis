@@ -25,4 +25,3 @@ public final class SmartHomeDeviceTrait public constructor() {
     public final class MutableAttributes public constructor(attributes: com.google.home.google.SmartHomeDeviceTrait.Attributes) : com.google.home.google.SmartHomeDeviceTrait.AttributesImpl {
     }
 }
-

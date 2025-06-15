@@ -32,4 +32,3 @@ public interface NetworkCommissioningCommands {
 
     public abstract fun queryIdentityBatchable(keyIdentifier: kotlin.ByteArray, optionalArgs: com.google.home.matter.standard.NetworkCommissioningTrait.QueryIdentityCommand.OptionalArgs.() -> kotlin.Unit = COMPILED_CODE): com.google.home.BatchableCommand<com.google.home.matter.standard.NetworkCommissioningTrait.QueryIdentityCommand.Response>
 }
-

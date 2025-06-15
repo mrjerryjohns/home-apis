@@ -126,4 +126,3 @@ public object CommunicationCallTrait {
         public final fun copy(communicationCallState: com.google.home.google.CommunicationCallTrait.CommunicationCallState? = COMPILED_CODE, generatedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, acceptedCommandList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, attributeList: kotlin.collections.List<kotlin.UInt> = COMPILED_CODE, featureMap: com.google.home.google.CommunicationCallTrait.CommunicationCallFeature = COMPILED_CODE, clusterRevision: kotlin.UShort = COMPILED_CODE): com.google.home.google.CommunicationCallTrait.AttributesImpl { /* compiled code */ }
     }
 }
-

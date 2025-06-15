@@ -12,4 +12,3 @@ public interface ContentLauncherCommands {
 
     public abstract fun launchUrlBatchable(contentUrl: kotlin.String, optionalArgs: com.google.home.matter.standard.ContentLauncherTrait.LaunchUrlCommand.OptionalArgs.() -> kotlin.Unit = COMPILED_CODE): com.google.home.BatchableCommand<com.google.home.matter.standard.ContentLauncherTrait.LaunchUrlCommand.Response>
 }
-

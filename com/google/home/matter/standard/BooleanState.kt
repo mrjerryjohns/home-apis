@@ -135,4 +135,3 @@ public interface BooleanState : com.google.home.matter.standard.BooleanStateTrai
         }
     }
 }
-

@@ -20,4 +20,3 @@ public object ExpressionTypeCheckingIssueKt {
         public final fun clearMessage(): kotlin.Unit { /* compiled code */ }
     }
 }
-

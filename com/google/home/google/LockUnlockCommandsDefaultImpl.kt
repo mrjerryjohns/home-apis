@@ -12,4 +12,3 @@ public interface LockUnlockCommandsDefaultImpl : com.google.home.google.LockUnlo
 
     public open fun unlockBatchable(followUpToken: kotlin.String): com.google.home.BatchableCommand<kotlin.Unit> { /* compiled code */ }
 }
-

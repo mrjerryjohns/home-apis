@@ -227,4 +227,3 @@ public object SampleMeiTrait {
         }
     }
 }
-

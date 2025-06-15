@@ -18,4 +18,3 @@ public final class MatterError public constructor(code: kotlin.Int, message: kot
 
     public open operator fun equals(other: kotlin.Any?): kotlin.Boolean { /* compiled code */ }
 }
-

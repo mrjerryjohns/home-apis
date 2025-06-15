@@ -6,4 +6,3 @@ package com.google.home.platform.traits
 @kotlin.jvm.JvmName public inline fun byteConstraint(block: com.google.home.platform.traits.ByteConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ByteConstraint { /* compiled code */ }
 
 public inline fun @receiver:androidx.annotation.NonNull com.google.home.platform.traits.ByteConstraint.copy(block: com.google.home.platform.traits.ByteConstraintKt.Dsl.() -> kotlin.Unit): com.google.home.platform.traits.ByteConstraint { /* compiled code */ }
-
